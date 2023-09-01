@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "_custom/coldest/card"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 180, 45],
+			"translation": [-2.25, 1.25, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [15, 0, 135],
+			"translation": [-2.25, 1.25, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [10, -30, 0],
+			"translation": [0.5, 1.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10, -30, 0],
+			"translation": [0.5, 1.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 0.5, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"gui": {
+			"translation": [0, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, 5.5, 0]
+		},
+		"fixed": {
+			"translation": [0, -2.5, 0]
+		}
+	}
+}

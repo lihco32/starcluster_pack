@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "_custom/coldest/skelesword_better"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 7.25, 1.75],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 7.25, 1.75],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-37, -76, 0],
+			"translation": [3, 5.25, -1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-31, 80, 2],
+			"translation": [4.5, 4.25, -1.75]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"scale": [0.97, 0.97, 0.97]
+		},
+		"head": {
+			"rotation": [180, -47, -16],
+			"translation": [-2, 9.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"scale": [1.15, 1.15, 1.15]
+		}
+	}
+}

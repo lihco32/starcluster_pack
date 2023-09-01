@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glass_bottle"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 1005460 }, "model": "_custom/lihco/alco/stakan_cidr" },
+	{ "predicate": { "custom_model_data": 1005461 }, "model": "_custom/lihco/alco/stakan_pyvo" },
+	{ "predicate": { "custom_model_data": 1005462 }, "model": "_custom/lihco/alco/stakan_berry" },
+	{ "predicate": { "custom_model_data": 1005463 }, "model": "_custom/lihco/alco/stakan_dark_pyvo" },
+	{ "predicate": { "custom_model_data": 1005464 }, "model": "_custom/lihco/alco/stakan_kvas" },
+	{ "predicate": { "custom_model_data": 1005465 }, "model": "_custom/lihco/alco/stakan_ink" },
+	{ "predicate": { "custom_model_data": 1005466 }, "model": "_custom/lihco/alco/stakan_water" },
+	{ "predicate": { "custom_model_data": 1005467 }, "model": "_custom/lihco/alco/stakan_empty" }
+  ]
+}

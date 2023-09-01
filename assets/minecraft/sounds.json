@@ -1,0 +1,145 @@
+{
+	"entity.creeper.primed": {
+		"subtitle": "§a§lКріпер шипить",
+		"replace": true,
+		"sounds": [
+			"random/fuse"
+		]
+
+	},
+	"coldest.passive_alarm": {
+		"subtitle": "Звук сирени",
+		"sounds": ["coldest/quiet_alarm"]
+	},
+	"coldest.spikes": {
+		"subtitle": "Шипи",
+		"sounds": [
+			{"name": "coldest/spikes1","weight": 1},
+			{"name": "coldest/spikes2","weight": 1},
+			{"name": "coldest/spikes3","weight": 1}
+		]
+	},
+	"coldest.glow": {
+		"subtitle": "",
+		"sounds": ["coldest/glow"]
+	},
+	"coldest.door_break": {
+		"subtitle": "Виламування дверей",
+		"sounds": ["coldest/door_break"]
+	},
+	"coldest.shunpo": {
+		"subtitle": "......",
+		"sounds": ["coldest/shunpo"]
+	},
+	"coldest.ice_crinkle": {
+		"subtitle": "Лід хрустить",
+		"sounds": ["coldest/ice_crinkle"]
+	},
+	"coldest.blizzard": {
+		"subtitle": "Завірюха",
+		"sounds": [
+			{"name": "coldest/blizzard1","weight": 1},
+			{"name": "coldest/blizzard2","weight": 1},
+			{"name": "coldest/blizzard3","weight": 1}
+		]
+	},
+	"coldest.ice_spike": {
+		"subtitle": "Хрускіт криги",
+		"sounds": [
+			{"name": "coldest/ice_spike1","weight": 1},
+			{"name": "coldest/ice_spike2","weight": 1}
+		]
+	},
+	"coldest.ice_spikes_fade_in": {
+		"subtitle": "Хрускіт криги",
+		"sounds": ["coldest/ice_spikes_fade_in"]
+	},
+	"coldest.charging": {
+		"sounds": ["coldest/charging"]
+	},
+	"coldest.deep_blue": {
+		"sounds": ["coldest/deep_blue"]
+	},
+	"coldest.angel_charge": {
+		"subtitle": "Зарядження атаки",
+		"sounds": ["coldest/angel_charge"]
+	},
+	"coldest.angel_attack": {
+		"subtitle": "Вибух",
+		"sounds": ["coldest/angel_attack"]
+	},
+	"coldest.sword_fly": {
+		"subtitle": "Рух мечем",
+		"sounds": [
+			{"name": "coldest/sword_fly1","weight": 1},
+			{"name": "coldest/sword_fly2","weight": 1}
+		]
+	},
+	"coldest.grave_break": {
+		"subtitle": "Поява могили",
+		"sounds": ["coldest/grave_break"]
+	},
+	"coldest.wavering": {
+		"sounds": ["coldest/wavering"]
+	},
+	"coldest.ominous": {
+		"sounds": ["coldest/ominous"]
+	},
+	"coldest.blood": {
+		"subtitle": "Сплески крові",
+		"sounds": [
+			{"name": "coldest/blood1","weight": 1},
+			{"name": "coldest/blood2","weight": 1},
+			{"name": "coldest/blood3","weight": 1}
+		]
+	},
+	"coldest.fire": {
+		"sounds": ["coldest/fire"]
+	},
+	"coldest.fire_explosion": {
+		"sounds": ["coldest/fire_explosion"]
+	},
+	"coldest.contain_success": {
+		"sounds": ["coldest/contain_success"]
+	},
+	"coldest.block_move": {
+		"sounds": ["coldest/block_move"]
+	},
+	"coldest.block_move_slow": {
+		"sounds": ["coldest/block_move_slow"]
+	},
+	"coldest.lamp": {
+		"sounds": [
+			{"name": "coldest/lamp1","weight": 1},
+			{"name": "coldest/lamp2","weight": 1},
+			{"name": "coldest/lamp3","weight": 1},
+			{"name": "coldest/lamp4","weight": 1},
+			{"name": "coldest/lamp5","weight": 1},
+			{"name": "coldest/lamp6","weight": 1},
+			{"name": "empty","weight": 40}
+		]
+	},
+	"coldest.lamp_often": {
+		"sounds": [
+			{"name": "coldest/lamp1","weight": 1},
+			{"name": "coldest/lamp2","weight": 1},
+			{"name": "coldest/lamp3","weight": 1},
+			{"name": "coldest/lamp4","weight": 1},
+			{"name": "coldest/lamp5","weight": 1},
+			{"name": "coldest/lamp6","weight": 1},
+			{"name": "empty","weight": 20}
+		]
+	},
+	"coldest.train": {
+		"sounds": ["coldest/train"]
+	},
+	"coldest.trainbell_stereo": {
+		"sounds": ["coldest/trainbell_stereo"]
+	},
+	"coldest.garage_door": {
+		"sounds": ["coldest/garage_door"]
+	},
+	"sc_fireworks.beep": {
+		"sounds": ["sc_fireworks/beep"]
+	}
+}

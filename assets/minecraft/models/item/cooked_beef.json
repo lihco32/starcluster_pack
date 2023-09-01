@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_beef"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data": 352351},"model": "_custom/smirnoveta/food/kanapka"},
+		{"predicate": {"custom_model_data": 352352},"model": "_custom/smirnoveta/food/barbecue"},
+		{"predicate": {"custom_model_data": 352353},"model": "_custom/yayaslavs/sushi"},
+        	{"predicate": {"custom_model_data": 352354},"model": "_custom/lihco/food/pizza"}
+	]
+}

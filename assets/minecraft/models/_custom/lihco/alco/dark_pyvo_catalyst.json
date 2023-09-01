@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "_custom/alco/dark_pyvo_catalyst"
+  }
+}

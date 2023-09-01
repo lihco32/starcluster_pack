@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/ink_catalyst"},
+        {"predicate": {"custom_model_data": 19},"model": "_custom/scp/plague_doctor"},
+	{"predicate": {"custom_model_data": 20},"model": "_custom/lihco/lazer_base"},
+	{"predicate": {"custom_model_data": 21},"model": "_custom/lihco/lazer_head"}
+    ]
+}

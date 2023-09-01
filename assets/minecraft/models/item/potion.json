@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 1005452 }, "model": "_custom/smirnoveta/food/tomatojuice" },
+	{ "predicate": { "custom_model_data": 1005453 }, "model": "_custom/lihco/food/plum_jam" },
+        { "predicate": { "custom_model_data": 1005454 }, "model": "_custom/lihco/alco/cidr" },
+        { "predicate": { "custom_model_data": 1005455 }, "model": "_custom/lihco/alco/pyvo" },
+        { "predicate": { "custom_model_data": 1005456 }, "model": "_custom/lihco/alco/berry_drink" },
+	{ "predicate": { "custom_model_data": 1005457 }, "model": "_custom/lihco/alco/dark_pyvo" },
+        { "predicate": { "custom_model_data": 1005458 }, "model": "_custom/lihco/alco/ink_alco" },
+        { "predicate": { "custom_model_data": 1005459 }, "model": "_custom/lihco/alco/kvas" },
+	{ "predicate": { "custom_model_data": 1005460 }, "model": "_custom/smirnoveta/food/coffee" }
+    ]
+}

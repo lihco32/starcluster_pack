@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "_custom/coldest/healing_staff_dead"
+    }
+}

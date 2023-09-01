@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 694193},"model": "_custom/lihco/feather_sword"},
+	{"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
+	{"predicate": {"custom_model_data": 694197},"model": "_custom/scp/dualkatana"},
+	{ "predicate": { "custom_model_data": 694202 }, "model": "_custom/lihco/rapier" },
+	{ "predicate": { "custom_model_data": 694204 }, "model": "_custom/lihco/sanemi_sword" },
+	{ "predicate": { "custom_model_data": 694205 }, "model": "_custom/lihco/yaoi_sword" },
+	{ "predicate": { "custom_model_data": 694206 }, "model": "_custom/lihco/lihco_sword" },
+	{ "predicate": { "custom_model_data": 694207 }, "model": "_custom/lihco/blue_sword" }
+  ]
+}

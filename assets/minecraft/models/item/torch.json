@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/torch"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 223 }, "model": "_custom/yayaslavs/lamp" }
+    ]
+}

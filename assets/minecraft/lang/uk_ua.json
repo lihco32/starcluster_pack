@@ -1,0 +1,4536 @@
+﻿{
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language: Ukrainian
+# Author: PurpleBear, WhiteBear60
+# Pack version supported: 1.13
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 (including the 1.4 update) will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+
+"Adventuring Time": "Час пригод",
+"Discover every biome": "Досліди кожен біом",
+
+"Boaty McBoatface": "Морячок",
+"Craft a boat for sailing on the high seas": "Створи човен, щоб підкоряти океани",
+
+"Hired Help": "Наймана праця",
+"Summon an Iron Golem to help defend a village": "Створи Залзіного голема для охорони поселень",
+
+"Cold Feet": "Холоднокровний",
+"Discover every cold biome": "Досліди всі холодні біоми",
+
+"Disc Jockey": "Діджей",
+"Collect all 12 music discs": "Збери всі 12 музичних платівок",
+
+"Do You Want to Trade?": "Не бажаєте поторгуватись?",
+"Find an NPC village": "Знайди поселення",
+
+"Dry Spell": "Сушка",
+"Dry a sponge in a furnace": "Висуши губку у печі",
+
+"Filthy Rich": "Багата людина",
+"Make 64 emeralds": "Отримай 64 смарагди",
+
+"Filthy Stinkin' Rich": "Повелитель селян",
+"Make 64 emerald blocks": "Отримай 64 смарагдових блоки",
+
+"Flower Power": "Сила квітнику",
+"Collect all types of flowers": "Збери всі види квітів",
+
+"Ghostbuster!": "Мисливець за привидами",
+"Bust a Vex summoned by an Evoker": "Вбий бісика, викликаного заклиначем",
+
+"Grave Robber": "Розкрадач гробниць",
+"Enter a pyramid in a desert": "Увійди в пустельну піраміду",
+
+"Heeere's Johnny!": "А ось і Джонні!",
+"Kill a Vindicator": "Вбий поборника",
+
+"House of Psychos": "Маєток психів",
+"Find a Woodland Mansion": "Знайди лісовий маєток",
+
+"I hereby dub thee...": "Я нарікаю тебе...",
+"Obtain a name tag": "...здобувачем ярлика",
+
+"Just Keep Swimming": "Уроки плавання",
+"Go for a swim": "Просто продовжуй плисти за течією",
+
+"Kilometre Walk": "Кілометрова пробіжка",
+"It's not that far in real life": "Це не так вже й далеко у реальному житті",
+
+"Laser Sharks!": "Лазерні акули!",
+"Defeat a Guardian": "Вбий вартового",
+
+"Magic Book": "Незвичайна книга",
+"Trade for an Enchanted Book": "Обміняйте смарагди на зачаровану книгу",
+
+"Mapmaker": "Картограф",
+"Craft or trade an empty map": "Створи або купи порожню мапу",
+
+"Monumental": "Забутий пам'ятник глибин",
+"Find an Ocean Monument": "Знайди підводну фортецю",
+
+"Music To My Ears": "Музика для моїх вух",
+"Find a music disc": "Знайди платівку",
+
+"One with the forest": "Поклик природи",
+"Discover every forest biome": "Досліди всі лісові біоми",
+
+"Overgrown!": "Великий Степ!",
+"Discover every overgrown biome": "Досліди всі рівнинні біоми",
+
+"Overpowered": "Максимальна енергія",
+"Obtain a Notch Apple": "Отримай яблуко Нотча",
+
+"Postmortal": "Реанімація",
+"Use a Totem of Undying to cheat death": "Використай тотем безсмертя, щоб обдурити смерть",
+
+"Adventure": "Пригоди",
+"Adventure and exploration": "Незабутня подорож",
+
+"Snow Feet": "Снігова людина",
+"Discover every snowy biome": "Досліди всі засніжені біоми",
+
+"Spear Fishing": "Гарпунер",
+"Kill a Guardian with arrows": "Вбий вартового за допомогою лука і стріл",
+
+"Tarzan": "Тарзан",
+"Swing (or climb) on some vines": "Вилізь на ліану",
+
+"Ten Thousand Blocks": "Десять тисяч блоків",
+"A journey that long begins with a single step": "Подорож, яка почалася всього лиш з одного кроку",
+
+"The Deep End": "На дно!",
+"Defeat an Elder Guardian": "Вбий давнього вартового",
+
+"The Shielding": "Оборона",
+"A shield does no better than a locked door": "Це трохи краще, ніж замкнені двері. Чи ні?",
+
+"This is Mine Now!": "Хитродупий шахтар",
+"Find an abandoned mineshaft that was not dug out by you": "Знайди закинуту шахту",
+
+"Tomb Raider": "Індіана Джонс",
+"Enter a jungle temple": "Увійди у храм джунглів",
+
+"Treasure Map": "Мапа скарбів",
+"Trade for an Explorer Map": "Обміняйте смарагди на мапу",
+
+"Voyage": "Вояж",
+"A hundred kilometres!": "Одна сотня кілометрів!",
+
+"Warm Feet": "Сім потів",
+"Discover every dry biome": "Досліди всі сухі біоми",
+
+"Wet Feet": "Приємний бриз",
+"Discover every water biome": "Досліди всі водяні біоми",
+
+"What a Deal!": "Заморський купець",
+"Successfully trade with a Villager": "Успішно поторгуй з селянином",
+
+"Witchcraft": "Відьми! Вони реальні!",
+"Find a witch hut in a swamp": "Знайди відьомський будинок в болотному біомі",
+
+"Wololo!": "Експекто Патронум",
+"Defeat an Evoker": "Вбий Заклинача",
+
+
+
+
+
+# Building tab as of 1.3
+"A Masterpiece!": "Шедевр",
+"Put up a painting": "Намалюйте картину",
+
+"Ah, My Old Enemy...": "Ох, мій старий ворог...",
+"Craft every type of stairs": "Створи сходи всіх видів",
+
+"Benchmarking": "Друг ремісника",
+"Construct a crafting bench with four wooden planks": "Збери верстак з чотирьох дошок",
+
+"Bricks!": "Цегла!",
+"Fire up that clay!": "Запали уже цю глину!",
+
+"Change of Sheets": "Дизайнерське рішення",
+"Dye your bed a different color than white": "Білі ніки для ботів, білі ліжка для лілок",
+
+"Classy Glassy": "Максимальна прозорість",
+"Smelt sand in a furnace to get glass": "Переплав пісок в печі, щоб отримати скло",
+
+"Clay-Dough!": "Гончарна справа",
+"Dig up some clay from a lake": "Отримай трохи глини в одному з водоймищ",
+
+"Concrete Evidence": "Водна магія",
+"Create concrete from concrete powder by dropping it into water": "Створи бетон, розмістивши цемент у воді",
+
+"Creepers and Withers": "Кріпери і висушувачі",
+"Engrave sandstone with creeper and wither patterns": "Створіть різьблений пісковик з малюнками кріпера і висушувача",
+
+"Display your items for all to see...": "Показати всьому світу",
+"Craft an item frame for displaying your items": "Створи рамку для предметів",
+
+"Electric!": "Електрифікація",
+"Light up the area with some redstone lamps": "Освіти територію редстоуновими ліхтарями",
+
+"En Garde": "Садовий паркан",
+"Erect some fencing": "Розмісти декілька огорож",
+
+"Expensive!": "Дороге задоволення",
+"Light up the area with some sea lanterns": "Освіти територію морськими ліхтарями",
+
+"Fake fortress": "Будуймо пекельну Фортецю",
+"Craft or collect all forms of nether brick, red nether brick, and nether wart blocks": "Збери всі блоки пекельної та червоної пекельної цегли (не забудьте про блок наросту)",
+
+"Fake monument": "Будуймо підводну Фортецю",
+"Craft or collect all forms of prismarine blocks": "Створи або збери всі види призмаринових блоків",
+
+"Fake stronghold": "Будуймо підземну Фортецю",
+"Craft or collect normal, cracked, mossy and chiseled stone bricks": "Створи або збери всі типи кам'яної цегли",
+
+"Fluorescent!": "Люмінесцентність",
+"Light up the area with some end rods": "Освіти територію стрижнями Енду",
+
+"Getting Wood": "Лісоруб і без сокири лісоруб",
+"Attack a tree until a block of wood pops out": "Бий дерево, поки воно не зламається",
+
+"Glowing!": "Сяйво!",
+"Light up the area with glowstone": "Освіти територію світлокаменем",
+
+"Greek Art Decor": "Класичний стиль",
+"Craft quartz blocks, stairs, slabs, pillars and chiseled": "Створи кварцовий блок, плиту, сходинки, колону і різьблений кварцовий блок",
+
+"Halloween!": "Хелловін!",
+"Light up the area with jack o'lanterns!": "Освіти територію світильниками Джека",
+
+"It's a Sign!": "Це табличка!",
+"Craft and place a sign": "Створи і постав табличку",
+
+"It's a Trap!": "Дивись під ноги!",
+"Craft and place down a trapdoor": "Створи і постав люк",
+
+"Jailhouse Block": "Тюремні вікна",
+"Craft or find iron bars": "Створи або знайди залізні ґрати",
+
+"Ladder Climbers Inc.": "Ще вище!",
+"Climb the ladder!": "Піднімись драбиною",
+
+"Mannequin": "Манекен",
+"Craft an armor stand for displaying your armor": "Створи стійку для броні, щоб хизуватися нею",
+
+"Master Logger": "Майстер лісорубства",
+"Cut down a full stack of logs of all types": "Зрубай по стаку кожного виду деревини",
+
+"Pathways": "Щоб не загубитися",
+"Use a shovel to create grass paths": "Використай лопату для створення стежок",
+
+"Pot Planter": "Майстер горщиків",
+"Craft and place a flower pot": "Створи і постав квітковий горщик",
+
+"Rainbow Sand": "Веселковий пісок",
+"Craft concrete powder using sand, gravel and dye": "Створи цемент, використовуючи пісок, гравій та барвник",
+
+"Raise the flag!": "Підняти прапори!",
+"Craft and place a banner": "Створи і постав стяг",
+
+"Rock Collection": "Колекція камінчиків",
+"Collect all the types of rocks": "Збери всі види каменю",
+
+"Building": "Будівництво",
+"Your only limit is your imagination... and resources": "Тільки уява тебе зупинить... і ресурси",
+
+"Slabs For Days": "По плитці на кожен день",
+"Craft every type of slab": "Створи напівблок кожного виду",
+
+"Stationary Storage": "Стаціонарне сховище",
+"Craft and place down a chest for storing your items": "Створи і постав скриню для зберігання речей",
+
+"Sweet dreams": "Спи, моя радість, засни...",
+"Change your respawn point": "Зміни точку відродження",
+
+"The Glazed Terracotta Army": "Мистецтво візерунків",
+"Craft all 16 colors of glazed terracotta": "Створи всі 16 видів порцеляни",
+
+"The Rainbow You Always Wanted": "Веселка, про яку всі мріють",
+"Craft all 16 colors of concrete": "Створи всі 16 кольорів бетону",
+
+"The Terracotta Army": "Теракотова армія",
+"Craft all 16 colors of terracotta (stained clay)": "Створи всі 16 видів керамічних блоків",
+
+"The Walls": "Нубська стіна",
+"Build some cobblestone walls": "Створи стінку з кругляку",
+
+"Torched!": "Запалимо!",
+"Light up the area with some torches": "Освіти територію смолоскипами",
+
+"Translucence": "Просвічування",
+"Craft all 16 colors of stained glass": "Створи всі 16 видів різнобарвного скла",
+
+"What a pane": "Дуже тонко і прозоро",
+"Craft some glass panes": "Створи скляні панелі",
+
+"Yay! I got my wood!": "Лісоруб-колекціонер",
+"Collect all six types of wood": "Збери всі шість видів колод",
+
+"Your Door Was Locked": "Ваші двері були замкнені",
+"Craft a door to stop monsters from entering your house": "Створи двері, щоб нечисть не пробралась у ваш будинок",
+
+
+
+# Combat tab as of 1.3
+"Blast Shield": "Надійний захист",
+"Survive a creeper's blast with your shield": "Переживи вибух кріпера, прикрившись щитом",
+
+"Bombs Away!": "Вибуховий привіт",
+"Use gunpowder and sand to craft TNT": "Використай порох і пісок для створення динаміту",
+
+"Bow Spammer": "Кулеметник",
+"Attack a mob by bow-spamming": "Атакуй моба за допомогою швидкої стрільби",
+
+"Creepy Heads": "Кріпові голови",
+"Blow up a creeper with a charged creeper to get a creeper head": "Підірви кріпера зарядженим кріпером, щоб отримати його голову",
+
+"Dead Don't Die": "Мертві не помирають",
+"Kill a zombie": "Убий зомбі",
+
+"Desert Nomad": "Піщана аномалія",
+"Kill a husk": "Убий висушня",
+
+"Dungeon Crawler": "Експерт по данжам",
+"Defeat all kinds of mobs from special structures": "Убий всіх мобів, що зустрічаються в данжах",
+
+"Egging, Dude!": "Яєчний вандалізм",
+"Vandalise something with eggs": "Закидай кого-небудь яйцями",
+
+"Ender Worm": "Ендер-хробак",
+"Prevent an endermite from maturing": "Не дай ендерміту вирости",
+
+"Barbearian": "Ескімос",
+"It may be illegal to hunt polar bears in real life, but not in Minecraft": "Полювати на білих ведмедів в реальному житті незаконно, але це ж Майнкрафт",
+
+"Ew Ew Ew!": "Фу-фу-фу",
+"Kill a spider": "Вбий павука",
+
+"Fireworks Display": "Ура! Феєрверки",
+"Use gunpowder and paper to craft fireworks": "Використай порох і папір для створення феєрверків",
+
+"Frosty": "Морозні кістки",
+"Kill a stray": "Убий примару. Це привид, що має кістки, унікальний тип нежиті.",
+
+"Gelatinous Cube": "Желатиновий куб",
+"Kill a slime": "Убий слимака",
+
+"Hell Hunter": "Думгай",
+"Defeat all kinds of Nether mobs": "Убий всіх мобів, які живуть у пеклі",
+
+"Iron Belly": "Залізний шлунок",
+"Stop starvation using rotten flesh": "Зупини голод за допомогою гнилої плоті",
+
+"Leader of the Pack": "Посланець Лапокраю",
+"Befriend a wolf": "Доведи вовку, що ти вартий його довіри",
+
+"Keep Your Distance": "Стоунвудський снайпер",
+"Kill a Creeper with arrows": "Застрель кріпера з лука, сидячи на даху млина без вітряка та розмірковуючи про вічне",
+
+"Monster Hunter": "Мисливець на монстрів",
+"Kill any hostile monster": "Убий монстра",
+
+"Monsters Hunted": "Геноцид заради добра",
+"Kill one of every hostile monster": "Убий кожного ворожого монстра",
+
+"Night Runner": "Нічний мисливець",
+"Defeat all kinds of Overworld night mobs": "Убий всіх нічних монстрів звичайного світу",
+
+"Not Today, Thank You": "Не сьогодні, дякую",
+"Deflect an arrow with a shield": "Відбий стрілу щитом",
+
+"Plane Walker": "Міжпросторове полювання",
+"Kill endermen in all three dimensions": "Убий ендермена в усіх трьох світах",
+
+"Point Blank": "Нащо цілитись?",
+"Shoot a mob from point-blank range": "Вистріли в моба з дуже близької відстані",
+
+"Poisonous Ew": "Отруйне фу",
+"Kill a cave spider": "Убий печерного павука",
+
+"Combat": "Військова кампанія",
+"Battle against the monsters of this world": "Знищи монстрів цього світу",
+
+"Sniper Duel": "Снайперська дуель",
+"Kill a skeleton with an arrow from more than 50 meters": "Вбий скелета з лука на відстані не менше ніж 50 блоків",
+
+"Snowball Fight": "Бій сніжками",
+"The spirit of Christmas... quickly drowned out by a battle": "Новорічна битва сніжками",
+
+"Spooky Skeleton": "Чахлик невмирущий",
+"Kill a skeleton": "Убий скелета",
+
+"Spooky Skulls": "Страшні черепи",
+"Blow up a skeleton with a charged creeper to get a skeleton skull": "Підірви скелета зарядженим кріпером, щоб отримати його череп",
+
+"Still Talking!": "Воно розмовляє!",
+"Blow up a zombie with a charged creeper to get a zombie head": "Підірви зомбі зарядженим кріпером, щоб отримати його голову",
+
+"Take Aim": "Цілься!",
+"Shoot something with a bow and arrow": "Вистрели в когось",
+
+"Taste of your own medicine": "Інквізитор-радикал",
+"Kill a witch with a splash potion": "Убий відьму вибуховим зіллям",
+
+"Tele-Morph": "Телеморф",
+"Damage a mob by teleporting into it": "Завдай шкоди мобу, телепортувавшись у нього",
+
+"Termite Control": "Смерть тарганам!",
+"Kill a silverfish": "Убий лусківницю",
+
+"The ender of ender": "Ендермен з Енду",
+"Kill an enderman": "Убий ендермена",
+
+"The Ghastly Eyes": "Примарні очі",
+"Kill an invisible spider": "Убий невидимого павука",
+
+"The Mighty Hunter": "Вправний мисливець",
+"Hunt all types of animals with your bow": "Убий тварину кожного виду за допомогою лука",
+
+"The Undead Cavalry": "Мертва кавалерія",
+"Encounter and defeat a skeleton horse in a thunderstorm": "Зустрінь і вбий коня-скелета під час грози",
+
+"There has to be another way...": "Мав бути інший шлях...",
+"Kill a zombie villager": "Убий зомбі-селянина",
+
+"Trampoline": "Батут",
+"Craft a slime block using slimeballs": "Створи блок слизу, використовуючи слизові кульки",
+
+"Void Ender": "Мисливець Енду",
+"Defeat all kinds of End mobs": "Убий всіх мобів, які живуть у Енді",
+
+"What a creep!": "Агент Стоунвуду",
+"Kill a creeper": "Убий кріпера",
+
+"Witch!": "Відьма!",
+"Kill a witch": "Убий відьму",
+
+
+
+# Enchanting tab as of 1.3
+"Armor for the masses": "Броню в маси",
+"Obtain every protection related enchantment": "Здобудь всі чари, які стосуються захисту",
+
+"Bane of one-shotting spiders": "Загибель клятих павуків",
+"Obtain Bane of Arthropods V": "Здобудь чари «Загибель членистоногих V»",
+
+"Bow down to me!": "Схились переді мною!",
+"Obtain Power V": "Здобудь чари «Сила V»",
+
+"Complete Enchanter": "Майстер зачарування",
+"Obtain every enchantment throughout your enchanting career": "Здобудь всі чари, доступні в грі",
+
+"Curses!": "Прокляття!",
+"Obtain both types of curses": "Здобудь обидва зачарування з прокляттям",
+
+"Fiery": "Вогняний привіт",
+"Obtain every fire related enchantment": "Здобудь всі чари, які стосуються вогню",
+
+"Fortunate Son": "Дитя фортуни",
+"Obtain Fortune III": "Здобудь чари «Вдача III»",
+
+"Knocking Your Socks Off": "Відмахувач v0.1",
+"Obtain Knockback and Punch enchantments": "Здобудь чари «Віддача» та «Відкидування»",
+
+"Let It Go!": "Морозний лицар",
+"Obtain boots enchanted with Frost Walker": "Здобудь чоботи з чарами «Льодохід»",
+
+"Librarian": "Бібліотекар",
+"Build some bookshelves for your enchanting table": "Постав книжкову полицю",
+
+"Like a Cat": "Подібно коту",
+"Obtain boots enchanted with Feather Falling": "Здобудь чоботи з чарами «Невагомість»",
+
+"Master Armorer": "Легендарний коваль",
+"Create a full suit of armor with all possible enchantments at max level": "Створи ідеальний комплект обладунків зі всіма можливими чарами максимального рівня",
+
+"Master Enchanter": "Досвічений чародій",
+"Obtain every enchantment at their max level throughout your enchanting career": "Здобудь всі чари максимального рівня, які доступні в грі",
+
+"Master Fisher": "Загартований рибалка",
+"Create a fishing rod with all possible enchantments at max level": "Створи ідеальну вудку зі всіма можливими чарами максимального рівня",
+
+"Master Knight": "Неповторний воїн",
+"Create a sword with all possible enchantments at max level": "Створи ідеальний меч зі всіма можливими чарами максимального рівня",
+
+"Master Miner": "Гідний шахтар",
+"Create a pickaxe with all possible enchantments at max level": "Створи ідеальне кайло зі всіма можливими чарами максимального рівня",
+
+"Master Sniper": "Талановитий лучник",
+"Create a bow with all possible enchantments at max level": "Створи ідеальний лук зі всіма можливими чарами максимального рівня",
+
+"Needle Sharp": "Руйнівне вістря",
+"Obtain Sharpness V": "Здобудь чари «Гострота V»",
+
+"Heavy Metal": "Металіст",
+"Craft an anvil": "Створи ковадло",
+
+"Overkill": "Смертельний удар",
+"Deal eight hearts of damage in a single blow": "Нанеси вісім сердець шкоди одним ударом",
+
+"Pick Like Silk": "Прямо не кайло, а пір'ячко",
+"Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block": "Використай кайло з чарами «Шовковий дотик», щоб добути діамантову руду",
+
+"Enchanting": "Чародійство",
+"Enchant items to give them magical abilities": "Зачаруй предмети на чародійському столі, щоб надати їм особливі властивості",
+
+"Scuba Gear": "Костюм для дайвінгу",
+"Obtain every water related enchantment": "Здобудь всі чари, що стосуються води",
+
+"Super Efficient": "Лазерний бур",
+"Obtain Efficiency V": "Здобудь чари «Ефективність V»",
+
+"Unbreakable": "Вічність",
+"Obtain Mending on an item": "Здобудь чари «Ремонт»",
+
+"Undead Slayer": "Гнів Екзарха",
+"Obtain Smite V": "Здобудь чари «Небесна кара V»",
+
+
+
+# End tab as of 1.3
+"Anti-Gravity Generator": "Антигравітаційний пристрій",
+"Bring a shulker into the overworld and let it give you anti-gravity": "Перенеси шалкера у звичайний світ і отримай ефект левітації",
+
+"Cow Jumped Over The Moon": "Місячна корова",
+"Bring a cow from the Overworld to the End and then kill it": "Перенеси корову до Енду та вбий її там",
+
+"Dragon Shield": "Дракон нам не страшний",
+"Attempt to block the dragon's attacks": "Спробуй відбити атаку дракона, прикриваючись щитом",
+
+"End Bricks!": "Ендер-цегла",
+"Craft end bricks from end stone": "Створи цеглу з ендерняку",
+
+"For Mother, Clarence": "Будь сильним",
+"Kill a shulker": "Вбий шалкера",
+
+"Free the End": "Звільни Енд",
+"Good luck": "Щасти!",
+
+"Getting Chorus": "Рослина хорусу",
+"Attack a chorus tree until it collapses": "Бий хорус, поки він не зламається",
+
+"Great View From Up Here": "Земля в ілюмінаторі",
+"Levitate up a distance of 50 metres": "Піднімися вгору на 50 блоків після атаки шалкера",
+
+"I'm Coming Back, Murph!": "Далекі землі",
+"Travel far into the End dimension": "Промандруй дуже далеко в Енді",
+
+"No! Don't let me leave, Murph!": "Космонавт",
+"Travel so far into the End dimension you might as well be on another planet": "Зайди настільки далеко, наскільки можеш",
+
+"Noxious Fumes": "Шкідливі пари",
+"Use dragon's breath to brew a lingering potion": "Використай подих дракона для приготування осідаючого зілля",
+
+"Off With His Head!": "Заслужений трофей",
+"Collect a dragon's head from the bow of an end ship": "Вкради голову дракона з Ендер-корабля",
+
+"Poison Dart": "Отруйний дротик",
+"Craft tipped arrows of poison": "Створи отруйну стрілу",
+
+"Portable Storage": "Портативне сховище",
+"Use shulker shells to craft a shulker box": "Використай панцир шалкера для створення шалкерового ящика",
+
+"Purpurfect!": "Пурпуперність",
+"Craft or collect purpur blocks, slabs, pillars and stairs": "Створи або збери пурпуровий блок, плиту, сходи і колону",
+
+"Remote Getaway": "Віддалений портал",
+"Escape the island": "Покинь острів",
+
+"The End": "Кінець...",
+"Or the beginning?": "...чи початок?",
+
+"Shouldn't my shield levitate too?": "Хіба щит не повинен левітувати?",
+"Block a Shulker's bullet with your shield": "Відбий снаряд шалкера, прикриваючись щитом",
+
+"Sky High": "Мій поступ трощить небеса!",
+"Fly up beyond the world height limit": "Подолай максимальну висоту світу",
+
+"Sky's the Limit": "У нескінченність і до зірок",
+"Find an Elytra": "Знайди елітри",
+
+"Some Breakthrough": "Великий прорив",
+"Exhaust your elytra": "Зламай свої елітри",
+
+"The City at the End of the Game": "Віддалене місто",
+"Go on in, what could happen?": "Зайду, що може трапитись?",
+
+"The End... Again": "І знову... Кінець...",
+"Respawn the Ender Dragon": "Відроди Дракона Енду",
+
+"The Next Generation": "Нове покоління",
+"Hold the Dragon Egg": "Отримай яйце дракона",
+
+"The Start of Something": "Початок чогось нового",
+"Craft your first ender crystal": "Створи перший кристал Енду",
+
+"Uh, Houston? We have a problem": "Хьюстон, у нас проблема",
+"Fly up to a ridiculous height": "Заберися на неймовірну висоту",
+
+"You Need a Mint": "Несвіжий подих",
+"Collect dragon's breath in a glass bottle": "Збери подих дракона у скляну пляшечку",
+
+
+
+# Farming tab as of 1.3
+"24 Carrot Gold": "Золота морквочка",
+"Eat a golden carrot": "З'їж золоту моркву",
+
+"A Balanced Diet": "Як не з'їм, то понадкушую",
+"Eat everything that is edible, even if it's not good for you": "Скуштуй все їстівне, нави якщо воно отруйне чи шкідливе",
+
+"A Horse in Shining Armor": "Турнірна одежа",
+"Find diamond horse armor": "Знайди діамантову кінську броню",
+
+"A Seedy Place": "Магія чорнозему",
+"Plant a seed and watch it grow": "Посади насіння, і спостерігай як воно росте",
+
+"Artificial Selection": "Штучний відбір",
+"Breed a horse and a donkey to get a mule": "Схрести коня і віслюка, щоб вивести мула",
+
+"Bake Bread": "Хліб насущний",
+"Grow wheat and use it to bake bread": "Вирости пшеницю і приготуй хліб",
+
+"Bapple!": "Яблуко!",
+"Crunch into an apple": "Ем... Просто з'їж яблуко",
+
+"Blistering Barnacles!": "Нещасливий день",
+"Get spat at by a llama": "Нехай у тебе харкне лама",
+
+"Breaking the Law of Conservation of Matter": "Закон збереження матерії? Не чув такого",
+"Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back": "Створи з дев'яти скибок кавуна блок, який, будучи зруйнованим, не поверне тобі всі дев'ять скибок кавуна",
+
+"Care For the Environment": "Рекрут СЕН'у",
+"Plant down a sapling": "Посади саджанець",
+
+"Catching Nemo": "В пошуках Немо",
+"Catch a clownfish": "Злови тропічну рибу",
+
+"Chatterbox": "Птах Говорун відрізняється розумом та кмітливістю",
+"Tame a Parrot using seeds. WARNING: Do not use a cookie!": "Приручи папугу, використовуючи насіння пшениці. ПОПЕРЕДЖЕННЯ: Не годуй його тістечками",
+
+"Cow Tipper": "Кожум'яка",
+"Harvest some leather": "Отримай трохи шкіри",
+
+"Cowboy": "Ковбой",
+"Tame a horse by jumping on it over and over again": "Приручи коня, сідлаючи його знову і знову",
+
+"Fishy Business": "На гачку",
+"Catch a fish": "Спіймай рибу",
+
+"Die, Potato!": "Помри, містер Картоплина!",
+"Squash and eat a potato": "З'їж картоплину",
+
+"Do you want to build a snowman?": "Захисник зі снігу",
+"Use a pumpkin and snow blocks to build a snow golem": "Використай гарбуз і два снігових блоки для створення сніговика",
+
+"Ecologist": "СЕН схвалює",
+"Plant down all six types of sapling": "Посади всі шість видів саджанців",
+
+"Feeling Sheepish": "Відчуваю себе вівцею",
+"You'll get over it": "Ти звикнеш до цього",
+
+"Getting Into a Stew": "Тушковані справи",
+"Make and eat some rabbit stew": "Створи і з'їж тушкованого кроля",
+
+"Have a Shearful Day": "День стрижки!",
+"Use two iron ingots to craft shears": "Використай два залізних зливки для створення ножиць",
+
+"High Steaks": "Дуже потрібні стейки",
+"The steaks are high for this advancement!": "Стейки дуже потрібні для цього досягнення",
+
+"Hot Topic": "Початок кар'єри",
+"Construct a furnace out of eight stone blocks": "Створи пічку з восьми блоків кругляку",
+
+"Lion Tamer": "Дресирувальник левів",
+"Tame an Ocelot using fish": "Приручи оцелота за допомогою риби",
+
+"Me Love Cookie": "Я люблю печивце",
+"Bake some cookies... and then scoff them all yourself": "Спечи декілька тістечок... і потім з'їж їх сам",
+
+"Meat Lovers": "М'ясоїд!",
+"Eat every type of meat, even if uncooked or rotten": "З'їж все доступне м'ясо в грі, нави якщо воно сире або зогниле",
+
+"Milk does your body good": "Молоко дуже корисне",
+"Take a swig swig swig swig": "Візьми і пий, пий, пий!",
+
+"Mushroom, Mushroom, Mushroom, Mushroom!": "Гриби, гриби, гриби, ВАААААГХ, гриби",
+"Slurp some mushroom stew": "Спробуй на смак тушковані гриби",
+
+"Naturally Carved": "Натуральний врожай",
+"Harvest some spooky pumpkins": "Збери гарбуз",
+
+"Not Today!": "Не сьогодні!",
+"Eat a poisonous potato": "З'їж отруйну картоплину",
+
+"Overpopulation": "Перенаселеність",
+"Breed every type of animal": "Вирости тварину кожного виду",
+
+"Pork Chop": "Свиняча відбивна",
+"You know kung fu, how about pork chop?": "Ти знаєш кунг-фу, але як щодо рубо-свина?",
+
+"Rabbit Season": "Сезон полювання на кроликів",
+"Killing bunnies is cruel. Period.": "Захисти свій город!",
+
+"Rainbow Collection": "Веселкова колекція",
+"Gather all 16 colors of wool": "Збери всі 16 кольорів вовни",
+
+"Renewable Energy": "Відновлювана енергія",
+"Smelt wood trunks using charcoal to make more charcoal": "Перепали деревину за допомогою деревного вугілля для отримання деревного вугілля",
+
+"Repopulation": "Репопуляція",
+"Breed two cows with wheat": "Розмнож двох корів пшеницею",
+
+"Farming": "Сільське господарство",
+"The world is full of friends and food": "Світ повний друзів, добра та їжі",
+
+"Salmonella Poisoning": "Віра в найкраще",
+"Eat some raw salmon... and not get poisoned after all": "З'їж сирого лосося не отруївшись при цьому",
+
+"Serious Dedication": "Терпіння й важка праця...",
+"Completely use up a diamond hoe, and then reevaluate your life choices": "Використовуй діамантову мотику, доки вона не зламається, а потім подумай, для чого ти це зробив",
+
+"So Good": "Так смачно!",
+"Can't beat it, can't beat it": "З'їж це! Що? Смаколик.",
+
+"Souperman": "СУПермен",
+"Beetroot soup gives you souperpowers!": "Борщ додасть Вам СУПерсил!",
+
+"Sugar, Sugar": "Цукор, цукор",
+"Harvest some sugar cane from a river or ocean": "Збери трохи цукрової тростини біля води",
+
+"Sushi": "Суші",
+"Eat some raw fish": "З'їж сиру рибу",
+
+"The Lie": "Це брехня",
+"Wheat, sugar, milk and eggs!": "Пшениця, цукор, молоко і яйця!",
+
+"The Melon! The Melon! The Melon!": "Кавун! Кавун! Кавунчик!",
+"Eat a melon. Be careful not to drop it over a cliff": "Спробуй прекрасний смак кавуна",
+
+"The Pie": "Пиріг",
+"Bake a pumpkin pie": "Приготуй гарбузовий пиріг",
+
+"Trimming the Treetops": "Обрізання верхівок",
+"Use shears to obtain leaf blocks": "Отримай листя",
+
+"Ultra Hardcore": "Ультраскладність",
+"Craft and eat a normal golden apple": "Створи і з'їж золоте яблкоко",
+
+"Vegetarian": "Вегетаріанець",
+"Eat every type of fruit, vegetables, and any sort of plant matter": "З'їж кожен фрукт, овоч і рослину, доступні в грі",
+
+"When Pigs Used to Fly": "Як шкода, що свині не літають",
+"Craft a carrot on a stick so you can ride a pig off a cliff": "Зроби вудку з морквою щоб ти зміг осідлати свиню і впасти зі скелі.",
+
+"You Lead, I'll Follow": "Ти показуєш, вони йдуть",
+"Craft a lead for forming a llama caravan": "Створи повідець, щоб сформувати караван з лам",
+
+
+
+# Mining tab as of 1.3
+"Acquire Hardware": "Куй залізо, поки гаряче!",
+"Smelt an iron ingot": "Переплав в печі залізну руду в залізний зливок",
+
+"Bling Bling Gone": "Бац!.. Буц!.. Все.",
+"Completely use up a golden pickaxe, and then seriously reevaluate your life choices": "Користуйся золотим кайлом, поки воно не зламається, а потім подумай, яку дурню ти зробив",
+
+"Coal Miner": "Шахтар",
+"Mine a stack of coal": "Отримай стак вугілля",
+
+"Fuel Engine": "Стімпанк",
+"Craft a powered minecart": "Створи вагонетку з піччю",
+
+"Cover Me With Diamonds": "Сяючий лицар",
+"Diamond armor saves lives": "Діамантова броня рятує життя",
+
+"Diamond Clad": "Діамантові лати",
+"A full suit of diamond armor saves even more lives": "Повний комплект діамантової броні рятує ще більше життів",
+
+"Diamond Miner": "Діамантова лихоманка",
+"Mine a stack of diamonds. Good luck!": "Отримай стак діамантів. Щасти!",
+
+"Diamonds!": "Діаманти!",
+"Acquire diamonds": "Отримай діаманти",
+
+"Electric Rails": "Електризовані рейки",
+"Making furnace minecarts completely useless": "Робимо вагонетку з піччю непотрібною",
+
+"Enchanter": "Заклинач",
+"Craft an enchanting table": "Використай 1 книжку, 4 блоки обсидіану і 2 діаманти для створення столу зачарувань",
+
+"Even MOAR Tools": "ЩЕ БІЛЬШЕ інструментів",
+"Craft a full diamond tools set": "Створи повний комплект діамантових інструментів",
+
+"Fossil Fuel": "Скам'яніле паливо",
+"Coal! As in dead dinosaurs!": "Вугілля! І залишки мертвих динозаврів",
+
+"Getting an Upgrade": "Оновлення!",
+"Construct a better pickaxe": "Створи міцніше кайло",
+
+"Gold Miner": "Золота лихомашка",
+"Mine a stack of gold ore": "Отримай стак золотої руди",
+
+"Gold Rush": "Моє золотце",
+"Strike gold and smelt it into a gold ingot": "Виплави золотий зливок",
+
+"Hot Stuff": "Точка кипіння",
+"Fill a bucket with lava": "Наповни відро лавою",
+
+"Ice Bucket Challenge": "Дві стихії",
+"Form and mine a block of Obsidian": "Сформуй і добудь блок обсидіану",
+
+"Iron Man": "Залізний лицар",
+"Craft a full suit of iron armor": "Змайструй повний комплект залізної броні",
+
+"Iron Miner": "Залізодобувач",
+"Mine a stack of iron ore": "Отримай стак залізної руди",
+
+"Isn't It Iron Pick": "І кайло без діла іржавіє",
+"Upgrade your pickaxe": "Онови своє кайло",
+
+"Lapis Lazuli Miner": "Благородний лазурит",
+"Mine enough lapis lazuli to craft a stack of lapis lazuli blocks": "Отримай достатньо лазуриту та створи стак лазуритових блоків",
+
+"Mineral Collection": "Колекція мінералів",
+"Craft every type of mineral block": "Створи блок з кожного типу руд",
+
+"MOAR Tools": "БІЛЬШЕ інструментів",
+"Craft a stone pickaxe, axe, shovel and hoe": "Створи кам'яне кайло, сокиру, лопату, і мотику",
+
+"Aww it broke!": "Упс... Зламався!",
+"Break your first tool": "Зламай свій перший інструмент",
+
+"On A Rail": "В подорож!",
+"Craft a minecart using five iron ingots": "Створи вагонетку з п'яти залізних зливків",
+
+"Redstone Miner": "Нюхни червоної пилюки",
+"Mine enough redstone to craft a stack of redstone blocks": "Отримай достатньо редстоуну і створи стак редстоунових блоків",
+
+"Mining": "Шахтарське ремесло",
+"Dig underground, gather resources": "Копай униз, добувай ресурси",
+
+"Seeing Red": "Червоне сяйво",
+"Mine some redstone from the deepest caves": "Отримай редстоун з найглибших печер",
+
+"Suit Up": "Вдягнись",
+"Protect yourself with a piece of iron armor": "Захисти себе залізним обладунком",
+
+"The way to spawn": "Дорога до спавну",
+"Craft a compass in case you forgot where spawn is": "Створи компас на той випадок, якщо ти загубишся",
+
+"DIAM- oh, wait, no.": "ДІАМАН- ой, почекай, не він...",
+"It's still useful for enchanting": "Ну, все одно він ще знадобиться для чародійства...",
+
+"We Need to Go Deeper": "Треба йти глибше",
+"Build, light and enter a Nether Portal": "Збудуй, активуй та увійди в портал пекла",
+
+"We've broken our last shovel": "Ми зламали останню лопату",
+"Break all five types of shovels": "Зламай всі п'ять видів лопат",
+
+"What's the time, Mr Wolf?": "Котра година?",
+"Time to clean your clocks! (Or, craft them!)": "Час змайструвати годинник!",
+
+
+
+# Nether tab as of 1.3
+"A Terrible Fortress": "Страшна фортеця",
+"Break your way into a Nether Fortress": "Пробий собі шлях до пекельної фортеці",
+
+"Basis of Brewing": "Основи алхімії",
+"Harvest some nether wart from a nether fortress": "Отримай трохи наросту з пекельної фортеці",
+
+"Beaconator": "Маячня",
+"Bring a beacon to full power": "Виведи маяк на повну потужність",
+
+"Bring Home the Beacon": "Принеси маяк в домівку",
+"Construct and place a Beacon": "Побудуй і постав маяк",
+
+"Don't Step on it!": "Не вставай на це!",
+"Mine some magma blocks": "Отримай трохи магмових блоків",
+
+"Ender's Chest": "Ендерскриня",
+"Craft an ender chest for some extra inventory space": "Створи ендерскриню для кишенькового гіперпростору",
+
+"Eye Spy": "Око-шпигун",
+"Follow an Ender Eye": "Рухайсь за оком Енду",
+
+"Fire Blast Shield": "Не цього разу, не в цьому світі!",
+"Block the explosion of a ghast's fireball": "Захистися від заряду полум'я ґаста, прикриваючись щитом",
+
+"Giant Floating Jellyfish": "Не репетуй, тварюко!",
+"Shoot down a ghast": "Убий ґаста",
+
+"Glows in the Dark": "Підсвітка",
+"Craft spectral arrows using glowstone dust": "Створи спектральні стріли, використовуючи світлопил",
+
+"High Temperature Fluid Monster": "Пекучий рідкий монстр",
+"Kill a magma cube": "Убий магмакуба",
+
+"Into Fire": "У полум'я",
+"Relieve a Blaze of its rod": "Забери у блейза палаючий жезл",
+
+"Limbo Walker": "Лімбо",
+"Get above the roof in the nether": "Проберися через стелю пекла",
+
+"Local Brewery": "Місцева броварня",
+"Craft a Brewing Stand for brewing potions": "Змайструй варильну стійку для приготування зілля",
+
+"Quicksand": "Ненаситні душі",
+"You sink like quicksand and move slow like mud": "Ти провалюєшся у нього і рухаєшся, ніби у багнюці",
+
+"Return to Sender": "Повернути відправнику",
+"Destroy a Ghast with its fireball": "Убий ґаста його ж вогняним зарядом",
+
+"Nether": "Пекло",
+"Bring summer clothes": "Захопи літній одяг",
+
+"Spooky Scary Skeleton": "Це расизм",
+"Obtain a wither skeleton's skull": "Отримай череп скелета-висушувача",
+
+"Subspace Bubble": "Варп-стрибок",
+"Use the Nether to travel 7km in the Overworld": "Використай пекло, щоб промандрувати 7 км в звичайному світі. Не помри при цьому",
+
+"The End?": "Кінець?",
+"Enter the End Portal": "Стрибни у портал Енду",
+
+"The Hunt Begins": "Полювання тільки починається",
+"Kill a wither skeleton": "Вбий чорного скелета",
+
+"The Nether's Shield": "Особливий захист",
+"Block some blaze fireballs": "Відбий заряди полум'я блейза, прикриваючись щитом",
+
+"The Tribal Snouts": "Огидні тварюки",
+"Kill a zombie pigman": "Вбий зомбованого пігліна",
+
+"Uneasy Alliance": "Війна світів",
+"Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it": "Замани ґаста в звичайний світ... а потім вбий його",
+
+"Withering Heights": "Змій Горинич",
+"Summon the Wither": "Викличте Візера",
+
+
+
+# Potions tab as of 1.3
+"A Furious Cocktail": "Енергетичний коктейль",
+"Have every potion effect applied at the same time": "Випробуй на собі ефекти всіх можливих зілль одночасно",
+
+"A Much More Doable Challenge": "Це вже легше",
+"Get all the effects possible during your life (not all at the same time)": "Випробуй на собі ефект кожного зілля. Не одночасно",
+
+"A Weak Brew": "Слабкий напій",
+"Brew up a potion of Weakness": "Приготуй зілля слабості",
+
+"Death by Magic": "Смерть від магії",
+"Kill a mob with a splash potion": "Вбий істоту вибуховим зіллям",
+
+"Hopping Mad": "Божевільний стрибун",
+"Get jump boost from a beacon or a potion": "Підвищи висоту стрибка за допомогою зілля або маяка",
+
+"How did We Get Here?": "Неможливе можливо!",
+"Have every effect applied at the same time": "Випробуй всі можливі ефекти одночасно",
+
+"Hyper-Healing": "Зцілення",
+"Brew and drink a regeneration potion": "Приготуй і випий зілля регенерації",
+
+"Medic!": "Лікар!",
+"Brew a healing potion": "Приготуй зілля зцілення",
+
+"Marine Marauder": "Морський розбійник",
+"Swim in water while having the Water Breathing effect": "Злови фугу і приготуй зілля водяного дихання",
+
+"Nocturnal": "Неймовірний зір",
+"Brew and drink a night vision potion": "Приготуй і випий зілля нічного бачення",
+
+"Performance-Enhancing Drugs": "Допінг",
+"Brew a Speed Potion for cheating on athletics": "Приготуй зілля швидкості, щоб схитрувати на змаганнях",
+
+"Potions": "Зіллєваріння",
+"Brewing potions with helpful and hindering effects": "Приготування зілль з корисними і не дуже ефектами",
+
+"Stayin' Frosty": "А що, тепленько",
+"Drink a fire resistance potion so you can go swimming in lava": "Випий зілля вогнестійкості, щоб поплавати у лаві",
+
+"Super Strength": "Суперсила",
+"Brew a Strength Potion for cheating on weightlifting": "Приготуй зілля сили, щоб нарешті підняти ту штангу",
+
+"The Invisible Player": "SCP-114-UA",
+"Brew and drink an invisibility potion": "Приготуй і випий зілля невидимості",
+
+"Zombie Doctor": "Лікар для зомбі",
+"Cure a zombie villager": "Ослаб, а тоді вилікуй зомбі-селянина",
+
+
+
+# Redstone tab as of 1.3
+"Bling Plate": "Блискуча пластина",
+"Dine in style! (No, not really)": "Сяй зі стилем! (Ні, насправді ні, зовсім ні)",
+
+"Comparing Comparator": "Порівнюй сигнали",
+"Craft a redstone comparator": "Створи редстоуновий компаратор",
+
+"Dispense With This": "Я не жадібний",
+"Construct a dispenser": "Створи роздавач",
+
+"Metal Plate": "Металева пластина",
+"Dinner time!": "Час вечеряти!",
+
+"Moving Parts": "Рухомі штуки",
+"Craft a piston so you can push things": "Створи поршень, щоб пересувати блоки",
+
+"Mozart": "Моцарт",
+"Craft a note block": "Створи нотний блок",
+
+"Observer Buddy": "Великий Брат",
+"Craft an observer": "Створи спостерігача",
+
+"Pressure Detector": "Перевірка тиску",
+"Use a pressure plate to craft a detector rail": "Створи активуючі рейки",
+
+"Quartz Miner": "Зразковий в'язень",
+"Mine enough nether quartz to craft a stack of quartz blocks": "Отримай достатьно кварцу і створи стак кварцових блоків",
+
+"Quirky Quartz": "Вирок оскарженню не підлягає",
+"Mine Nether Quartz from the Nether": "Добудь кварц в пеклі",
+
+"Repeating Repeater": "Повторення - матір навчання",
+"Craft a redstone repeater for delaying signals": "Створи повторювач",
+
+"Redstone": "Редстоун",
+"Cracking contraptions": "Технологія майбутнього",
+
+"Solar Power": "Сонячна енергетика",
+"Craft a daylight sensor": "Створи детектор денного світла",
+
+"Space Dropper": "Викинь це!",
+"Craft a dropper for item transportation": "Створи викидача",
+
+"Space Hopper": "Це моє",
+"Craft a hopper for item transportation": "Створи воронку для транспортування речей",
+
+"Sticky Parts": "Липкі справи",
+"Craft a sticky piston so you can pull things": "Створи липкий поршень",
+
+"Tripping Over": "Оступись і скуштуй моєї механіки",
+"Craft a tripwire hook for your traps": "Створи гак для пасток (але не забувай про правила)",
+
+"Troll Chest": "Скриня-пастка",
+"Craft a trapped chest to troll your friends": "Ваші друзі не зможуть встояти",
+
+"Under Pressure": "Під тиском",
+"Craft a pressure plate": "Створи натисну пластину",
+
+
+
+# All advancements added in version 1.4 are here
+
+"Beginning": "Початок",
+"A brave new world": "Абсолютно новий світ",
+
+"Time to Chop!": "Час рубати!",
+"Use planks and sticks to make a axe": "Використовуй дошки і палиці для майстрування сокири",
+
+"Time to Farm!": "Час створювати ферму!",
+"Use planks and sticks to make a hoe": "Використовуй дошки і палиці для майстрування мотики",
+
+"Time to Mine!": "Час копати!",
+"Use planks and sticks to make a pickaxe": "Використовуй дошки і палиці для майстрування кайла",
+
+"Time to Strike!": "Час нанести удар!",
+"Use planks and sticks to make a sword": "Використовуй дошки і палиці для майстрування меча",
+
+
+
+"Stripper":  "Короненависник",
+"Strip the bark off of all six types of logs then pick them up": "Зніми кору з усіх шести типів колод, а потім зрубай їх",
+
+
+
+"Flint Miner": "Силіціум о два",
+"Mine a stack of flint": "Отримай стак кремнію",
+
+"My work here is done": "На цьому моя робота все, закінчена",
+"Get caught in a cave-in of gravel": "Опинись під обвалом гравію",
+
+"Nananananananana...": "На-на-на-на-на-на-на...",
+"Accidentally hit a bat underground": "Випадково вдарьте кажана. Або навмисне",
+
+"Obsidian Miner": "Портальні ферми заборонені законом",
+"Mine a stack of obsidian. (This might take a while...)": "Отримай стак обсидіану (це може зайняти деякий час...)",
+
+"Rock Bottom": "До дна!",
+"Dig down to the bottom of the world": "Прокопай до дна світу",
+
+"Spelunker": "Спелеолог",
+"Enter a cave": "Увійди в печеру",
+
+"Stone Age": "Кам'яний вік",
+"Mine stone with your new pickaxe": "Добудь камінь новим кайлом",
+
+
+
+
+"An amazing story!": "Дивовижна історія!",
+"Finish writing in your book or get a book from another player": "Закінчи написання своєї книги, або візми її у іншого гравця",
+
+"Aquatic Biofuel": "Екологічне пальне",
+"Craft a dried kelp block for use as a great fuel source": "Створи блок висушеної ламінарії, щоб використовувати її в якості палива",
+
+"Hay there!": "Привіт від Зеленого Клину!",
+"Craft a stack of hay blocks": "Яка ж українська хата без солом'яної покрівлі?",
+
+"It's full of ink": "Почесний реніорець",
+"Obtain some ink from hunting a squid": "Убий спрута та збери з нього чорнило",
+
+"It's where nutella comes from": "Сировина для шоколаду",
+"Obtain some cocoa beans from a jungle": "Отримай трохи какао-бобів з тропічних дерев",
+
+"Kelp me!": "Кляті водорості",
+"Collect some kelp from an ocean": "Отримай трохи ламінарії з морського дна",
+
+"Pumpa kungen!": "Гарбузяний король!",
+"Carve a stack of pumpkins": "Збери стак гарбузів",
+
+"The Meloncholy Dane": "Кавун звичайний",
+"Craft a stack of melon blocks": "Створи стак кавунів",
+
+"Undersea Gardener": "Конкуренція Реніорі",
+"Craft a stack of dried kelp blocks": "Створи стак блоків висушеної ламінарії",
+
+"Write your thoughts": "Увіковічнити думку",
+"Use a book, ink and a feather to craft a book and quill": "Використовуй книгу, чорнильний мішок і перо для створення книги з пером",
+
+
+
+"Animals": "Тварини",
+
+"Hoe hoe hoe!": "Сутеніло...",
+
+"Aquarium": "Акваріум",
+"Catch all four types of fish and set them free in an aquarium": "Спіймай всі чотири види риб, а потім випусти їх",
+
+"Are we there yet?": "Ми все ще тут?",
+"Tame a donkey": "Приручи віслюка",
+
+"Bacon!": "Бекон!",
+"Gotta kill this pig pig pig pig": "Треба вбити цю свиню-ню-ню",
+
+"Chicken Cooper": "Курячий бульйон",
+"Collect a stack of raw chicken and feathers": "Збери стак курятини і пір'я",
+
+"Farrier": "Коновал",
+"Breed a horse in an effort to get a better one": "Розмнож двох коней, марно сподіваючись, що виведеться швидший",
+
+"Feeding the §mDucks§r Chickens": "Майбутній гриль",
+"Breed chickens by feeding them seeds": "Розмнож курей насінням пшениці",
+
+"Hey, look, Mom!": "Агов, мамо, дивись!",
+"Use sea grass to make a turtle lay some eggs": "Використовуй морську траву, щоб допомогти черепасі знести яйця",
+
+"If only cats grew into kittens": "Кошенята",
+"Breed two cats together to get a kitty!": "Розмнож двох котів рибою, щоб отримати котика!",
+
+"In a hole there lived a Rabbit": "Нора, в якій жив кролик",
+"Collect a stack of raw rabbit and rabbit hide": "Отримай стак сирої кролятини і кролячої шкіри",
+
+"Mary Had a Little Lamb...": "У Мері було ягнятко...",
+"Breed two sheep to get a lamb": "Розмнож двох овець пшеницею, щоб отримати ягнятка",
+
+"Mooshroom Kingdom": "Грибне королівство",
+"Find mooshrooms on a mushroom island": "Знайди грибних корів на грибному острові",
+
+"Pig Slaughterer": "М'ясник",
+"Collect a stack of raw porkchops": "Отримай стак сирої свинини",
+
+"Poacher": "Браконьєр",
+"Kill a turtle for their shells only to find they don't actually drop any when killed": "Вбий черепаху, щоб дізнатися, що з неї не випадає панцир",
+
+"Puppies! Yipe!": "Майбутнє Лапокраю!",
+"Breed two wolves together to get a puppy!": "Допоможи вовкам завести вовченя",
+
+"Scuttler": "Черепаха-аха-аха",
+"Get a scute from a baby turtle when it grows up": "Отримай пластину після того, як маленька черепашка виросте",
+
+"Sheariously?": "Шерстйозно?",
+"Collect a stack of white wool": "Збери стак білої вовни",
+
+"So I got that going for me": "Це буде моїм",
+"Breed two llamas with hay": "Розмнож двох лам сіном",
+
+"Someone's been here before...": "Хтось був тут раніше...",
+"Fish out a ratty old pair of boots": "Вилови під час риболовлі стару пару чобіт",
+
+"Stay Calmer": "Спокійно!",
+"Tame a llama": "Приручи ламу",
+
+"Super Mooshroom": "Му-у-ухмор'я",
+"Breed two stubborn mooshrooms together": "Розмнож двох впертих грибних корів пшеницею",
+
+"Tactical Fishing": "Тактична риболовля",
+"Catch a fish... without a fishing rod!": "Злови рибу... без вудочки!",
+
+"They're breeding like rabbits!": "Вбивчі лапки",
+"Breed two bunnies together": "Розмнож двох кролів морквою",
+
+"Tickle Time!": "Ненавиджу курей!",
+"Pluck some feathers from a chicken": "Вибий кілька пір'їн з курки",
+
+"Totally not an AFK fisher!": "Досвідчений рибалка",
+"Fish out all types of items": "Вилови під час риболовлі все, що тільки можна",
+
+"Treasure Hunter": "Мисливець за скарбами",
+"Fish out a piece of treasure": "Вилови під час рибалки скарб",
+
+"True Cow Tipper": "Скотобій",
+"Collect a stack of raw beef and leather": "Отримай стак сирої яловичини і шкіри",
+
+"Turtle Army": "Шоломи для Легіону",
+"Collect a stack of scutes": "Збери стак черепаших пластин",
+
+"Turtle Soldier": "Черепаховий солдат",
+"Craft a full turtle shell": "Створи черепаховий панцир",
+
+"What a piece of junk!": "Хто засмічує море?",
+"Fish out a junk item": "Вилови під час риболовлі сміття",
+
+"Wooly!": "Хутряний покрив",
+"Obtain wool from a sheep by killing it": "Вбий вівцю, щоб отримати її вовну",
+
+"Yay! Deadbush!": "Ура! Мертвий кущик!",
+"Get a deadbush cause you're a noob": "Отримай мертвий кущик, тому що ти нуб",
+
+
+
+
+"A Throwaway Joke": "Тризуб не горобець...",
+"Throw a trident at something. Note: Throwing away your only weapon is not a good idea": "Кинь тризуб в ціль. Примітка: викидати єдину зброю - не найкраща ідея.",
+
+"A Watery Grave": "Водяна могила",
+"Defeat a drowned in the briny depths. ": "Вбий водяника",
+
+"Gurgle": "Бульк.",
+
+"Anti-Air": "Противоповітряна оборона",
+"Shoot down a phantom with a bow from 30 blocks away": "Застрельте фантома за допомогою лука з відстані більше 30 блоків",
+
+"Because I'm Aquaman!": "Тому що я Аквамен!",
+"Obtain a trident from a Drowned": "Отримай тризуб від водяника",
+
+"Boned": "Мелені кістки",
+"Grind up some bones into bonemeal": "Подрібни кістки в кісткове борошно",
+
+"Creeper Killer": "Гармату заряджай!",
+"Collect a stack of gunpowder": "Збери стак пороху",
+
+"Enderman Destroyer": "Вбивця ендерменів",
+"Collect a stack of ender pearls": "Збери стак перлин Енду. Ну або навідайся до ендерферми",
+
+"Freezing": "Заморожений",
+"Bring a husk to a tundra biome and then kill it": "Замани висушня в тундру і вбий його",
+
+"Melting": "Розтоплений",
+"Bring a stray to a desert biome and then kill it": "Замани примару в пустелю і вбий її",
+
+"Phantom Slayer": "Нічна варта",
+"Collect a stack of phantom membranes": "Збери стак перетинок фантомів",
+
+"Poseidon vs. Hades": "Посейдон проти Аїда",
+"Hunt all types of nether creatures with your trident": "Вбий всіх пекельних істот за допомогою тризуба",
+
+"Ricochet Swoop": "Сон для слабаків",
+"Deflect a Phantom's swoop with your shield": "Відбий наліт фантомів, прикриваючись щитом",
+
+"Skeleton Smiter": "Рекрут Екзархату",
+"Collect a stack of bones": "Отримай стак кісток",
+
+"Slime Squisher": "Вбивця слимаків",
+"Collect a stack of slimeballs": "Збери стак слизових кульок",
+
+"Spider Smasher": "Дезінсектор",
+"Collect a stack of string from spiders or cobwebs": "Отримай стак ниток з павуків або павутиння",
+
+"The Aquatic Hunter": "Морський мисливець",
+"Hunt all types of aquatic creatures with your trident": "Вбий всі види водних істот за допомогою тризуба",
+
+"The Phantom Menace": "Примарна загроза",
+"Get attacked by phantoms": "Приверни увагу фантомів",
+
+"Tridented Shield": "Що б я без щита робив?",
+"Block a trident thrown by a Drowned": "Відбий тризуб, кинутий водяником",
+
+"Underwater Duel": "Підводна дуель",
+"Kill a drowned using a trident from at least 30 metres": "Вбий водяника за допомогою тризуба з відстані більше 30 блоків",
+
+"We'll handle this": "Ми займемося цим",
+"Lure a Phantom into the Nether and then kill it": "Замани фантома в пекло і вбий його",
+
+"Zombie Slayer": "28 хвилин потому",
+"Collect a stack of rotten flesh": "Збери стак гнилої плоті",
+
+
+
+
+
+"Atlantis": "Залишки давньої цивілізації",
+"Explore some Underwater Ruins": "Досліди підводні руїни",
+
+"Dolphin Dasher": "Мій друг дельфін",
+"Get a speed boost from your friendly underwater companions": "Отримай прискорення від доброзичливих підводних компаньйонів",
+
+"Eeuuwww!": "Потрійне фу",
+"Get stuck in a cobweb": "Застрягни в павутині",
+
+"Enchanted Forest": "Чарівний ліс",
+"Find a flower forest": "Знайди квітковий ліс",
+
+"Explorer of Worlds": "Дослідник світів",
+"Discover every biome including special biomes": "Досліди всі біоми, включаючи їх підвиди",
+
+"Get Ship-rekt!": "Таємниці глибин океану",
+"Come across a sunken ship": "Знайди затонулий корабель",
+
+"Gold Mine!": "Золота шахта",
+"Find a mineshaft on the surface of a mesa biome": "Знайди занедбану шахту у теракотових горах",
+
+"Guardian Destroyer": "Знищувач вартових",
+"Collect a stack of prismarine shards and crystals": "Отримай стак уламків і кристалів призмарина. Привід згадати про ферму вартових",
+
+"In a Pickle": "Солоний огірочок",
+"Collect some sea pickles from a coral reef": "Підбери морський огірок з коралового рифу",
+
+"Just a sample": "Зразок на пам'ять",
+"Collect some coral from a coral reef": "Добудьте корал з коралового рифу",
+
+"No Reefing!": "Круїз до Рифового Порту",
+"Collect all colors of coral blocks, plants and fans (including dead ones)": "Добудьте корали всіх кольорів і все коралові блоки, включаючи мертві",
+
+"Power of the Ocean": "Сила океану",
+"Construct a Conduit in the ocean": "Збудуй морський провідник",
+
+"Secret of the Igloo": "Таємниця іглу",
+"Find an igloo in a snowy tundra": "Знайди іглу в сніжній тундрі",
+
+"Spike Ice!": "Міцний лід",
+"Break down an ice spike using a silk touch pickaxe": "Отримай сухий лід за допомогою кайла з шовковим дотиком",
+
+"Spikey!": "Колючка!",
+"Run into a cactus": "Вріжся у кактус",
+
+"Sponge Miner": "План по висушуванню світу",
+"Collect a stack of sponges from ocean monuments": "Отримай стак губок з підводних фортець",
+
+"The Great Blocky Reef": "Великий кубічний риф",
+"Come across a coral reef in the ocean": "Знайди кораловий риф в океані",
+
+"There's a zombie on the lawn": "На галявині стоїть зомбі",
+"Find a sunflower plains": "Знайди поле соняшників",
+
+"Thick Ice!": "Товстий лід!",
+"Craft or mine a blue ice block from an iceberg": "Створи або отримай з льодовика синій лід",
+
+"Thin Ice!": "Тонкий лід!",
+"Use a silk touch pickaxe to pick up some ice blocks": "Використай кайло з шовковим дотиком, щоб добути трохи льоду",
+
+"Titanic": "Титанік",
+"Find a shipwreck in an iceberg biome": "Знайди затонулий корабель серед айсбергів",
+
+"X Marks the Spot": "Острів скарбів",
+"Use a treasure map to find a Heart of the Sea in Buried Treasure": "Використай карту скарбів, щоб знайти скарб з серцем моря",
+
+
+
+
+"Engineer": "Я у мами інженер",
+"Craft all types of redstone component": "Створи все, що пов'язано з редстоуном",
+
+"Master Engineer": "Тесла",
+"Craft a stack of all types of redstone component": "Створи по стаку всього, що пов'язано з редстоуном",
+
+
+
+
+"Boomerang": "Бумеранг",
+"Turn your trident into a boomerang by getting Loyalty on it": "Отримай тризуб з чарами «Вірність»",
+
+"Very Very Frightening": "Блискавичний удар",
+"Strike a Villager with lightning": "Запусти в селянина блискавку",
+
+"Master Tridenteer": "Справжній Зевс",
+"Create a trident with all possible enchantments at max level": "Створи ідеальний тризуб з усіма можливими чарами максимального рівня",
+
+"Zeus": "Громовержець",
+"Obtain Channeling on a trident": "Отримай тризуб з чарами «Блискавиця»",
+
+
+
+
+"Blaze Extinguisher": "Вбивця блейзів",
+"Collect a stack of blaze rods": "Отримай стак палаючих жезлів",
+
+"Ghast Slayer": "Вбивця ґастів",
+"Collect a stack of ghast tears": "Отримай стак сліз ґастів",
+
+"Glowstone Miner": "Потрібно більше світла",
+"Mine or craft a stack of glowstone blocks": "Добудь або створи стак блоків світлокаменю",
+
+"Magma Cube Squisher": "Вбивця магмокубів",
+"Collect a stack of magma cream": "Отримай стак магмового крему",
+
+"Seeing Stars": "Зоряна пилюка",
+"Mine some glowstone dust from the nether": "Добудь світлопил в пеклі",
+
+
+
+
+"Tank": "Машина війни",
+"Become nearly invincible to all damage using a Turtle Master Potion": "Стань практично невразливим, використовуючи черепашаче зілля",
+
+"True Feather Falling": "Переможець гравітації",
+"Brew and drink a slow falling potion": "Звари і випий зілля повільного падіння",
+
+
+
+
+"Extrabiologist": "Біолог",
+"Plant a chorus plant in the overworld for study": "Посади хорус в звичайному світі заради науки",
+
+"Shulker Breaker": "Знищувач шалкерів",
+"Collect a stack of shulker shells": "Отримай стак панцирів шалкера",
+
+"Void Walker": "Досліджувач порожнечі",
+"Explore every end biome": "Досліди кожний біом Енду",
+
+
+
+# All advancements added in version 1.5 are here
+
+"Iconic Merchandising Prop": "Шахтар світового класу",
+"Create a pickaxe of the highest calibre": "Створи кайло найвищого розряду",
+
+"Living Like Kings": "Королівське життя",
+"Make yourself shiny with golden armor": "Навіть пігліни оцінять",
+
+"Master Coal Miner": "Донбаський шахтар",
+"Mine enough coal to make a stack of coal blocks": "Створи стак вугільних блоків",
+
+"Master Diamond Miner": "Мрія шахтарів",
+"Mine enough diamond to make a stack of diamond blocks": "Отримай достатньо діамантів і створи стак діамантових блоків",
+
+"Master Gold Miner": "Майже Блек (насправді ні)",
+"Mine enough gold to make a stack of gold blocks": "Отримай достатньо золота і створи стак золотих блоків",
+
+"Master Iron Miner": "Залізна витримка",
+"Mine enough iron to make a stack of iron blocks": "Отримай достатньо заліза і створи стак залізних блоків",
+
+"Meet The Flintstones": "Один з Флінтстоунів",
+"Dig up some flint from a patch of gravel": "Отримай кремінь з гравію",
+
+"Stabcraft": "Досвідчений нуб",
+"Do you like my sword sword": "Тобі подобається мій меч?",
+
+"The Mistake!": "Велика помилка!",
+"Put Mending on a piece of golden armor and realise what you are doing in life": "Застосуй чари «Ремонт» до частини золотої броні, а потім зрозумій, яку дурість ти зробив",
+
+
+
+
+"Barking Mad": "Все заради мистецтва",
+"Craft a bark block": "Створи блок деревини",
+
+"Lost Its Bark": "Позапланове похолодання",
+"Strip a bark block of its bark": "Лиши деревину її кори",
+
+"No Banner, Only Color!": "Ніякої реклами, просто прапор!",
+"Craft all 16 banner colors": "Створи всі 16 кольорових стягів",
+
+"Professor Birch": "Професор Березовський",
+"Craft every item made out of birch wood": "Створи всі можливі предмети з берези",
+
+"Professor Dark Oak": "Професор Темнодубий",
+"Craft every item made out of dark oak wood": "Створи всі можливі предмети з темного дубу",
+
+"Professor Oak": "Професор Дубень",
+"Craft every item made out of oak wood": "Створи всі можливі предмети з дубу",
+
+"Rainbow Dreams": "Відпочинок у Скітлзі",
+"Craft every color of bed": "Створи ліжко кожного кольору",
+
+"Spruce Lee": "Новорічний настрій",
+"Craft every item made out of spruce wood": "Створи всі можливі предмети зі смереки",
+
+"The Acacia King": "Король савани",
+"Craft every item made out of acacia wood": "Створи всі можливі предмети з акації",
+
+"The Jungler": "Джунглер",
+"Craft every item made out of jungle wood": "Створи всі можливі предмети з тропічного дерева",
+
+
+
+
+"It's a cactus!": "Так це ж... КАКТУС",
+"Break down a cactus in a desert": "Зламай цей клятий кактус",
+
+"Mega Mushroom": "Грибоїдово",
+"Grow a giant mushroom and then harvest it with silk touch": "Вирости великий гриб, а потім отримай його частинку за допомогою шовкового дотику",
+
+"Shrooms": "Грибник",
+"Gather both types of mushroom": "Збери обидва види грибів",
+
+
+
+
+"Direct Fishing": "Майстер-гарпунер",
+"Catch a fish by directly skewering it with a sword": "Злови рибу, настромивши її на меча",
+
+"Fuzzy Feet": "М'якенько!",
+"Craft all 16 colors of carpet": "Отримай всі 16 кольорових килимків",
+
+"Grinding Nemo": "Присвячується пам'яті Немо",
+"Skewer a tropical fish": "Вбий беззахисну тропічну рибку",
+
+"Lucky Charm": "Талісман",
+"Get a rabbit's foot": "Отримай кролячу лапку",
+
+"Master Angler": "Гроза всіх риб",
+"Collect a stack of all four types of fish": "Збери по стаку всіх чотирьох видів риб",
+
+"Tropical Collection": "Тропічна колекція",
+"Collect all 22 of the common types of tropical fish": "Збери 22 види тропічних рибок",
+
+
+
+
+"Camouflage": "Альфарій v0.1",
+"Kill a mob while wearing the same type of mob head": "Вбий моба, вдягнувши його голову, або ж череп",
+
+
+
+
+"Businessman": "Бізнесмен",
+"Trade with every type of villager career": "Поторгуй зі всіма типами селян",
+
+"MURDERER!": "ВБИВЦЯ!",
+"Kill a villager": "Вбий селянина",
+
+"Pushed Around": "Колообіг",
+"Enter a bubble column": "Увійди в стовб бульбашок",
+
+"Raidin' Master": "Досліджувач данжів",
+"Discover every structure type": "Досліди по данжу кожного типу",
+
+"Rekt!": "Охорона!",
+"Get killed by a natural iron golem defending its village": "Загинь від рук залізного голема, що захищає своє село",
+
+"The sea calls you...": "Море кличе тебе...",
+"Find an ocean": "Знайди океан",
+
+"Travelling Merchant": "Мандрівний торговець",
+"Travel to every type of village": "Досліди по селу кожного типу. Не вбийся об гравців",
+
+
+
+
+"Mobile Explosion": "Шайтан-арба",
+"Put TNT in a minecart": "Постав динаміт у вагонетку",
+
+"Moving Moving Storage": "Подвійне переміщення",
+"Put a hopper in a minecart": "Встанови воронку у вагонетку",
+
+"Moving Storage": "Товарняк",
+"Put a chest in a minecart": "Поклади скриню у вагонетку",
+
+"Powerful Light": "Могутнє світло",
+"Craft and place a redstone torch": "Створи і розмісти редстоуновий смолоскип",
+
+"Railwayman": "Дрімзалізниця об'єднує",
+"Craft a stack of all the different types of rails": "Створи по стаку всіх видів рейок",
+
+
+
+
+"Do A Barrel Roll!": "Зроби бочку",
+"Get Riptide on a trident so you can shoot yourself through the water": "Політай у воді на тризубі з тягуном",
+
+"Newton's Flaming Laser Sword": "Палаючий лазерний меч",
+"Have a diamond sword with Fire Aspect II": "Отримай діамантовий меч з чарами «Сила вогню II»",
+
+"To Infinity And Beyond!": "Нескінченість не межа",
+"Obtain Infinity on a bow": "Отримай чари «Нескінченність» для лука",
+
+"Ultimate Enchanter": "Магічний прорив",
+"Obtain every enchantment at every level throughout your enchanting career": "Отримай всі чари всіх можливих рівнів",
+
+
+
+"Shoot a mob with a spectral arrow": "Вистрели у моба спектральною стрілою",
+
+"Bring Down The Beast": "Приборкання звіра",
+"Bring down a ghast with a sword": "Здолай ґаста за допомогою меча",
+
+
+
+
+"The Point of No Return": "Точка неповернення",
+"Fall into the void": "Впади у порожнечу",
+
+"Furious Ammunition": "Повна боєготовність",
+"Craft every type of tipped arrow": "Створи по стрілі з кожним можливим ефектом",
+
+"Somewhere Over The Rainbow...": "Десь за веселкою...",
+"Craft all 16 shulker box types": "Змайструй всі 16 кольорових шалкерових ящиків",
+
+
+
+
+
+# All advancements added in version 1.6 are here
+"Beethoven": "Бетховен",
+"Craft a jukebox with planks and a diamond": "Створи програвач з дошок і діаманта",
+
+"Blast it!": "Домна",
+"Upgrade your furnace to a blast furnace using iron and smooth stone for smelting ores quicker": "Покращи свою піч до плавильної печі, використовуючи залізо і гладкий камінь, щоб плавити руди швидше",
+
+"Camping Out": "Відпочинок на природі",
+"Craft and place a campfire using some logs, sticks and coal": "Створи і розмісти багаття, використовуючи деревину, палиці та вугілля",
+
+"Classic Pocket Edition Block": "Каменеріз",
+"Craft a stonecutter using stone and an iron ingot": "Створи каменеріз, використовуючи камінь і залізо",
+
+"Its original form": "Так задумала природа",
+"Use your furnace to smelt cobblestone back into stone": "Використай пічку, щоб переплавити кругляк назад в камінь",
+
+"MOAR Broken Tools": "БІЛЬШЕ зламаних предметів",
+"Break every single tool and weapon in the game": "Зламай кожен інструмент і зброю в грі",
+
+"Not Chicken McNuggets?": "Хм, це не ендеркопійки?",
+"Craft or find iron nuggets": "Створи або знайди залізні самородки",
+
+"Not for creating copies of yourself": "Ковальська справа",
+"Craft a smithing table": "Створи стіл коваля",
+
+"Rest in Pickaxes": "Спочивай з миром",
+"Break your first diamond pickaxe": "Зламай своє перше діамантове кайло",
+
+"Sharpening Station": "Точильна станція",
+"Craft a grindstone using a stone slab, planks and sticks for repairing tools": "Створи точило за допомогою дошок, кам'яної плити і палиць",
+
+"Spawn Camping": "Кемпінг",
+"Travel close to 0,0 coordinates and place down a campfire": "Промандруй до нульових координат і постав там багаття",
+
+"Smokin' Hot": "Коптіння",
+"Upgrade your furnace to a smoker using some logs": "Покращи свою пічку до коптильні за допомогою деревини",
+
+"Smooth, dude!": "Гладке покриття",
+"Smelt normal stone further into smooth stone": "Переплав звичайний камінь, щоб отримати гладкий камінь",
+
+"Where are all your clothes?": "Де ж твій одяг?",
+"Break every type of armor piece in the game": "Зламай повний комплект броні кожного типу",
+
+
+
+
+"Barrel Rider": "Бондар за роботою",
+"Craft and place a barrel. Totally not for riding in": "Створи і розмісти діжку",
+
+"Crazy Walls": "Декоративне божевілля",
+"Craft every type of wall": "Створи кожний вид стіни, доступний в грі",
+
+"Festival of Lights": "Фестиваль світла",
+"Light up the area using a lantern": "Освіти місцевість за допомогою ліхтаря",
+
+"Logos": "Яка ж країна без прапору?",
+"Craft all the special banner patterns": "Створи всі візерунки для стягу",
+
+"Fruit of the Looms": "Ткацтво",
+
+"Prepare to meet your Loom!": "Незрима нитка часу",
+"Craft a loom with string and planks for creating your own banners": "Створи ткацький верстат з дошок і ниток",
+
+"Speech! Speech! Speech!": "Полум'яна промова",
+"Craft a lectern using wooden slabs and a bookshelf then place it": "Створи кафедру з дерев'яних плит і книжкової полиці, а потім розмісти її",
+
+
+
+
+"Berry Nice!": "Стиглі соковиті ягоди",
+"Pick and eat some sweet berries": "Підбери і з'їж солодкі ягоди",
+
+"Disen Berry Berry Bad!": "Несолодке відчуття",
+"Get stuck in a sweet berry bush. Oh, icky yucky goo!": "Поранься об ягідний кущ",
+
+"I'm gonna be sick!": "Тільки б не отруїтися",
+"Slurp every kind of suspicious stew": "З'їж кожен вид підозрілої юшки",
+
+"Suspicious Looking Stew": "Якась підозріла юшка",
+"Slurp some suspicious stew and pray you don't suddenly see giant flying eyeballs in the sky": "Скуштуй підозрілу юшку на смак, сподіваючись, що ти не побачиш велетенські літаючі очі в небі",
+
+"The garbage will do!": "Переробка сміття",
+"Craft a composter using planks and wooden fences then place it": "Створи компостер, використовуючи дошки і дерев'яний паркан",
+
+
+
+
+"Birdkeeper": "Любитель пташок",
+"Tame all parrot variants": "Приручи папуг всіх видів",
+
+"Bunny Lover": "Любитель кроликів",
+"Breed a baby bunny of every variant": "Розмнож кроликів кожного виду",
+
+"Colorful Cavalry": "Барвиста кавалерія",
+"Dye 16 sets of leather horse armor each with one of the individual colors": "Пофарбуй шкіряну кінську броню в кожний з 16 кольорів",
+
+"Cool Kids": "Модна куртка",
+"Craft a leather jacket": "Створи шкіряну туніку",
+
+"Fashion Statement": "Стиль!",
+"Dye some leather pants with one color": "Перефарбуй шкіряні штани",
+
+"Horse Armorer": "Ошатний кінь пана",
+"Make horse armor out of dead horses (No, joking, any leather will do)": "Створи кінську броню...з конячої шкіри(Жартуємо, будь-яка підійде)",
+
+"Llama Llama Duck King": "Караван-паша",
+"Tame all llama variants": "Приручи лам всіх видів",
+
+"Master Farrier": "Легенда Дикого Заходу",
+"Tame all horse variants": "Приручи коней всіх видів",
+
+"Mushroom Scientist": "Грибні досліди",
+"Strike a mooshroom with lightning and see what happens": "Удар грибну корову блискавкою, а потім подивись, що вийде",
+
+"Shoe Shed": "Чоботар",
+"Dye 16 pairs of leather boots each with one of the individual colors": "Пофарбуй шкіряні чоботи в кожен з 16 кольорів",
+
+"Snow Fox 64": "Песець наближається",
+"Breed two snow foxes with sweet berries": "Розмнож двох полярних лисиць за допомогою солодких ягід",
+
+"What Does The Fox Say?": "Що говорить лисиця?",
+"Breed two red foxes with sweet berries": "Розмнож двох лисиць за допомогою солодких ягід",
+
+"Which came first?": "Що ж було першим?",
+"The chicken... or the egg??": "Яйце чи курка?",
+
+
+
+
+"Monsters": "Монстри",
+
+"Baby, baby, baby noo!!": "Чайлдфрі",
+"Kill one of each of a baby zombie, zombie villager, husk, drowned and zombie pigman": "Вбий маленьких зомбі, зомбі-селянина, висушня, водяника і зомбованого пігліна",
+
+"Captain Etho": "Підкорення морського звіра",
+"Defeat a Drowned holding both a nautilus shell and a trident": "Вбий водяника, який тримає одночасно і мушлю наутилуса, і тризуб",
+
+"Custom Boss Fight!": "Чесна дуель",
+"Give a zombie full diamond armor and a diamond sword... then kill it": "Дай зомбі повний комплект діамантової броні і діамантовий меч... а потім вбий його",
+
+"Handsome Jack": "Красень Джек",
+"Defeat a mob wearing a Jack o' Lantern on Halloween": "Вбий моба, який носить світильник Джека під час Хелловіну",
+
+"Legend of the Hell Chicken Rider": "Легенда буде жити",
+"Kill a chicken jockey in the nether": "Вбий курячого вершника в пеклі",
+
+"Mollusc Man": "Людина-молюск",
+"Defeat a Drowned holding a nautilus shell": "Вбий водяника, який тримає мушлю наутилуса",
+
+"Ooh, Baby!": "Ох, дитя!",
+"Kill a baby zombie": "Вбий маленького зомбі",
+
+"Trick or Treat!": "Гаманець або життя!",
+"Defeat a mob wearing a pumpkin": "Вбий моба, який носить гарбуз на голові",
+
+"Two Birds, One Arrow": "Леголас",
+"Kill two Phantoms with a piercing arrow": "Убий двох фантомів однією стрілою",
+
+
+
+
+"A snowball's chance in hell": "Морозна сила",
+"Defeat a Blaze using snowballs": "Вбий блейза за допомогою сніжків",
+
+"Axeman": "Скажений лісоруб",
+"Attack a mob using all five types of axes": "Атакуй моба, використовуючи всі п'ять видів сокир",
+
+"Demolitions Expert": "Підривник",
+"Blow up every hostile mob with TNT": "Підірви кожного ворожого моба за допомогою динаміту",
+
+"Diamonds to you!": "Діамантів тобі",
+"Hit a mob with diamonds": "Вдарьте моба діамантом",
+
+"Expelliarmus!": "Експеліармус",
+"Hit a mob with a stick": "Вдарьте моба палицею",
+
+"Explosive Fire": "Ракетна артилерія",
+"Load your crossbow with a firework": "Заряди арбалет феєрверком",
+
+"Flying Colors": "Ширяючі кольори",
+"Apply a banner (with no patterns) to your shield": "Помісти однотонний стяг на свій щит",
+
+"Indiana Jones": "Ковбой з ласо",
+"Pull a monster using a fishing rod": "Притягни монстра, використовуючи вудочку",
+
+"Master Shieldsman": "Стіна щитів",
+"Deflect an attack from every hostile monster": "Відбий атаку кожного ворожого моба",
+
+"Ol' Betsy": "Точний постріл",
+"Shoot a crossbow": "Здійсни постріл з арбалета",
+
+"Pig Fishing Tournament": "Змагання з ловлі свинок",
+"Pull a pig using a fishing rod": "Притягни свиню за допомогою вудочки",
+
+"Revenge!": "Помста!",
+"Blow up a creeper with TNT": "Підірви кріпера за допомогою динаміту",
+
+"Shield Luck": "Вдача на твоєму боці",
+"Protect yourself from an enemy's attack with your shield": "Захисти себе від атаки ворога, прикрившись щитом",
+
+"Shovel Knight": "Гвардієць Крігу",
+"Hit a mob using all five types of shovels": "Атакуй моба, використовуючи всі види лопат",
+
+"Sir Knight": "Обережний лицар",
+"Use planks and iron to craft a shield": "Використовуй дошки і залізо для створення щита",
+
+"Slapfish": "Дати ляща",
+"Slap a mob across the face with a fish": "Вдарте моба по обличчю рибою",
+
+"That is so fletch!": "Готуємось до масових розстрілів",
+"Craft a fletching table": "Створи стіл лучника",
+
+"There's yolk on my head": "Жовток в голові",
+"Catapult an egg onto a zombie's head": "Катапультуй яйце прямо в голову зомбі",
+
+"Viking": "Вікінг",
+"Attack a mob using an axe": "Атакуй моба сокирою",
+
+"Weaponry": "У всеозброєнні",
+"Weapons of choice for combat": "Все про зброю для битви",
+
+"When Pigs Finally Fly": "Коли свині нарешті полетять",
+"Pull a pig from 25 blocks below you and watch it go": "Вудочкою притягни свиню, яка знаходиться на 25 блоків нижче, а потім спостерігай за результатом",
+
+"Who's the Pillager Now?": "Хто тепер розбійник?",
+"Give a Pillager a taste of their own medicine": "Дай розбійнику спробувати на смак його ж методи",
+
+"X-Bow": "Арбалетник",
+"Craft a crossbow using stick, spider string, iron and a hook": "Створи арбалет, використовуючи палиці, нитки, залізний зливок і гак",
+
+"King of the Sea": "Повелитель моря",
+
+
+
+
+"Bamboom!": "Бам-бум!",
+"Break down some bamboo": "Зламай бамбук",
+
+"Biomes": "Біоми",
+"All around the world!": "Навколо світу!",
+
+"Construction Worker": "Будівельник",
+"Craft and use some scaffolding": "Створи і використай риштування",
+
+"For you, my sweet": "Для тебе, мій дорогий",
+"Pick a flower for someone special": "Зірви квітку для когось особливого",
+
+"Kung Fu Panda!": "Кунг-фу Панда!",
+"Get beaten up by an angry panda": "Нехай тебе поб'є зла панда",
+
+"Simba": "Сімба",
+"Breed a baby ocelot": "Розмнож двох оцелотів, щоб побачити оцелотенятко",
+
+"The Mighty Jungle": "Густі джунглі",
+"Go for a safari in the jungle": "Мисливська експедиція в джунглі",
+
+"Top of the World": "Верхівка світу",
+"Place scaffolding to the world limit": "Розташуй риштування на найвищій точці світу",
+
+"Zoologist": "Зоолог",
+"Breed two pandas to get a baby panda": "Розмнож двох панд та порадій за малого панденятка",
+
+
+
+"Village, Pillage and Dungeons!": "Села, облоги і данжі!",
+
+"Kill a Vindicator in a Woodland Mansion": "Вбий поборника в лісовому маєтку",
+
+"Defeat an Evoker in a Woodland Mansion": "Вбий заклинача в лісовому маєтку",
+
+"All chained up": "Все пов'язано",
+"Trade for a piece of chain armor from an armorer villager": "Виторгуй предмет з кольчужного комплекту броні у селянина",
+
+"A Complete Catalogue": "Повний кітолог",
+"Tame all cat variants!": "Розмножте котів всіх видів!",
+
+"Crazy Cat Lady": "Кішка для бабусі",
+"Tame a stray cat in a village": "Приручи бездомного кота в селі",
+
+"Deal's Off!": "Угоди не буде!",
+"Get spat at by one of the Trader Llamas": "Отримай плювок від одної з лам мандрівного торговця",
+
+"Feeling Ill": "Вийди звідси, розбійник!",
+"Defeat every type of Illager as part of a raid": "Вбий кожен тип розбійників під час рейду",
+
+"Florist": "Флорист",
+"Trade for a flower from the Wandering Trader": "Виторгуй квітку у мандрівного торговця",
+
+"Hero of the Village": "Герой селища",
+"Triumph over a full raid for the first time": "Успішно захисти селище від рейду",
+
+"How to stop a rhino from charging": "Ти на кого бикуєш?!",
+"Have a Ravager slam into your shield": "Дай руйнівнику вдаритись об щит",
+
+"Illagers on Patrol": "Розбійний патруль",
+"Defeat the leader of an Illager Patrol": "Вбий прапороносця патруля",
+
+"Voluntary Exile": "Добровільне вигнання",
+"Kill a raid captain. Maybe consider staying away from villages for the time being...": "Вбий капітана патруля. Мабуть, тепер варто триматися подалі від селищ...",
+
+"It's So Beast-Like!": "Це так по-звірячому",
+"Slay a Ravager in a raid": "Вбий руйнівника під час рейду",
+
+"Lilypad Hatter": "Генний інженер",
+"Breed and trade with a swamp villager": "Виведи болотника і поторгуйся з ним. Або навідайся до лабораторії Каер Ельрату",
+
+"Mapmaker's Table": "Стіл картографа",
+"Craft a cartography table with paper and planks": "Створи стіл картографа з паперу і дошок",
+
+"Master Trader": "Майстер торгівлі",
+"Trade with every type of villager career at master level": "Поторгуйся з селянином кожної професії, виторгувавши щось на максимальному рівні",
+
+"Oh, look, it dings!": "О, дивись, воно дзвонить",
+"Pick up a bell from a village": "Підбери дзвін в селищі",
+
+"Out of Posts": "Без запрошень",
+"Enter a Pillager Outpost": "Увійди до форпосту розбійників",
+
+"Picador": "Пікадор",
+"Hit a Ravager with a thrown trident": "Влучте у руйнівника кинутим тризубом",
+
+"Rebuilding the Oceans": "Відновлення океанів",
+"Trade for a coral block from the Wandering Trader": "Виторгуй кораловий блок у мандрівного торговця",
+
+"Retro Future Knight": "Майбутній лицар",
+"Trade for full suit of chain armor from an armorer villager": "Виторгуй повний комплект кольчужної броні",
+
+"Riot Shield": "Повстання",
+"Deflect a Pillager's crossbow bolt": "Відбий стрілу, випущену розбійником з арбалета",
+
+"Shady Deals": "Темні справи",
+"Trade with a Wandering Trader while he is invisible": "Поторгуйся з блукаючим торговцем, коли він невидимий",
+
+"Stockbroker": "Біржовик",
+"Trade with every profession from every biome type": "Поторгуй з селянином кожної професії кожного біому",
+
+"The Tribal Villagers": "Професор генетики",
+"Breed and trade with a jungle villager": "Виведи тропічного селянина і поторгуй з ним",
+
+"The Haggler": "Покупець завжди правий",
+"Trade with a villager at master level": "Поторгуйся з селянином на максимальному рівні",
+
+"Town Planner": "Планування міста",
+"Craft and place every type of villager workstation": "Створи і розмісти робочу станцію кожного виду",
+
+"Traveller": "Мандрівник",
+"Travel to every type of village and trade with a villager in each": "Зайди до села кожного виду і поторгуй з селянами у кожному",
+
+"Trade with a Wandering Trader": "Поторгуй з мандрівним торговцем",
+
+"Veteran of the Village": "Ветеран селища",
+"Attain the highest level of Hero of the Village": "Отримай найвищий рівень героя селища",
+
+"Village Settler": "Засновник",
+"Trade for a new bell to establish a new village": "Виторгуй дзвін, щоб заснувати нове селище",
+
+"War is Coming": "Війна наближається",
+"Defeat enough Illager Patrol leaders to attain the highest level of Bad Omen": "Вбий стільки капітанів патрулів, щоб отримати найвищий рівень ефекту «Поганої Прикмети»",
+
+"You are the Pillager": "Тепер ти розбійник",
+"Murder one of every villager profession with a crossbow": "Вбий селянина кожної професії за допомогою арбалета",
+
+
+
+
+"Arbalistic": "Арбалістика",
+"Kill five unique mobs with one crossbow shot": "Вбий п'ять мобів одним пострілом з арбалету",
+
+"Emerald Miner": "Здобувач смарагдів",
+"Mine a stack of raw emerald ore": "Добудь стак смарагдової руди",
+
+"Machine Bow": "Автоматичний арбалет",
+"Fire a crossbow as rapidly as possible": "Стріляй з арбалета якомога швидше",
+
+"Master Arbalist": "Легендарний арбалетник",
+"Create a crossbow with all possible enchantments at max level": "Створи арбалет зі всіма можливими чарами найбільшого рівня",
+
+"Shotbow": "S-1",
+"Shoot three arrows at once with a crossbow": "Здійсни постріл трьома стрілами за раз",
+
+
+
+
+"Hell's Bells": "Пекельні дзвони",
+"Place a bell in the nether": "Розмісти дзвін у пеклі",
+
+"Decaying Beauty": "Висушуюча краса",
+"Pick up some Wither Roses from the damage the Wither wrought on your world": "Підбери декілька троянд візера",
+
+
+
+
+"Gas!": "Смертельний туман!",
+"Kill a mob using a lingering potion": "Вбий моба, використовуючи осідаюче зілля",
+
+
+
+
+"The Actual End": "Справжній кінець",
+"Get killed by an Enderman in The End": "Дай ендермену вбити себе в Енді",
+
+"The Beginning": "Початок кінця",
+"Say goodbye to the Wither...": "Прощання з висушувачем...",
+
+
+
+# All advancements added in version 1.7 are here
+"I don't like sand": "Не найкращий пісок у світі",
+"It's coarse, and rough, and irritating, and it gets everywhere": "Він грубий, жорсткий, дратівливий... і проникає всюди",
+
+"Insomniac": "Безсоння",
+"Go 30 days without sleep": "30 днів без сну",
+
+"Art Gallery": "Галерея мистецтв",
+"Place every type of painting": "Повісь всі можливі картини",
+
+"Writer's Block": "Творча криза",
+
+
+
+
+"Chestful of Cobblestone": "Скриня з кругляком",
+"Mine 1728 cobblestone, place it in a chest, then stand on it in victory": "Добудь 1728 кругляку, склади його у скриню, а потім встань на неї з відчуттям перемоги",
+
+"Bubble, Bubble, Toil and Trouble!": "Гори вогонь, кипи казан!",
+"Fill a cauldron using a bucket": "Заповни казан, використовуючи відро з водою",
+
+"Washing Machine": "Пральна машина",
+"Use a cauldron to clean leather armor, a banner and a shulker box": "Використай казан для очищення шкіряної броні, стягу і шалкерового ящика",
+
+
+
+
+"Must be your birthday": "Цукровий діабет",
+"Eat 100 slices of cake": "З'їж 100 шматків торту",
+
+"Castaway": "Експерт з виживання",
+"Eat nothing but dried kelp for three in-game days": "Не їж нічого, окрім висушеної ламінарії протягом трьох ігрових днів",
+
+
+
+
+"Free Diver": "Дайвінг",
+"Stay underwater for 2 minutes": "Пробудь під водою протягом двох хвилин",
+
+"Sleep with the Fishes": "Сон з рибками",
+"Spend a day underwater": "Проведи під водою добу",
+
+"Qinling": "Циньлінська панда",
+"Breed a rare brown panda": "Розмнож рідкісну коричневу панду",
+
+
+
+
+"We're being attacked!": "На нас напали!",
+"Trigger a Pillager Raid": "Спровокуй рейд",
+
+"Superhero of the Village": "Селянський супергерой",
+"Defeat enough raid captains to obtain a stack of Ominous Banners": "Вбий достатньо капітанів рейдів, щоб отримати стак зловісних стягів",
+
+"I've got a bad feeling about this": "Це добром не скінчиться",
+
+
+
+
+"Aww man!": "(лайку було видалено)",
+"That was a nice life you had. Shame it had to end at this time time time": "Ти прожив гідне життя.  Шкода, що воно повинне закінчитися саме так.",
+
+"Iskallium Collector": "Липка ситуація",
+"Collect enough slimeballs to craft a stack of slime blocks": "Створи стак блоків слизу",
+
+"Spider-skeleton": "Павучий вершник",
+"Does whatever a spider can": "Дві голови краще однієї!",
+
+
+
+
+
+"Artillery": "Артилерія",
+"Have nine loaded crossbows in your hotbar. All set!": "Помісти дев'ять заряджених арбалетів у слоти швидкого доступу!",
+
+
+
+
+
+"Magical Stockpile": "Магічний запас",
+"Obtain a full stack of bottles of enchanting": "Отримай стак пляшечок з чарами",
+
+
+
+
+"Ancient Kung Fu Master": "Майстер стародавнього кунг-фу",
+"Sneak 10km": "Прокрадися 10 км",
+
+"Black Belt Ninja": "Ніндзя з чорним поясом",
+"Sneak 1km": "Прокрадися 1 км",
+
+"Boing, Boing": "Стриб-скок!",
+"Jump 10,000 times": "Зроби стрибок 10 000 разів",
+
+"Cupid": "Купідон",
+"Breed 500 animals": "Розмнож 500 тварин",
+
+"Did you just run across earth?": "Пішки навколо світу",
+"Sprint 1000km": "Пробіжи 1000 км",
+
+"Elderly Enchanter": "Стародавній чародій",
+"Enchant 250 items": "Зачаруй 250 предметів",
+
+"Frequent Flyer": "Літун",
+"Fly 100km with elytra": "Пролети 100 км на елітрах",
+
+"Global Railway Network": "Залізнична мережа",
+"Ride 50km in a minecart": "Проїдь 50 км на вагонетці",
+
+"Happy New Year!": "З Новим роком!",
+"Play for a whole Minecraft year": "Грай протягом року!",
+
+"Horse Training": "Тренувальний забіг",
+"Ride 1km on a horse": "Проїдь верхи на коні 1 км",
+
+"I enjoy long walks & playing MC": "Тривала прогулянка",
+"Walk 1000km": "Пройди 1000 км",
+
+"I Like Trains": "Я люблю електрички",
+"Ride 10km in a minecart": "Проїдь 10 км на вагонетці",
+
+"Journeyman Enchanter": "Підмайстер-чародій",
+"Enchant 50 items": "Зачаруй 50 предметів",
+
+"Jumping Jacks": "Подібний до зайця",
+"Jump 100,000 times": "Зроби стрибок 100 000 раз",
+
+"Laps in the pool": "Плескаючись в басейні",
+"Swim 1km": "Пропливи 1 км",
+
+"Level Up": "Новий рівень",
+"Reach 30 experience levels": "Отримай 30 рівень досвіду",
+
+"Lightning McPig": "Блискавка МакСвин",
+"Ride 10km on a pig": "Проїдь верхи на свині 10 км",
+
+"Luxury Cruise": "Шикарний круїз",
+"Sail 1km in a boat": "Пропливи 1 км за допомогою човна",
+
+"Marathon": "Марафонець",
+"Sprint 42km": "Пробіжи 42 км",
+
+"Minecart Rider": "Машиніст",
+"Ride 1km in a minecart": "Проїдь 1 км на вагонетці",
+
+"Novice Enchanter": "Досліджувач чар",
+"Enchant 10 items": "Зачаруй 10 предметів",
+
+"Olympic Athlete": "Олімпійський атлет",
+"Swim 10km": "Пропливи 10 км",
+
+"Olympic Gold Medallist": "Олімпійський чемпіон",
+"Swim 100km": "Пропливи 100 км",
+
+"Out for a stroll": "Давай погуляємо",
+"Walk 10km": "Пройди 10 км",
+
+"Overlevelling": "Надлишок досвіду",
+"Reach 100 experience levels": "Отримай 100 рівнів досвіду",
+
+"Passing the Time": "Вбиваючи час",
+"Play for 100 days": "Грай протягом 100 діб",
+
+"Pig Training": "Тренування свинок",
+"Ride 100m on a pig": "Проїдьте 100 м верхом на свині",
+
+"Pirate Captain": "Капітан піратів",
+"Sail 10km in a boat": "Пропливи 10 км човном",
+
+"Statistics": "Статистика",
+"If your numbers go up, you're having more fun": "Якщо цифри збільшуються, то вам дійсно весело",
+
+"Sailor of the Seven Seas": "Моряк Семи Морів",
+"Sail 50km in a boat": "Пропливи 50 км човном",
+
+"Scourge of the West": "Вершник з Голд Ріверу",
+"Ride 50km on a horse": "Проїдь верхи на коні 50 км",
+
+"Sheriff Firearm": "Витривала кавалерія",
+"Ride 10km on a horse": "Проїдь верхи на коні 10 км",
+
+"Sneaky Snitch": "Крадеться хитрун",
+"Sneak 100m": "Прокрадися 100 м",
+
+"Snout 500": "П'ятачок 500",
+"Ride 1km on a pig": "Проїдь верхи на свині 1 км",
+
+"Spring in your step": "Пружиниста хода",
+"Jump 1000 times": "Зроби 1000 стрибків",
+
+"Supersonic": "Надзвуковий",
+"Fly 10km with elytra": "Пролети 10 км за допомогою елітр",
+
+"Take to the Skies": "Піднімаючись до небес",
+"Fly 1km with elytra": "Пролети 1 км за допомогою елітр",
+
+"The First Night": "Перша ніч",
+"Survive the first night in your brand new world": "Виживи першу ніч в абсолютно новому світі",
+
+"The Parrots and the Bats": "Папуги і кажани",
+"Breed 100 animals": "Розмнож 100 тварин",
+
+"Two By Two": "Два на два",
+"Breed 2500 animals": "Розмнож 2500 тварин",
+
+"Who needs cars?": "Кому потрібні машини?",
+"Walk 100km": "Пройди 100 км",
+
+"XP Grinder": "Досвідозалежний",
+"Reach 1000 experience levels": "Отримай 1000 рівнів досвіду",
+
+"Your legs must be tired": "Змучені ноги",
+"Sprint 250km": "Пробіжи 250 км",
+
+
+
+
+"Mad Scientist": "Божевільний вчений",
+"Cure a zombie villager of every profession": "Вилікуй зомбі-селянина кожної професії",
+
+"A Furious Test Subject": "Розлючений піддослідний",
+"Get attacked by a mob with every potion effect": "Будьте атаковані мобом, що матиме усі ефекти зілль",
+
+
+
+
+"Event Horizon": "Горизонт подій",
+"Survive void damage": "Виживи після отримання шкоди від порожнечі",
+
+"Dragon vs Dragon": "Довакін",
+"Kill the Ender Dragon while wearing a Dragon Head": "Вбий Ендер-дракона, носячи драконячу голову",
+
+"Rocketman": "Людина-ракета",
+"Fill your inventory with full stacks of firework rockets": "Заповни весь інвертар стаками ракет",
+
+
+
+
+"A Million Blocks Away": "Стрибок на мільйон",
+"Travel a million blocks away from spawn": "Скористайся чарівною кнопкою на спавні",
+
+"Abyss Lord": "Правитель Ніалоти",
+"Obtain a stack of Conduits": "Отримай стак провідників",
+
+"All the Blocks!": "Абсолютно всі блоки!",
+"Obtain all the blocks!": "Отримай всі можливі блоки",
+
+"All the Items!": "Абсолютно всі предмети!",
+"Obtain all the items!": "Отримай всі можливі предмети",
+
+"Biological Warfare": "Біологічна війна",
+"Kill every mob in the game with lingering potions": "Вбий кожного моба в грі за допомогою осідаючого зілля",
+
+"Creepergeddon": "Легенда Стоунвуду",
+"Obtain a stack of Creeper Heads": "Отримай стак голів кріпера",
+
+"Death From All": "Смерть від всіх",
+"Get killed by every mob that can kill you. (Ignore in hardcore mode)": "Вбийся об кожного монстра та розлючену тварину",
+
+"Dragon Army": "Мірак",
+"Obtain a stack of Ender Dragon Heads": "Отримай стак голів дракона",
+
+"Dragon vs Dragon II: Electric Boogaloo": "Дракон на Дракона II: Перезапуск",
+"Defeat the Ender Dragon while wearing a dragon head... without touching the ground": "Вбий Ендер-дракона, носячи при цьому голову дракона... і не торкаючись землі",
+
+"Endergeddon": "Ендерогедон",
+"Send every mob to the End... and kill them all there": "Відправ кожного моба в Енд, а потім вбий його",
+
+"Global Vaccination": "Глобальна вакцинація",
+"Cure a zombie villager of every profession... from every biome": "Вилікуй зомбі-селянина кожної професії... з кожного біому",
+
+"Highway to Hell": "Траса в пекло",
+"Send every mob to the Nether... and kill them all there": "Відправ кожного моба до пекла, а поітм вбий його там",
+
+"I'm in Space!": "Я у космосі!",
+"Levitate up a distance of 256 blocks": "Пролевітуй на дистанцію в 256 блоків",
+
+"Immortal": "Безсмертний",
+"Fill your entire inventory with Totems of Undying": "Заповни весь інвентар тотемами безсмертя",
+
+"Nuclear Fusion": "Термоядерна реакція",
+"Strike every mob that can transform with lightning at once": "Запусти блискавкою в кожного моба, який може перетворитися",
+
+"Potion Master": "Майстер-алхімік",
+"Kill every mob in the game with splash potions": "Вбий кожного моба в грі за допомогою вибухового зілля",
+
+"Rise of the Skeletons": "Черепи для трону черепів!",
+"Obtain a stack of Skeleton Skulls": "Отримай стак черепів",
+
+"Super Challenges": "Надвиклики",
+"Good luck completing... any of these ;)": "Щасти в закінченні... будь-якого з випробувань ;)",
+
+"Stack All the Blocks!": "Застакувати всі блоки!",
+"Obtain a stack of all the blocks!": "Отримай по стаку кожного з блоків",
+
+"Stack All the Items!": "Застакувати всі предмети",
+"Obtain a stack of all the items!": "Отримай по стаку кожного з предметів",
+
+"The World Is Ending": "Кінець світу",
+"Summon ten withers at once": "Виклич десять висушувачів за раз",
+
+"Warlock": "Чорнокнижник",
+"Obtain a stack of Beacons": "Отримай стак маяків",
+
+"We're in the endgame now": "Фінальна битва",
+"Construct a village in the End and defend it from a raid": "Побудуй село в Енді, а потім захисти його від рейду",
+
+"Zombie Apocalypse": "Каратель Екзархату",
+"Obtain a stack of Zombie Heads": "Отримай стак голів зомбі",
+
+
+
+
+# All advancements added in version 1.8 are here
+"Ya like jazz?": "Квіткові чари",
+"Breed two bees using flowers": "Розмнож двох бджіл за допомогою квітів",
+
+"Winnie the Pooh": "Вінні-Пух",
+"Drink some honey": "Випий пляшечку меду",
+
+"Sticky Situation": "Прилип як муха до меду",
+"Jump into a honey block to slide down it": "Стрибни у блок меду, щоб сповільнити своє падіння",
+
+"WHERE'S THE HONEY LEBOWSKI": "Медозалежний",
+"Drink 100 bottles of honey": "Випий 100 пляшечок меду",
+
+"Hive Mind": "Розум Вулика",
+"Craft a bee hive using planks and honeycombs then place it": "Розмісти вулик, створивши його з дошок і медових стільників",
+
+"NOT THE BEES!": "ТІЛЬКИ НЕ БДЖОЛИ!",
+"Get stung to death by bees": "Помри від укусів бджіл",
+
+"Honey, I'm Home!": "Я вдома, солодкий!",
+"Craft a stack of honeycomb blocks for building a home out of": "Створи стак блоків медових стільників, щоб вистачило на будинок з них",
+
+
+
+
+"Aaaaaand... OPEN!": "І-і-і-і... Відчинились!",
+"Craft and place an iron door": "Створи і постав залізні двері",
+
+"Cut In Half": "Обрізані на половину",
+"Craft some slabs": "Створи трохи плит",
+
+"Stairs? NOOOOO!": "Сходи? НІ-І-І!",
+"Craft some stairs": "Створи трохи сходів",
+
+
+
+
+"Everybody Loves Ice!": "Во славу Айстауну!",
+"Obtain a stack of every type of ice in your inventory": "Збери в інвентарі по стаку кожного виду криги",
+
+
+
+
+"Full Stomach": "Повний шлунок",
+"Fill both your hunger bar and saturation level": "Заповни показники голоду і ситості до максимуму",
+
+
+
+
+"Help! I've been framed!": "Допоможи! Мене обрамили!",
+
+"Craft a composter using wooden slabs then place it": "Створи компостер, використовуючи дерев'яні плити, а потім постав його",
+
+"Enter an underground cave": "Увійди у підземну печеру",
+
+"Heart of Darkness": "Серце темряви",
+"Submerge yourself in complete darkness": "Поринь в непроглядну темряву",
+
+"I'm in Lava With You": "Лавова романтика",
+"Hit something while you and it are in lava": "Атакуй кого-небудь, перебуваючи разом з ним у лаві",
+
+"Total Beelocation": "Велике переселення бджіл",
+"Move a Bee Nest with 3 bees inside using Silk Touch": "Підбери бджолине гніздо з трьома бджолами всередині, використовуючи «Шовковий дотик»",
+
+"Bee Our Guest": "Бдж-ж-жолиний гість",
+"Use a bottle to collect Honey from a Beehive with a campfire beneath it so you don't aggravate the bees": "Використовуй пляшечку, щоб зібрати мед з бджолиного вулика, під яким знаходиться вогнище, щоб не розлютити бджіл",
+
+
+
+# All advancements added in version 1.9 are here
+"BlazeandCave's Advancements" : "Досягнення від BlazeandCave",
+"Loads of brand new advancements for your Minecraft world!" : "Багато нових досягнень для вашого світу Майнкрафту!",
+
+"Mining Milestone" : "Майстер-проходчик",
+"Complete every advancement in the Mining tab" : " Закінчи гілку досягнень «Шахтарське ремесло»",
+
+"Building Milestone" : "Почесний прораб",
+"Complete every advancement in the Building tab" : "Закінчи гілку досягнень «Будівництво»",
+
+"Farming Milestone" : "Працелюбний аграрій",
+"Complete every advancement in the Farming tab" : "Закінчи гілку досягнень «Сільське господарство»",
+
+"Animal Milestone" : "Справжній скотар",
+"Complete every advancement in the Animal tab" : "Закінчи гілку досягнень «Тварини»",
+
+"Monsters Milestone" : "Екстермінатор",
+"Complete every advancement in the Monsters tab" : "Закінчи гілку досягнень «Монстри»",
+
+"Weaponry Milestone" : "Зате ми робимо гармати",
+"Complete every advancement in the Weaponry tab" : "Закінчи гілку досягнень «У всеозброєнні»",
+
+"Biomes Milestone" : "Першопроходець",
+"Complete every advancement in the Biomes tab" : "Закінчи гілку досягнень «Біоми»",
+
+"Adventure Milestone" : "Безстрашний",
+"Complete every advancement in the Adventure tab" : "Закінчи гілку досягнень «Пригоди»",
+
+"Redstone Milestone" : "Фабрикатор-генерал",
+"Complete every advancement in the Redstone tab" : "Закінчи гілку досягнень «Редстоун»",
+
+"Enchanting Milestone" : "Майстер таємних мистецтв",
+"Complete every advancement in the Enchanting tab" : "Закінчи гілку досягнень «Чародійство»",
+
+"Statistics Milestone" : "Манія величі",
+"Complete every advancement in the Statistics tab" : "Закінчи гілку досягнень «Статистика»",
+
+"Nether Milestone" : "Новий Люцифер",
+"Complete every advancement in the Nether tab" : "Закінчи гілку досягнень «Пекло»",
+
+"Potions Milestone" : "Сталевий алхімік",
+"Complete every advancement in the Potions tab" : "Закінчи гілку досягнень «Алхімія»",
+
+"End Milestone" : "Герой космосу",
+"Complete every advancement in the End tab" : "Закінчи гілку досягнень «Кінець...»",
+
+"Super Challenges Milestone" : "Шлях до зірок",
+"Complete every advancement in the Super Challenges tab. Good luck with this one ;)" : "Закінчи гілку досягнень «Надвиклики». Щасти з цим ;)",
+
+"Advancement Legend" : "Бог-Імператор",
+"Complete every single advancement in BlazeandCave's Advancements Pack" : "Виконай абсолютно всі досягнення від BlazeandCave",
+
+
+
+
+# Name and description changes in version 1.9
+"I am Ravager, hear me ROAR!" : "Я - Руйнівник, почуй мій РИК!",
+
+"Dragon vs Dragon II" : "Дракон на Дракона II",
+
+"Legend of Hell Chicken Riders" : "Легенда про курячих вершників",
+
+"Scientific Inaccuracy" : "Наукова неточність",
+
+"Olaf" : "Олаф",
+"Do you want to build a snow golem?" : "Може, хочеш побудувати сніговика?",
+
+"Mushroom, Mushroom!" : "Гриб, гриб, ВААААГХ, гриб!",
+
+"Agent Smithing Table" : "Агент Ковальський Стіл",
+
+"Foal Play" : "Лоша",
+
+"Moskstraumen" : "Мальстрем",
+
+"Ring a bell in a village" : "Вдарте в дзвін у селі",
+
+"Ring a bell in the Nether" : "Вдарте в дзвін у пеклі",
+
+
+
+# All advancements added in version 1.10 are here
+"Dungeons and Spawners" : "Данжі і спавнери",
+"Open a chest in a dungeon deep underground" : "Відкрий скриню в данжі глибоко під землею",
+
+"Steals on Wheels" : "Крадіжка на колесах",
+"Loot a minecart chest from an Abandoned Mineshaft" : "Пограбуй вагонетку зі скринею в занедбаній шахті",
+
+"Delicious, Hot Schmoes!" : "М-м-м, гарячі смаколики!",
+"Place every type of cookable food on a campfire" : "Поклади кожен предмет, який можна приготувати, на багаття",
+
+"Oresome!" : "Рудне діло",
+"Mine a stack of every ore block" : "Отримай по стаку кожної руди",
+
+
+
+
+"Grass Type" : "Магос біологіс",
+"Obtain every type of grass block in your inventory" : "Отримай траву кожного виду",
+
+"Shroom Lightyear" : "Грибне просвітлення",
+"Light up the area with Shroomlight!" : "Освіти місцевість світлогрибом",
+
+"Cerulean!" : "Лазурність!",
+"Light up the area with soul fire torches and soul fire lanterns!" : "Освіти місцевість блакитними смолоскипами і ліхтарями душ",
+
+"Let There Be Light!" : "Нехай буде світло!",
+"Hold a stack of every light-emitting block and item" : "Отримай по стаку кожного блоку і предмету, що випромінюють світло",
+
+"No Chain, No Gain" : "Немає ланцюга, немає вигоди",
+"Craft a chain using an iron ingot and iron nuggets" : "Створи ланцюг з залізного зливка і самородків",
+
+"Blackstonehenge" : "Чорнокам'яна фортеця",
+"Craft or collect all forms of Blackstone, Polished Blackstone and Polished Blackstone Bricks" : "Створи або збери всі форми чорнокаменю, включаючи полірований і цегляний варіанти",
+
+"Colors of the Wind" : "Кольори вітру",
+"Dye a sign with each color of dye" : "Перефарбуй табличку в кожний з кольорів",
+
+
+
+
+"Natural Fertiliser" : "Природне добриво",
+"Fill up a composter" : "Заповни компостер",
+
+"Combine Harvester" : "Промисловий аграрій",
+"Use bone meal on everything that can be grown" : "Застосуй кістне борошно всюди, де можливо",
+
+"What's new with composting?" : "Що нового в компостуванні?",
+"Compost every type of compostable item in a Composter" : "Прокомпостуй всі можливі предмети в компостері",
+
+"A Gluttonous Diet" : "Ненажерлива дієта",
+"Obtain a full stack of all the foods" : "Отримай по стаку кожного виду їжі",
+
+
+
+
+"Foilage" : "Зелень",
+"Use shears to pick up tall grass or ferns" : "Використай ножниці, щоб здобути траву або папороть",
+
+"Going Down the Rabbit Hole" : "Спускаючись по кролячій норі",
+"Bring a rabbit to the bottom of the world, then kill it" : "Приведи кролика на дно світу, а потім вбий його",
+
+"Just Keeps Going" : "Воно все ще в дорозі",
+"Eat Rabbit Stew, then avoid eating for the next 3 in-game days" : "З'їж тушкованого кролика, а потім не їжте протягом трьох ігрових діб",
+
+"Nest, Quick!" : "Гніздо, швидко!",
+"Collect a stack of empty bee nests" : "Збери стак пустих бджолиних гнізд",
+
+"Heavy Duty Caravan" : "Тяжкий караван",
+"Tame a llama with a strength of 5" : "Приручи ламу з силою 5",
+
+"Save the Turtles!" : "Врятувати черепашок!",
+"Collect a stack of turtle eggs" : "Збери стак черепаших яєць",
+
+
+
+
+"So Long & Thanks For The Fish" : "Щасти, і дякую за рибу",
+"Get murdered by dolphins" : "Будь вбитим дельфінами",
+
+
+
+
+"Now You’re Thinking With Portals" : "Портальне мислення",
+"Find a broken Nether Portal in the Overworld" : "Знайди зруйнований портал в звичайному світі",
+
+"I just want to make toast!" : "Просто кортить зробити тост!",
+"Name a bunny 'Toast'" : "Назви кролика «Toast»",
+
+"What's Up, Doc?" : "Як справи, док?",
+"Turn a mob upside-down" : "Переверни моба з ніг на голову",
+
+"Nyan Sheep" : "Нян Вівця",
+"Nyan Nyan Nyan Nyan..." : "Нян~Нян~Нян~Нян…",
+
+"Slenderman" : "Слендермен",
+"Defeat this terrifying monster" : "Вбий цього страшного монстра",
+
+"The one and true Johnny" : "Справжній Джонні",
+"Defeat Johnny" : "Вбий Джонні",
+
+"Prime Specimen" : "Поціновувач зелені",
+"Find Tall Grass or a Large Fern inside a village chest" : "Знайди високу траву або розлогу папороть в сільській скрині",
+
+"Redemption Arc" : "Спокутування",
+"Befriend a Pillager that doesn’t have a crossbow" : "Потоваришуй з розбійником, у якого немає арбалета",
+
+"Council of Crafters" : "Нарада ремесників",
+"Trade with a villager at height limit" : "Поторгуйся з селянином на максимальній висоті",
+
+"Workaholic" : "Трудоголік",
+"Craft a stack of all the villager job site blocks" : "Створи по стаку всіх робочих станцій селян",
+
+"I am Loot!" : "Я є Лут!",
+"Open up every type of loot chest" : "Відкрий скриню з лутом кожного виду",
+
+
+
+
+"Paleontologist" : "Палеонтолог",
+"Craft or mine a stack of bone blocks" : "Отримай стак кістяних блоків",
+
+"Impossible..." : "Нереально...",
+"Kill an Enderman with an arrow" : "Вбий ендермена за допомогою стріли",
+
+"Family Reunion" : "Об'єднання сім'ї",
+"Reunite all zombie variants (and their baby forms) in one place" : "Збери в одному місці всі варіанти зомбі, включаючи маленьких",
+
+"Bone-to-party" : "Кісткова вечірка",
+"Reunite all skeleton variants and their three-headed overlord in one place" : "Збери в одному місці всі варіанти скелетів, включаючи їх трьохголового вожака",
+
+
+
+
+"Loser!" : "Невдаха!",
+"Die twice within ten seconds" : "Помри двічі за десять секунд",
+
+"Multiclassed" : "Мультикласовий",
+"Hit a mob with every type of weapon" : "Вдар моба кожним видом зброї",
+
+"Pyrotechnic" : "Піротехнік",
+"Craft a firework of every shape and additional effect" : "Створи феєрверк кожної форми і з кожним додатковим ефектом",
+
+"My eyes!" : "Мої очі!",
+"Kill a mob using a firework's explosion" : "Вбий моба за допомогою вибуху феєрверка",
+
+"Who ya gonna call?" : "Ґастовий мисливець",
+"Kill a ghast using a firework's explosion" : "Вбий ґаста за допомогою вибуху феєрверка",
+
+
+
+
+"Target Acquired" : "Ціль встановлена",
+"Put up a Target for archery practise" : "Установи мішень для стрільби з лука",
+
+"Target Practise" : "Тренувальна стрільба",
+"Hit a Target with all types of projectiles" : "Поціль у мішень всіма видами снарядів",
+
+"Bullseye" : "В яблучко!",
+"Hit the bullseye of a Target Block with an arrow from 30 blocks away" : "Влуч у центр мішені стрілою з відстані в 30 блоків",
+
+
+
+
+"This name sounds cooler" : "Це звучить крутіше",
+"Name your Diamond Sword 'Diamond Edge'" : "Назви свій діамантовий меч «Diamond Edge»",
+
+"I'll be back" : "Я повернусь",
+"Name your bow 'Terminator'" : "Назви свій лук «Terminator»",
+
+"God of Thunder" : "Тор",
+"Name your Trident with Loyalty III and Channeling 'Mjolnir'" : "Назви свій тризуб, зачарований на «Вірність III» і «Блискавицю» «Mjolnir» ",
+
+"A rather pointy fence post" : "Непогано нагострена палиця",
+"Enchant a wooden sword with Sharpness V. Not really the best weapon, but it could be a minor annoyance to someone" : "Зачаруй дерев'яний меч на «Гостроту V». Не найкраща зброя, але може добре когось довести",
+
+"Gotta Go Fast!" : "Треба поспішати!",
+"Obtain the Soul Speed enchantment from a Bastion or bartering with Piglins" : "Отримай чари «Швидкість душ» у бастіоні або під час обміну з піглінами",
+
+"Handmade Blinding" : "Самоосліплення",
+"Wear a carved pumpkin enchanted with Curse of Binding" : "Одягни вирізанний гарбуз, зачарований на «Прокляття прив'язування»",
+
+"Master Digger" : "Ветеран Крігу",
+"Create a shovel with all possible enchantments at max level" : "Створи ідеальну лопату зі всіма можливими чарами максимального рівня",
+
+"Master Axeman" : "Справжній норд",
+"Create an axe with all possible enchantments at max level" : "Створи ідеальну сокиру зі всіма можливими чарами максимального рівня",
+
+"Master Farmer" : "Справа для душі",
+"Create a hoe with all possible enchantments at max level" : "Створи ідеальну мотику зі всіма можливими чарами максимального рівня",
+
+
+
+
+"Mob Hunter" : "Мисливець на мобів",
+"Defeat 250 mobs" : "Вбий 250 мобів",
+
+"Bloodthirsty" : "Жага крові",
+"Defeat 2500 mobs" : "Вбий 2500 мобів",
+
+"Kill or be Killed" : "Вбити чи бути вбитим",
+"Defeat 25,000 mobs" : "Вбий 25 000 мобів",
+
+"Taking It In Stride" : "Улюбленець на прогулянці",
+"Ride 100m on a Strider" : "Проїдь 100 м на блукачі",
+
+"Who Needs Boats?" : "Кому потрібні човни?",
+"Ride 1km on a Strider" : "Проїдь 1 км на блукачі",
+
+"This Ride Is Lit, Yo!" : "А непогана поїздка, а?",
+"Ride 10km on a Strider" : "Проїдь 10 км на блукачі",
+
+
+
+
+"Stem Research" : "Дослідження стовбура",
+"Attack a huge Nether Fungi until a stem pops out" : "Рубай великі пекельні гриби, поки не випаде стебло",
+
+"What a Fungi!" : "Що за поганка!",
+"Pick up Crimson or Warped Fungus" : "Підбери багряний або химерний гриб",
+
+"I am Root" : "Я є Корінь!",
+"Pick up some crimson or warped roots" : "Підбери багряний або химерний корінь",
+
+"Don't Blink" : "Не моргай",
+"Climb on some Weeping Vines in a Crimson Forest" : "Видряпайся на плакучі лози в багряному лісі",
+
+"Twisted" : "Скручений",
+"Climb on some Twisting Vines in a Warped Forest" : "Видряпайся на кручені лози в химерному лісі",
+
+"What about Corruption Planks?" : "Як щодо багрянцю?",
+"Craft every item made out of crimson wood" : "Створи кожен предмет з багряних дошок",
+
+"Welcome to Warp Zone!" : "Зона деформації!",
+"Craft every item made out of warped wood" : "Створи кожен предмет з химерних дошок",
+
+"Hot Tourist Destination" : "Палаюча путівка",
+"Explore every Nether biome" : "Досліди кожен біом пекла",
+
+"Hell Botanist" : "Пекельний ботанік",
+"Gather a stack of every Nether plant" : "Отримай по стаку кожної пекельної рослини",
+
+"Spreading Corruption" : "Розповсюдження зарази",
+"Place one of every nether block in the overworld" : "Встанови кожен пекельний блок в звичайному світі",
+
+"The Struggle Nether Ends" : "Кінцева зупинка Енду",
+"Place one of every nether block in The End" : "Встанови кожен пекельний блок у вимірі Енд",
+
+"Roadhog" : "Лихач",
+"Hunt a Hoglin for food" : "Влаштуй полювання на хогліна заради їжі",
+
+"When Hoglins Breed" : "Коли хогліни розмножуються",
+"Breed a baby Hoglin using Crimson Fungi" : "Розмнож хоглінів за допомогою багряного грибу",
+
+"Whole Hog" : "Чортів кнур",
+"Get mauled by a Hoglin" : "Отримай по пиці від хогліна",
+
+"Giddy Up!" : "Рости великим і здоровим",
+"Punch a baby Hoglin that is being ridden by a baby Piglin" : "Вдар маленького хогліна на якому сидить маленький піглін",
+
+"Zork Chop" : "Зомбекон",
+"Bring a Hoglin into the Overworld to zombify it, then kill it for zorkchops" : "Приведи хогліна в звичайний світ, щоб зомбіфікувати його, а потім вбий його заради їжі",
+
+"This Boat Has Legs" : "У цього човна є лапки",
+"Ride a Strider with a Warped Fungus on a Stick" : "Осідлай блукача за допомогою вудочки з химерним грибом",
+
+"Bobbleheads" : "Бовванчик",
+"Breed two Striders using Warped Fungus" : "Розмнож двох блукачів за допомогою химерного гриба",
+
+"This One’s Mine!" : "Це мій!",
+"Kill a Zombified Piglin that is riding a Strider and take its steed" : "Відбери блукача у зомбованого пігліна, вбишви його",
+
+"Oh, Shiny!" : "Ох, блищить!",
+"Distract Piglins with gold" : "Відволічи пігліна за допомогою золота",
+
+"Cultural Misunderstandings" : "Культурне непорозуміння",
+"Slay a Piglin in battle... or an accidental incursion" : "Вбий пігліна в битві... або просто так ",
+
+"Who is Cutting Onions?" : "Хто нарізає цибулю?",
+"Obtain Crying Obsidian from a ruined portal or bartering with Piglins" : "Отримай плакучий обсидіан",
+
+"Anchorman" : "Якірник",
+"Craft a Respawn Anchor using Crying Obsidian and Glowstone then place it down" : "Створи якір відродження з плакучого обсидіану і світлокамню, після чого встанови його",
+
+"Not Quite 'Nine' Lives" : "Не зовсім «дев'ять» життів",
+"Charge a Respawn Anchor to the maximum" : "Заряди якір відродження на максимум",
+
+"We Got a Live One!" : "Один живий є!",
+"Bring a Piglin into the Overworld then spare it from an eternity of zombification" : "Приведи пігліна в звичайний світ, щоб поспостерігати за його зомбіфікацією",
+
+"When Piglins Fly" : "Коли пігліни літають",
+"Give a piglin elytra then kill it" : "Подаруй пігліну елітри, а потім вбий його",
+
+"Electrifying Alliance" : "Електризуючий альянс",
+"Smite a ghast with lightning from the Overworld’s heavens" : "Поціль у ґаста блискавкою з небес звичайного світу",
+
+"Time to Fire Back" : "Вогонь у відповідь",
+"Craft a stack of fire charges" : "Створи стак зарядів полум'я",
+
+"From Whence It Came!" : "Звідки це тут?",
+"Find a broken Nether Portal in the Nether" : "Знайди зруйнований портал в пеклі",
+
+"Those Were the Days" : "Таємниче минуле",
+"Fight your way into a Bastion Remnant" : "Зайди у бастіон",
+
+"War Pigs" : "Було ваше - стало наше",
+"Loot a chest in a Bastion Remnant" : "Загляни до скрині в бастіоні",
+
+"Gilty!" : "Пекельний стиль!",
+"Mine some Gilded Blackstone from a Bastion Remnant" : "Добудь позолочений чорнокамінь в руїнах бастіону",
+
+"Wub wub wub!" : "Туц-туц-туц!",
+"Obtain the Pigstep music disc from a Bastion Remnant" : "Отримай платівку «Пігстеп» у руїнах басітону",
+
+"Nugget in a Biscuit" : "Походження золота",
+"Mine Nether Gold Ore for a pile of gold nuggets" : "Доудь пекельну золоту руду заради отримання золотих самородків",
+
+"Dark Ages" : "Темні часи",
+"Mine Blackstone from a Basalt Deltas biome" : "Добудь чорнокамінь в біомі базальтових дельт",
+
+"Burnt Right Into Your Soul" : "Пробило до глибини душі",
+"Get caught on Soul Fire" : "Вляпайся у вогонь душ",
+
+"A Soul For A Soul" : "Душа для душі",
+"Place down a Soul Campfire" : "Розмісти багаття душ",
+
+"Let Me Out!" : "Відпусти мене!",
+"Stay in the Nether for twenty ingame days" : "Проведи в пеклі 20 ігрових діб",
+
+"Inception" : "Це всього лиш початок",
+"Build a machine that can break a hole in the roof of the Nether" : "Побудуй машину, яка спроможна пробити діру в стелі пекла",
+
+"The Descent" : "Спуск",
+"Dig down into the deepest depths of the Nether" : "Проберися у найнижчі глибини пекла",
+
+"Nether Say Die" : "Я житиму вічно",
+"Excavate out some Ancient Debris from deep beneath the lava oceans" : "Добудь стародавні залишки з глибин під океанами лави",
+
+"Holy Scrap!" : "Святий уламок",
+"Smelt Ancient Debris into Netherite Scrap" : "Переплав давні залишки у незеритовий уламок",
+
+"Diamonds Are Not Forever" : "Діаманти не вічні",
+"Use Gold Ingots and Netherite Scrap to make a Netherite Ingot" : "Використай золоті зливки і незеритові уламки для створення незеритового зливка",
+
+"MOAR Upgraded Tools" : "Незнищенні інструменти",
+"Craft a Netherite Pickaxe, Axe, Shovel and Hoe" : "Створи незеритове кайло, сокиру, лопату і мотику",
+
+"A Knight to Nether Forget" : "Пекельний лицар",
+"Use a Smithing Table to upgrade your diamond armor to netherite armor" : "Використай стіл коваля, щоб поліпшити діамантову броню до незеритової",
+
+"Soul Runnings!" : "Втеча душі!",
+"Step on Soul Sand with Netherite Boots enchanted with Soul Speed III" : "Встань на пісок душ в незеритових чоботах, зачарованних на «Швидкість душ III»",
+
+"Fool Me Twice" : "Ті ж самі граблі",
+"Completely use up a netherite hoe. Clearly you have chosen... poorly" : "Повністю використай незеритову мотику. Очевидно, Ваш вибір був... таким собі",
+
+"Get a Lode Of This!" : "Ти тільки поглянь на це!",
+"Craft a Lodestone using Chiseled Stone Bricks and a Netherite Ingot" : "Створи магнетит за допомогою різьбленої кам'яної цегли та незеритового зливка",
+
+"Country Lode, Take Me Home" : "Поверни мене додому",
+"Use a Compass on a Lodestone" : "Використай компас на магнетиті",
+
+"Lodes of Applications" : "Магнетитова прив'язка",
+"Create a Lodestone Compass in all three dimensions" : "Створи намагнічений компас в усіх трьох вимірах",
+
+"Archaeologist" : "Археолог",
+"Mine a stack of Ancient Debris" : "Отримай стак стародавніх залишків",
+
+
+
+
+"Failed Concoctions" : "Кепське зілля",
+"Brew a mundane and thick potion" : "Звари незграбне і густе зілля",
+
+
+
+
+"What For?" : "Майбутній терорист",
+"Craft 64 ender crystals" : "Створи стак кристалів Енду",
+
+"Ring of the End" : "Дзвін кінця",
+"Defeat the Ender Dragon 20 times" : "Вбий Ендер-дракона 20 разів",
+
+"In Your Face, Neil Armstrong" : "Як тобі таке, Ілон Маск?",
+"Colonise the End with potato crops" : "Колонізуй Енд за допомогою грядок з картоплею",
+
+"Organizational Wizard" : "Організатор",
+"Name a Shulker Box 'Blocks' for storing your blocks" : "Назви шалкеровий ящик «Blocks» для переховування там блоків",
+
+"A Wizard’s Breakfast" : "Дивний сніданок",
+"Eat a stack of Chorus Fruit in one go" : "З'їж стак фруктів хоруса за один раз. Увага: може з'явитися бажання зрадити кого-небудь",
+
+
+
+
+"Constellation" : "Сузір'я",
+"Collect 64 nether stars" : "Збери стак зірок нижнього світу",
+
+"Hearts of the Stack" : "Серцевий стак",
+"Collect 64 Hearts of the Sea" : "Отримай стак сердець моря",
+
+"The Devil's Distance" : "Відстань диявола",
+"Use the Nether to travel 666km in the Overworld" : "Використай пекло, щоб промандрувати 666 км в звичайному світі",
+
+"Ad Astra" : "Ad Astra",
+"Reach an altitude of 10,000 blocks above the world" : "Досягни висоти у 10 000 блоків над світом",
+
+"Dragon vs Wither: Pre-Sequel" : "Дракон на Візера: Повернення",
+"Defeat the Wither while wearing a Dragon head... without touching the ground" : "Вбий візера, маючи на голові голову Ендердракона... і не торкаючись землі",
+
+
+
+# Name and description changes in version 1.10
+"Knowledge is Power" : "Знання - сила",
+
+"Obtain all the special banner patterns" : "Отримай всі особливі візерунки прапорів",
+
+"Play a music disc in a jukebox" : "Послухай платівку на програвачі",
+
+"Listen to all the music discs" : "Прослухай усі платівки",
+
+"Wear a full suit of iron armor" : "Надягни повний комплект залізної броні",
+
+"Craft or collect all forms of nether brick and red nether brick" : "Створи або збери всі форми звичайної і червоної незерської цегли",
+
+"Craft all forms of quartz blocks" : "Створи всі форми кварцових блоків",
+
+"Sleep in a bed to change your respawn point" : "Поспи на ліжку, щоб змінити точку відродження",
+
+"Break all six types of shovels" : "Зламай всі шість видів лопат",
+
+"Attack a mob using all six types of axes" : "Вдар моба всіма шістьма видами сокир",
+
+"Hit a mob using all six types of shovels" : "Вдар моба всіма шістьма видами лопат",
+
+"Defeat a Drowned that is holding a nautilus shell" : "Вбий водяника, що тримає мушлю наутилуса",
+
+"Defeat a Drowned that is holding both a nautilus shell and a trident" : "Вбий водяника, що тримає мушлю наутилуса і тризуб одночасно",
+
+"Strip the bark off of all six types of logs" : "Зніми кору зі всіх шести видів колод",
+
+"Sprint 42.195km" : "Пробіжи 42.195км",
+
+"Reach 300 experience levels" :"Отримай 300 рівнів досвіду",
+
+"Fly 1000km with elytra" : "Пролети 1000км за допомогою елітр",
+
+"Use a treasure map to find Buried Treasure" : "Використай мапу скарбів, щоб знайти скарб",
+
+
+
+# Hardcore-Friendly Version description changes
+"Get attacked by a natural iron golem defending its village" : "Отримай прочухана від залізного ґолема, який захищає своє поселення",
+
+"Get attacked by dolphins" : "Отримай шкоду від дельфіна",
+
+"Get hurt by every mob that can kill you" : "Отримай шкоду від кожного моба, котрий може тебе вбити",
+
+"Get attacked by an Enderman in The End" : "Отримай шкоду від Ендермена в Енді",
+
+"Take damage twice within ten seconds" : "Отримай шкоду двічі протягом десяти секунд",
+
+"Get attacked by Piglin Brutes" : "Отримай сокирою по голові від лютого пігліна",
+
+
+# All advancements added in version 1.11 are here
+"Time to Dig!" : "Час копати!",
+"Use planks and sticks to make a shovel" : "Використай дошки і палиці, щоб створити лопату",
+
+
+"Throw diamonds at another player or mob" : "Кинь діамант іншому гравцеві або мобу",
+
+
+"One Pickle, Two Pickle, Sea Pickle, Four" : "Чотири Солоних Огірочки",
+"Place four sea pickles in a group underwater" : "Розмісти чотири морських огірки групою під водою",
+
+"Harry Potter" : "Гаррі Поттер",
+"Place every type of plant in a flower pot" : "Помісти рослину кожного типу в квітковий горщик",
+
+"Armor Display" : "Мої обладунки",
+"Place all six sets of armor on six different armor stands" : "Одягни всі шість комплектів обладунків на шість різних манекенів",
+
+
+"Unmasked" : "Без маски",
+"Shear the Pumpkin off of a Snow Golem to unveil their true face" : "Відріж гарбуз від сніговика, щоб розкрити його справжнє обличчя",
+
+
+"Delicious Fish" : "Смачненька рибка",
+"Cook and eat a fish!" : "Приготуй і з'їж рибку!",
+
+"Milkshroom" : "Молочні гриби",
+"Milk a mooshroom with a bowl to get mushroom stew" : "використай миску на грибній корові, щоб отримати тушковані гриби",
+
+"Live and Let Dye" : "Веселкова вівця",
+"Dye Sheep with all 16 colors of wool" : "Пофарбуй Вівцю всіма 16-ма кольорами",
+
+"Foxy Thievery" : "Безсмертна лисиця",
+"Give a fox a Totem of Undying" : "Дай лисиці Тотем Безсмертя",
+
+"Lead the Way!" : "Показуй шлях!",
+"Craft a lead using string and a slimeball, then attach it to a mob" : "Створи повідець, використовуючи нитки і слизову кульку, тоді прив'яжи його до моба",
+
+"Beeloons!" : "Мої бджілки",
+"Attach a lead to a bee" : "Прив'яжи до бджілки повідець",
+
+"Leader of the Animals" : "Лідер тварин",
+"Attach a lead to every mob that can be leashed" : "Прив'яжи повідець до кожного моба, якого тільки можна",
+
+
+"Echolocation" : "Ехолокація",
+"Feed a dolphin fish to have it lead you to treasure" : "Нагодуй дельфіна рибою щоб той показав вам шлях до скарбів",
+
+"Lion Hunter" : "Мисливець на левів",
+"Feed an Ocelot fish to try and gain its trust" : "Нагодуй Оцелота рибою щоб заслужити його довіру",
+
+
+"Your Daily Fix" : "Щоденний ремонт",
+"Use an Iron Ingot to repair a damaged Iron Golem" : "Використай залізний зливок, щоб залатати пошкодженого Ґолема",
+
+"I'm not lost anymore!" : "Тепер я не заблукаю",
+"Right-click a banner with a map" : "Прив'яжи стяг до карти правою кнопкою",
+
+
+"Controlled Detonation" : "Контрольована Детонація",
+"Persuade a Creeper to blow up using Flint and Steel" : "Спровокуй вибух кріпера, використовуючи запальничку",
+
+"Miracle Drink" : "Рятуючий напій",
+"Drink milk or honey to cure poison when on half a heart" : "Випий молоко чи мед, щоб вилікувати отруту, коли у тебе половина серця",
+
+"Dead Really Don’t Die" : "Мертві дійсно не вмирають",
+"Give a zombie a Totem... so that you have to kill it twice" : "Кинь зомбі тотем... Тепер тобі потрібно вбити його двічі",
+
+
+"Half Heart Life" : "На межі смерті",
+"Be on half a heart of health for a minute" : "Протримайся хвилину з половиною серця",
+
+
+"Brute Force" : "Груба сила",
+"Defeat a Piglin Brute in a Bastion Remnant" : "Вбий лютого пігліна в залишках бастіону",
+
+"Et tu, Brute?" : "Безчесна загибель",
+"Get murdered by Piglin Brutes" : "Будьте вбиті лютим пігліном",
+
+"Lava Fishing" : "Магмова риболовля",
+"Reel in a Strider using a Fishing Rod" : "Зачепи Блукача вудкою",
+
+"Nether Rock Collection" : "Колекція пекельних камінців",
+"Mine a stack of Netherrack, Basalt, Blackstone and Glowstone in the Nether" : "Викопай стак незераку, базальту, чорнокаменю і світлокаменю в Пеклі",
+
+
+# Name and description changes in version 1.11
+"Attach a lead to a llama to form a llama caravan" : "Прив'яжи повідець до лами, щоб сформувати караван",
+
+"Use Shears to obtain wool from a sheep" : "Використай ножиці щоб отримати вовну від вівці",
+
+"Swim in lava while having the Fire Resistance effect" : "Попллавай у лаві, маючи ефект вогнестійкості",
+
+"Diemonds!" : "Смертельні діаманти",
+
+
+# Trophies added in version 1.11
+"Awarded for achieving" : "Нагороджений за досягнення",
+
+
+
+
+"Miner's Trophy" : "Трофей Шахтаря",
+"Don't mine at night!" : "Не копай вночі!",
+
+"Builder's Trophy" : "Трофей Будівельника",
+"A build of a thousand blocks begins with a single brick" : "Будівництво тисячі блоків, яке почалося тільки з одної цеглини",
+
+"Farmer's Trophy" : "Трофей Фермера",
+"It ain't much but it's honest work" : "Це не дуже багато, але хоча б чесно зароблене",
+
+"Butcher's Trophy" : "Трофей М'ясника",
+"No animals were harmed in the obtaining of this trophy" : "Жодна тварина не постраждала для цього трофею",
+"(just simulated ones)" : "все просто змодельовано",
+
+"Slayer's Trophy" : "Трофей Вбивці",
+"This is all that's left of your foes once you're done with them" : "Це все, що залишилось від твоїх ворогів",
+
+"Sword Trophy" : "Гострий Трофей",
+"Slice and dice" : "Ріж і рубай",
+
+"Explorer's Trophy" : "Трофей Досліджувача",
+"It's a magical world, ol' buddy... let's go exploring!" : "Це магічний світ, друже... давай його досліджувати!",
+
+"Adventurer's Trophy" : "Трофей Мандрівника",
+"So much to do, so much to see..." : "Стільки зробити, стільки побачити...",
+
+"Mechanic's Trophy" : "Трофей Механіка",
+"Give me somewhere to stand and I can move the Earth" : "Я можу зрушити Землю",
+
+"Enchanter's Trophy" : "Трофей Чародія",
+"What's next? Enchanting mobs?" : "Ну і що далі? Зачаровані моби?",
+
+"Statistician's Trophy" : "Трофей Статиста",
+"Lies, damned lies, and statistics" : "Брехня, велика брехня та статистика",
+
+"Nether Adventurer's Trophy" : "Трофей першопрохідця пекла",
+"You'll nether find a better trophy anywhere else!" : "Ти ніде не знайдеш кращого трофею!",
+
+"Potion Brewer's Trophy" : "Трофей Алхіміка",
+"How did you get here?" : "Як ти тут опинився?",
+
+"End Adventurer's Trophy" : "Трофей першопрохідця Енду",
+"What could possibly come after the end?" : "Що може статися після кінця?",
+
+"Challenger's Trophy" : "Трофей безстрашного",
+"Imagine what the reward must be for the entire datapack" : "Уяви, якою повинна бути винагорода за весь датапак",
+
+"Yellow T-Shirt" : "Жовта Футболка",
+"I completed BlazeandCave's Advancements Pack" : "Я виконав Пакет Досягнень BlazeandCave's",
+"and all I got was this lousy T-shirt" : "і все що я отримав, була ось ця футболка",
+
+
+
+
+"Spoon" : "Ложка",
+"There is no spoon" : "Тут немає ложки",
+
+"Santa's Present" : "Подарунок Санти",
+"Someone's been naughty this year..." : "Хтось був неслухняним цього року...",
+
+"Golem Kit" : "Набір Ґолема",
+"The pumpkin is sold separately" : "Гарбуз продається окремо",
+
+"Golden Crown" : "Золота Корона",
+"Piglin-approved" : "Схвалена піглінами",
+
+"Mayor's Throne" : "Престол Мера",
+"MUMBO FOR MAYOR!" : "МУМБО ДЛЯ МЕРА!",
+
+
+
+
+"Logolas" : "Логолас",
+"The axe of choice by the masters of chopping" : "Сокира на вибір",
+
+"Torch God's Favor" : "Фанат Бога Смолоскипів",
+"The Torch God shall no longer haunt Minecraft" : "Бог Смолоскипів більше не переслідуватиме Minecraft",
+
+"The Journal" : "Щоденник",
+"After all these years, I finally have them all..." : "Після всіх цих років у мене нарешті вони всі...",
+
+"What are you doing reading this for? Go get Advancement Legend already!" : "Для чого ти це все читаєш? Йди здобудь Легенду Досягнень нарешті!",
+
+"Magic Wand" : "Магічна Паличка",
+"Made of holly, eleven inches long," : "Виготовлена з падуба, довжиною одинадцять дюймів,",
+"and contains a single feather from the tail of a phoenix" : "і містить єдине перо з хвоста фенікса",
+"Has no function in the hands of a mere muggle" : "Не працюватиме в руках простого маґла",
+
+"Sleepless Anchor" : "Безсонний якір",
+"Beds are for losers" : "Ліжка для лузерів",
+
+
+
+
+"A Glutton's Meal" : "Ненажера",
+"I see you have quite the appetite. Fatty." : "Я бачу, у тебе хороший апетит. Товстун.",
+
+"Wilson" : "Вільсон",
+"Don't worry Wilson, I'll do all the paddling. You just hang on" : "Не хвилюйся, Вільсоне, я зроблю все за тебе. Ти просто тримайся",
+
+"Farmer's Badge" : "Значок фермера",
+"For the continued work you've put out there, take this reward!" : "За довготривалу роботу маєш винагороду!",
+
+
+
+
+"Cowboy Hat" : "Капелюх Ковбоя",
+"Don't let it get shot off!" : "Не дозволяйте йому стріляти!",
+
+"Earth" : "Земля",
+"Seven billion people on the planet" : "7 мільярдів людей на планеті",
+"Now that sounds overpopulated" : "Тепер це виглядає як перенаселення",
+
+"Super Rod" : "Супер Стрижень",
+"Catches the best pokemon from the seas" : "Злови найкращого покемона з морів",
+
+"Potato Mine" : "Шахта Картоплі",
+"SPUDOW!" : "СПАДУВ!",
+
+"Toilet" : "Туалет",
+"WHERE'S THE EFFING HONEY LEBOWSKI?" : "ДЕ МЕД, ЛЕБОВСЬКИЙ?",
+
+
+
+
+"Mobestiary" : "Бестіарій",
+"Available at stores now" : "Тепер у всіх магазинах",
+
+"Vanilla Ice Cream" : "Ванільне Морозиво",
+"Life would be vanilla ice cream without 31 flavors of individuality" : "Життя було б ванільним морозивом без 31 смаку індивідуальності",
+
+"Molten Ice Cream" : "Розтоплене Морозиво",
+"Noo! My ice cream! T_T" : "Ніі! Моє морозиво! Т_Т",
+
+"Hyperlink" : "Гіперпосилання",
+"This advancement was sponsored by MCStacker" : "Спонсором цього досягнення є MCStacker",
+
+"Handsome Pumpkin" : "Красунчик Гарбуз",
+"This guy rushes me with a spoon... A freakin' spoon!" : "Цей хлопець кидає в мене ложкою... Дивовижною ложкою!",
+
+"Pink Camo Pants" : "Рожеві штани",
+"They don't camouflage anywhere!" : "Вони не приховують тебе в жодному місці",
+
+"The Walking Head" : "Ходячі голови",
+"Yes, this head totally has legs" : "Так, ця голова має ноги",
+
+"Sans's Head" : "Голова Санса",
+"You start to hear distant MEGALOVANIA sounds" : "Ти починаєш чути здалеку звуки MEGALOVANIA",
+
+"Ender Arrow" : "Ендер-Стріли",
+"This arrow ended an enderman. Seems impossible..." : "Ця стріла закінчується в Ендермені. Виглядає неможливим...",
+
+
+
+
+"Boomer T-Shirt" : "Футболка Підривника",
+"There are no mistakes, just happy explosions" : "Тут немає помилок, тільки веселі вибухи",
+
+"The Hylian Shield" : "Гіліанський Щит",
+"Should have spoken to the Keaton Mask Soldier" : "Потрібно було поговорити з Солдатом Маски Кітона",
+"to get a discount at the Bazaar" : "щоб отримати знижку на базарі",
+
+"1000-degree knife" : "1000-градусний ніж",
+"(GONE WRONG) (NOT CLICKBAIT)" : "(НЕПРАВИЛЬНО) (НЕ РЕКЛАМА)",
+
+
+
+
+"Voyager 1" : "Вояджер 1",
+"Earth's farthest spacecraft" : "Найдавніший космічний корабель Землі",
+
+"Cartographer's Quill" : "Перо картографа",
+"Freshly not-smashed on the ground" : "Свіже, не розбите об землю",
+
+"A blessing in love" : "Благословення в любові",
+"Face your fears and ask your crush out!" : "Подивися на свої страхи і позбався їх!",
+
+"Bouquet" : "Букет",
+"If you catch this at a wedding, you're next to get married" : "Якщо ти спіймаєш це на весіллі, ти наступний, щоб одружитися",
+
+"Waterbed" : "Водяне ліжко",
+"Have a good night" : "На добраніч",
+
+
+
+
+"Dinnerbone's Head" : "Голова Вечері",
+"No love for Grumm" : "Немає любові до служника",
+
+"Jeb's Head" : "Голова Джеба",
+"Baah, Baah, Baah, Baah, Baah, Baah, Baah!" : "Бах, Бах, Бах, Бах, Бах, Бах, Бах!",
+
+"Groot's Stick" : "Палиця Грута",
+"I am Groot" : "Я є Грут",
+
+"Medal of Honor" : "Медаль честі",
+"But didn't you start the raid yourself?" : "Але хіба ти сам не розпочав рейд?",
+
+"Wall Street" : "Уолл-Стріт",
+"Yes, it's a wall" : "Так, це стіна",
+
+"Ominous Shield" : "Зловісний щит",
+"This shield certifies your rank as a" : "Цей щит підтверджує ваш ранг як",
+"Pillager of the Arch-Illager's forces" : "почесний боєць сил Верховного розбійника",
+
+"Stonk Man's Head" : "Дивна чоловіча голова",
+"STONKS" : "СТОНКС",
+
+"Your Cat's Prize" : "Приз Вашого кота",
+"You have so many cats, that now" : "У тебе стільки котів, що зараз",
+"phantoms have to sleep to avoid meeting you" : "фантоми повинні спати, щоб уникнути зустрічі з вами",
+
+
+
+
+"Quiver" : "Сагайдак",
+"You can't actually store arrows in it" : "Насправді в ньому не можна зберігати стріли",
+
+
+
+
+"Master Enchanter's Book" : "Книга майстра-чарівника",
+"Congratulations, you did it" : "Вітання, ти це зробив",
+"This document decrees you as a master enchanter" : "Цей документ показує твою майстерність в зачаровуванні",
+"Go see a doctor" : "Відвадай лікаря",
+
+"Never gonna give you up" : "Never gonna give you up",
+
+"Finger Guns" : "Пальчикові гармати",
+"So anyway I started blasting..." : "Так чи інакше, я розпочав вибухові роботи...",
+
+"Chaos Emerald" : "Смарагд хаосу",
+"Just gotta find six more" : "Просто треба знайти ще шість",
+
+
+
+
+"Strider Treat" : "Небезпека Блукача",
+"Your strider deserved it" : "Твій Блукач заслуговує на це",
+
+"Enchanter's Tome" : "Том Зачарування",
+"Used by Illager Enchanters to enchant mobs" : "Використовується заклиначами для зачарування мобів",
+
+"World's Most Reliable Shoes" : "Найнадійніше взуття у світі",
+"The statistics tab shall no longer be the grindy super challenges tab" : "Вкладка 'Статистика' більше не повинна бути вкладкою 'Брутальний супер виклик'",
+
+"Portable Trampoline" : "Портативний трамплін",
+"Hours of sick fun for the whole family!" : "Години веселощів для всієї родини!",
+
+"Noah's Ark" : "Ноїв ковчег",
+"A deluge is imminent" : "Потоп неминучий",
+
+"Zero Tick Farm" : "0-тактові Ферми",
+"RIP Zero Tick Farms" : "Спочивайте з миром 0-тактові Ферми",
+"2013 - 2020" : "2013 - 2020",
+
+"Black Pearl" : "Чорна перлина",
+"Wherever we want to go, we'll go" : "Незалежно куда ми хочемо піти, ми підемо",
+
+"Superman's Cape" : "Плащ Супермена",
+"Is it a bird?" : "Це птах?",
+"Is it a plane?" : "Це літак?",
+"Is it an egg salad sandwich?" : "Це канапка з яйцем і салатом?",
+"No way, it's a Charizard!" : "Ні в якому разі, це Charizard!",
+
+"Flowey the Flower" : "Флоуві - Квітка",
+"All what's left of Asriel, the monsters' prince" : "Все, що залишилося від Азрієля, принца монстрів",
+
+"Firearm's Firearm" : "Вогнепальна зброя",
+"Now how did this get here? Seriously?" : "Тепер, як це сюди потрапило? Серйозно?",
+
+"Refreshment" : "Освіження",
+"You'll need it after running that far" : "Воно вам знадобиться, після того, як ви зайшли так далеко",
+
+"Gold Medal" : "Золота Медаль",
+"Probably not real gold" : "Скоріш за все несправжнє золото",
+
+"Birthday Cake" : "Торт на День Народження",
+"Happy birthday to you, happy birthday to you," : "З Днем Народження тебе, З Днем Народження тебе",
+"this song is copyrighted, oh wait actually it's public domain!" : "ця пісня захищена авторським правом, о, зачекай, насправді це суспільне надбання!",
+
+"Piston Cup" : "Кубок Поршня",
+"It's just an empty cup" : "Це просто порожня чашка",
+
+"Thomas the Tank Engine" : "Томас - Двигун Танка",
+"He's number one" : "Він номер один",
+
+"Black Belt" : "Чорненький пояс",
+"Who is the greatest man?" : "Хто найкраща людина?",
+
+
+
+
+"Farmer's Badge V2" : "Значок Фермера V2",
+"Farm some more they said, it'll be fun they said..." : "Ще більшу Ферму, сказали вони, буде весело, сказали вони...",
+
+"Spinny Top" : "Крутяча Верхівка",
+"If it falls over, it's not a dream" : "Якщо воно впаде, це не сон",
+
+"Stormbreaker" : "Штурмовик",
+"What kind of weapon are we talking about here?" : "Про яку зброю тут йде мова?",
+"The Thanos-killing kind" : "Ту, що зможе вбити Таноса",
+
+"Baconator" : "Беконатор",
+"Oh... wait, I thought you said Bacon!" : "О ... почекай, я думав, ти сказав бекон!",
+
+"Zork Chop" : "Зомбекон",
+"Don't ask" : "Не питай",
+
+
+
+
+"Unknown Mixture" : "Невідома мікстура",
+"Side effects include possible stomach ache, 20/20 vision," : "Побічні ефекти включають можливі болі в животі, зір 20/20,",
+"acne, extensive back pain and more..." : "вугрі, сильні болі в спині та інше ...",
+
+"Stale Milk" : "Несвіже молоко",
+"Please drink this" : "Будь ласка випий це",
+
+"Fast and Furious" : "Форсаж",
+"Getting shot by this will make you fast and furious" : "Постріл з цього зробить тебе швидким і лютим",
+
+"This is Anarchy" : "Це Анархія",
+"If you want to survive you need a strong belly" : "Якщо ти хочеш вижити, тобі потрібен міцний живіт",
+
+
+
+
+"TARS" : "ТАРС",
+"Everybody good? Plenty of slaves for my robot colony?" : "Все добре? Багато рабів у моїй колонії роботів?",
+
+"Wizard's Fruit" : "Фрукт Мага",
+"Utilised by the Mayor from Powerpuff Girls" : "Використовується мером від Powerpuff Girls",
+
+"Portal Bow" : "Портальний Лук",
+"Portal II" : "Портал 2",
+
+"Moon Rock" : "Місячний камінь",
+"Looks like he brought some of the moon back" : "Схоже, він повернув трохи Місяця назад",
+"Smells like cheese" : "Пахне наче сир",
+
+"Ring of Bedrock" : "Дзвін Корінної Породи",
+"The end of the End" : "Кінець Енду",
+
+"Singularity" : "Сингулярність",
+"Newton’s third law - the only way humans have ever" : "Третій закон Ньютона - єдиний спосіб, яким люди",
+"figured out of getting somewhere is to leave something behind" : "зрозуміли, що для того, щоб кудись дійти, треба щось лишити позаду",
+
+
+
+
+"Cosmonaut Helmet" : "Скафандр Космонавта",
+"It was a Russian who was the first who could truly say this" : "Це був УКРАЇНЕЦЬ, який першим зміг це по-справжньому сказати",
+
+"Astronaut Helmet" : "Скафандр Астронавта",
+"In zero gravity, a feather and a hammer falls at the same speed" : "При нульовій гравітації пір’я та молот падають з однаковою швидкістю",
+
+"Dragon Bro" : "Дракон-Бро",
+"Dragon Broooo!!!" : "Дракон-Броооо!!!",
+
+"Power Stone" : "Силовий Камінь",
+"Maybe you should start a cool rock collection" : "Можливо, варто розпочати круту колекцію каменю",
+
+"Heart of a Siren" : "Серце Сирени",
+"No, not sirenhead!" : "Ні, не Сиреноголового!",
+
+"Amphitrite" : "Амфітрита",
+"Many people called her the personification of the sea itself..." : "Багато людей називали її уособленням самого моря ...",
+
+"Devil's Pitchfork" : "Вила диявола",
+"One Hell Of A Time" : "Пекло на разок",
+
+"Space Stone" : "Космічний камінь",
+"This universe is finite, its resources, finite" : "Цей Всесвіт скінченний, його ресурси - скінченні",
+"If life is left unchecked, life will cease to exist" : "Якщо життя не зупинити, життя перестане існувати",
+"It needs correcting" : "Це потребує виправлення",
+
+"Reality Stone" : "Камінь реальності",
+"Reality can be whatever I want..." : "Реальність може бути чим небудь",
+
+"Eye of the Apocalypse" : "Око Апокаліпсису",
+"The beginning of the end" : "Початок кінця",
+
+"Wishing Star" : "Зірка бажаючих",
+"Make a wish!" : "Загадай бажання",
+
+"Corrupted Beacon" : "Пошкоджений маяк",
+"The Corrupted Beacon holds immense power within" : "Пошкоджений маяк має в собі величезну владу",
+"It waits for the moment to unleash its wrath" : "Він чекає моменту, щоб розкрити свій гнів",
+
+"Treasure Chest" : "Скриня Скарбів",
+"One of each block is stored in there" : "Там зберігається по одному з кожного блоку",
+
+"Frame of Infinite Items" : "Рамка Нескінченних Речей",
+"One of each item is stored on here" : "Тут зберігається по одному з кожного предмета",
+
+"Pandora's Box" : "Ящик Пандори",
+"It is said to have contained all the evils in the world..." : "Кажуть, він містив усе лихо на світі ...",
+
+"Doraemon's Pocket" : "Кишеня Доремона",
+"I hope I can get thousands of diamonds in here" : "Я сподіваюся, що зможу взяти сюди тисячі діамантів",
+
+"Nuclear Reactor" : "Ядерний Реактор",
+"You have transcended humanity's progression" : "Ти перевершив розвиток людства",
+
+"Mind Stone" : "Камінь розуму",
+"The ability to give the mindless minds of their own" : "Здатність дарувати свої безглузді думки",
+
+"Soul Stone" : "Камінь душ",
+"Did you do it?" : "Ти зробив це?",
+"Yes" : "Так",
+"What did it cost?" : "Скільки це коштує?",
+"8 hours" : "8 годин",
+
+"Cursed Creeper Head" : "Проклята голова кріпера",
+"Wave 5 of 5: CREEPER-GEDDON!!!" : "Хвиля 5 з 5: КРІПЕРО-ГЕДДОН!!!",
+
+"ACDC - Back in Black" : "ACDC - Назад у Чорному",
+"Back in Black stomped Highway to Hell in terms of success" : "Назад у Чорному перегнав Шоссе до Пекла з точки зору успіху",
+
+"Endfinity Source" : "Кінцеве Джерело",
+"They will END the world..." : "Він ЗАКІНЧИТЬ світ...",
+
+"Potion Master's Diploma" : "Диплом Майстра Зіллєваріння",
+"A certificate granting you the ability to teach" : "Сертифікат, що надає вам можливість викладати",
+"the subtle science and exact art of potion-making" : "тонку наука і точне мистецтво виготовлення зілля",
+
+"Poison Mask" : "Отруйна Маска",
+"Protects your face from poison but not the rest of your body" : "Захищає ваше обличчя від отрути, але не решту тіла",
+
+"Infinity Gauntlet" : "Рукавиця Нескінченності",
+"Iron Man stole all the stones so the best" : "Залізна Людина викрала все каміння, так що найкраще,",
+"you can do is punch people with it" : "що ти можеш зробити, так це бити людей нею",
+
+"Totem of Immortality" : "Тотем Безсмертя",
+"You'll be immortal as long as you don't die" : "Ти будеш безсмертним, доки не помреш",
+
+"Time Stone" : "Камінь Часу",
+"Perfectly balanced, as all things should be" : "Ідеально збалансований, як і все повинно бути",
+
+"Instant Death" : "Миттєва смерть",
+"Since you like dying so much..." : "Оскільки вам так подобається вмирати...",
+
+# Renamed advancements and description changes in 1.11.2
+"Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Збери усі види цегли",
+
+"Swim in water while having the Water Breathing effect" : "Поплавай з ефектом водного дихання",
+
+"Ride a Skeleton Horse" : "Мертвий кавалерист",
+
+"Follow the Leader" : "Слідуй за лідером",
+
+"Barbearian" : "Barrrbearrrian",
+
+"Happy New Year!" : "З Новим роком!",
+"Play for a whole Minecraft year" : "З Днем Народження!",
+
+
+
+## All advancements added in version 1.12 are here
+"Coppers and Robbers": "Мідні гори",
+"Smelt a Copper Ingot": "Переплавте мідний зливок у пічці",
+
+"Budget Channeling": "Дешева громовиця",
+"Craft a Lightning Rod using Copper Ingots": "Скрафтіть громовідвід, використовуючи мідні зливки",
+
+"Surge Protector": "Запобіжник",
+"Protect a villager from an undesired shock without starting a fire": "Захистіть селянина від удару блискавки, не розпочавши пожежі",
+
+"Called Shot": "Контрольований постріл",
+"Get struck by lightning while standing on a Lightning Rod": "Будьте уражені блискавкою, стоячи згори на громовідводі.",
+
+"Don’t Come a Copper!": "Ні, його не потрібно різати",
+"Craft some Cut Copper": "Просто скрафтіть блок тесаної міді.",
+
+"Copper Miner": "Спускаючись мідною шахтою",
+"Mine a stack of Raw Copper": "Викопайте стак необробленої міді",
+
+"Master Copper Miner": "Майстер-шукач міді",
+"Mine enough copper to make a stack of Copper Blocks": "Викопайте достатньо міді і зробіть стак мідних блоків",
+
+"Wax On": "Перемога над корозією",
+"Use Honeycombs to wax a Copper Block, preventing it from oxidising": "Нанесіть віск на мідний блок",
+
+"Wax Off": "На милість корозії",
+"Use an axe to scrape wax off of a Copper Block": "Здеріть віск з мідного блока",
+
+"The Statue of Liberty": "Статуя Свободи",
+"Obtain a fully oxidized Block of Copper": "Отримайте блок міді, що повністю окислився.",
+
+"Sly Copper: The Copper Heist": "Полювання на мідь",
+"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "Зберіть по стаку блоків міді, блоків, плит і сходів з тесаної міді, а також вощених варіантів кожного з них.",
+
+"G.I. Geode": "Не діамант, але згодиться",
+"Find an Amethyst Geode and mine an Amethyst Cluster": "Знайдіть аметистову жеоду і отримайте уламок аметиста",
+
+"Good For Your Bones": "Корисний для кісток",
+"Mine some Calcite encasing an Amethyst Geode": "Заберіть кілька блоків кальциту з одного із зовнішніх шарів аметистової жеоди.",
+
+"Galileo Figaro": "Що там в далечині?",
+"Zoom in on something using a Spyglass": "Подивіться на щось через підзорну трубу",
+
+"Pixel Perfect": "Піймати поглядом",
+"Use a Spyglass to stare at a bat from at least 50 blocks away": "Подивіться на кажана, що знаходиться на відстані 50 блоків, через підзорну трубу",
+
+"Blackout": "Світло нам більше не потрібне",
+"Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light": "Зробіть тоноване скло, обробивши звичайне скло аметистами, і використайте його для того, щоб заблокувати світло",
+
+"Amethyst Miner": "Полювання на аметисти",
+"Mine a stack of Amethyst Blocks, Amethyst Clusters, and every size of Amethyst Bud": "Дістаньте стак аметистових блоків, аметистової друзи і аметистових зародків усіх розмірів",
+
+"Mr. Bean": "Містер Горошина",
+"Mine and craft a stack of Raw Iron, Copper and Gold Blocks": "Викопайте достатньо необроблених металів і скрафтіть по стаку блоків необроблених міді, заліза і золота.",
+
+"Filthy Lich": "Не ліана, але світиться",
+"Use shears to obtain Glow Lichen from an underground cave": "Використайте ножиці і зберіть сяючий лишайник із стіни однієї з печер",
+
+"That's the point!": "Аби тільки не наштрикнутися...",
+"Obtain some Pointed Dripstone from a Dripstone Cave": "Знайдіть кілька загострених спелеотемів у печерах",
+
+"Deep Slate Nine": "Як глибоко я прокопався?",
+"Mine deep enough that the stone darkens": "Прокопайте достатньо глибоко, щоб камінь почав чорніти",
+
+"Tuff Stuff": "Ні, він не настільки твердий",
+"Mine some Tuff in the deep underground": "Знайдіть туф глибоко під землею",
+
+"Moss Maker": "Треба більше моху!",
+"Use Bone Meal on Moss to spread its wonderful lushness across hard blocks of stone": "Використайте кісткове борошно на блоках моху для того аби розповсюдити його дивовижну пишність на тверді блоки каміння",
+
+"Iggy": "Таких пишних кущів не було ніколи",
+"Obtain an Azalea": "Отримайте кущ азалії",
+
+"Particle Fan": "Який аромат!",
+"Obtain a Spore Blossom": "Отримайте спороцвіт",
+
+"Lush Hour": "Час пишності",
+"Obtain a stack of all lush-related blocks": "Отримайте стак усіх пишних блоків",
+
+"A Shiny Treat": "Ой, треба було їх віддати Яойці",
+"Eat some Glow Berries": "З'їжте трохи сяючих ягід",
+
+"Bulldozer": "Бульдозер",
+"Destroy a total of 10,000 blocks of stone": "Зламайте 10 000 блоків каміння",
+
+"Strike a Light": "Вам щось підпалити?",
+"Craft Flint and Steel and use it to light the ground on fire": "Зробіть запальничку і підпаліть нею щось таке, що не зашкодить оточуючим",
+
+"Bonfire Night": "Ніч Івана Купала",
+"Light every flammable block on fire": "Підпаліть кожен блок, який горить",
+
+
+
+
+"Setting up the mood": "Підняти всім настрій",
+"Place a candle and light it using Flint and Steel": "Запали свічку",
+
+"The Ritual Begins": "Ритуал починається",
+"Get one stack of Black Candles": "Отримайте стак чорних свічок",
+
+# Happy Birthday!
+"Place a candle on a cake": "Поставте свічку на торт, аби відсвяткувати чийсь день народження",
+
+"Pane in the Glass": "Яке вікно обрати?",
+"Craft a stack of all 16 colors of stained glass panes": "Зробіть стак скляних панелей усіх 16 кольорів",
+
+"Hot Tub": "Гаряча ванна",
+"Sit in a cauldron filled with lava": "Посиди у казані із лавою",
+
+"Rock Polish": "Мені треба наждачка",
+"Craft every type of polished block": "Відполіруйте кожен можливий тип каменю",
+
+"Deepslate Conspiracy": "Треба це віддати на будівництво Екзархату",
+"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "Скрафтіть усі можливі блоки із глибинного сланцю",
+
+"Skyblock": "Скайблок",
+"Place a Grass Block high in the sky": "Розмістіть блок трави високо у небі",
+
+
+
+
+"One-course meal": "СЕН і це схвалює",
+"Use bone meal to grow a sapling into a tree": "Використайте кісткове борошно для того, аби виростити дерево із саджанця",
+
+"Come to the countryside!": "Альфай, можна у Герлендії орендувати дачу?",
+"Plant every single type of crop on farmland": "Посадіть усі можливі культури",
+
+"An Apple a Day": "На дієті",
+"Eat an Apple every day for 30 in-game days": "З'їдайте яблуко кожного дня протягом 30 ігрових днів",
+
+
+
+
+"Goat out of here!": "Козам тут не місце!",
+"Slaughter a Goat": "Вбийте козу",
+
+"Billy the Kid": "Аби тільки воно не кричало...",
+"Breed two Goats together using Wheat": "Розмножте двох кіз за допомогою пшениці",
+
+"Goat Simulator": "Симулятор кози",
+"Get killed by a Goat that rammed into you.": "Будьте вбиті козою, яка протаранила Вас. ",
+"You have Goat to be kidding me!": "У тебе є коза, яка зі мною пожартувала!",
+
+"Whatever Floats Your Goat!": "Вовк, коза і капуста",
+"Get in a Boat and float with a Goat": "Залізьте в човен і пливіть разом з козою",
+
+"Screaming Milk": "Ай! Вона кричить іще дужче!",
+"Milk a screaming Goat": "Доїння кричащої кози - не найкраща ідея...",
+
+"Cephalight": "Цим чорнилом не пофарбуєш у чорний...",
+"Kill a Glow Squid": "Вбийте сяючого кальмара",
+
+"Glow and Behold": "Просвітлення",
+"Use a Glow Ink Sac to light up a sign": "Зробіть текст на табличці сяючим",
+
+"Flashy Items": "Тепер її буде видно за 50 блоків навіть уночі!",
+"Put an item up for display in a Glowing Item Frame": "Розмістіть предмет у сяючій рамці",
+
+"Iceologer Should've Won": "СЕН таке не схвалює...",
+"Kill 100 Glow Squids": "Вбийте 100 сяючих кальмарів",
+
+"The Cutest Predator": "Наймиліший хижак",
+"Catch an Axolotl in a Bucket": "Спіймайте аксолотля у відро",
+
+"The Healing Power of Friendship": "Дружба - це диво!",
+"Team up with an Axolotl and win a fight": "Об'єднайтеся з аксолотлем і виграйте бій",
+
+"Thanks a lotl": "Дуже дякую!",
+"Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders": "Об'єднайтеся з аксолотлем для того, аби зняти прокляття Древніх.",
+
+"Axolittle": "Який же він милий!",
+"Breed two Axolotls together using Tropical Fish": "Розмножте двох аксолотлів відрами з тропічною рибою",
+
+"Axolotl of them": "Наймиліша колекція",
+"Catch all variants of Axolotls inside a Bucket": "Спіймайте у відро усі види аксолотлів",
+
+"Axeolotl": "Сокиротль",
+"Kill an Axolotl with an axe": "Вбийте аксолотля сокирою",
+
+"Humble Bundle": "Ой, він дірявий...",
+"Craft a Bundle using Rabbit Hide and String": "Зробіть мішечок із кролячих шкурок і ниток",
+
+"Fractal": "Фрактал",
+"Put a Bundle in a Bundle in a Bundle in a Bundle in a Bundle… 16 layers deep": "Помістіть мішечок у мішечок, який у мішечку, який у мішечку... і так 16 разів.",
+
+"Swine Sailing": "Коли свині плавають...",
+"Ride a saddled pig in a boat in a minecart": "Покатайтеся на осідланій свині, яка одночасно сидить і у човні і у вагонетці.",
+
+"Llama Festival": "Фестиваль лам",
+"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "Посидіть на ламах із килимами усіх 16 кольорів. Попередження: вставання на землю скине весь прогрес.",
+
+"Is it a Bird?": "Це пташка?",
+"Look at a Parrot through a Spyglass": "Подивіться на папугу через підзорну трубу",
+
+"So Hungry I Could Eat a Horse!": "Я настільки голодний, що можу з'їсти коня!",
+"Feed a Horse every type of food that it can eat": "Нагодуйте коня кожним видом їжі, який він може їсти",
+
+
+
+
+"Smooth Operator": "Сліди Айстауну",
+"Slip and slide on some ice": "Зараз мені дуууже слизько... Покатайтеся на льоду",
+
+"This Snow is Snowier": "Цей сніг... сипеться?",
+"Fall into some Powder Snow": "Впадіть у сипкий сніг",
+
+"Light as a Rabbit": "Легкий, як кролик",
+"Walk on Powder Snow… without sinking in it": "Пройдіть по сипкому снігу... не провалившись у ньому",
+
+"Powder-full": "Так от як він зараз робиться...",
+"Pick up some Powder Snow in a Bucket": "Візьміть сипкий сніг із котла у відро",
+
+"Boatception": "У шлюпці",
+"Get in a boat within a shipwreck": "Поплавайте на човні всередині уламків корабля",
+
+"Pandamonium": "Панди будуть задоволені... якщо тільки у них не випадуть зуби",
+"Feed cake to every type of panda": "Нагодуйте тортиками усі види панд",
+
+"Edge of the Jungle": "Кінець джунглів",
+"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "Знайдіть модифікований край джунглів - найрідший біом у світі",
+
+
+
+
+"This Dirt is Dirtier": "Правильна земля!",
+"Trade for some Rooted Dirt from a Wandering Trader": "Отримайте трохи кореневого ґрунту від мандрівного торговця",
+
+"Leaflet Drop": "Без опори під ногами",
+"Fall through a Big Dripleaf": "Проваліться через великий краплелист",
+
+"Hey! You two should kiss!": "Вони там напевне цілуються...",
+"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "Подивіться на двох селян, що сидять у човні, з відстані у 50 блоків",
+
+"Rare Candy Shop": "Рідкісна цукерочка",
+"Trade for a Bottle o’ Enchanting from a Cleric": "Купіть у священника пляшечку чар",
+
+"Buy Low, Sell High": "Купую задешево, продаю задорого",
+"Trade with a villager while under the Hero of the Village effect": "Поторгуйте з селянами після відбитого рейду з ефектом Героя селища",
+
+"Justice": "Справедливість",
+"Kill each type of Illager with a single crossbow arrow": "Убийте усі види розбійників однією стрілою із арбалета",
+
+
+
+
+"Poultry Boy": "Цікавий хлопчик...",
+"Slay the elusive Chicken Jockey": "Убийте маленького зомбі на курці",
+
+"Basketblock Championship": "Полювання на ендерменів... Ні, масштабніше",
+"Kill Endermen that are holding every block that they can hold": "Убийите ендерменів, які тримають кожен блок, який вони можуть тримати",
+
+"Pupil Poppers": "Фу! І ще сто разів фу!",
+"Eat 1000 Spider Eyes": "З'їжте тисячу очей павуків",
+
+
+
+
+"It's time consuming": "Це зайняло трішки часу",
+"Kill something using a clock": "Убийте когось, тримаючи годинник у руці",
+
+"Inspector Gadget": "Допитливий капітан",
+"Kill a zombie while holding a spyglass": "Убийте зомбі, тримаючи підзорну трубу у руці",
+
+"Rock, Paper, Shears!": "Камінь, ножиці, папір!",
+"Beat a zombie at rock, paper, shears": "Виграйте у зомбі в камінь-ножиці-папір.",
+
+"Backfire": "Вогонь по своїм",
+"Kill a Blaze using a Blaze Rod while both you and it are on fire": "Убийте Блейза, тримаючи жезл Блейза, тоді, коли ви обидва у вогні.",
+
+
+
+
+"Take Notes": "Піаніст",
+"Tune a Note Block through every possible note": "Грайте кожну ноту на нотному блоці",
+
+"Noteworthy": "Музичний ґік",
+"Play every possible instrument on a Note Block": "Грайте кожен інструмент на нотному блоці",
+
+"Travelling Bard": "Бременський музикант",
+"Play a Note Block in every type of biome": "Грайте на нотному блоці у кожному біомі",
+
+"Vibe Check": "Перевірка шуму",
+"Obtain a Sculk Sensor": "Отримайте скалк-сенсор",
+
+
+
+
+"Over-Overkill": "Критичний удар",
+"Deal sixteen hearts of damage in a single melee blow": "Нанесіть шістнадцять сердець шкоди за один удар в рукопашну",
+
+
+
+
+# The Haggler
+"Trade with villagers 100 times": "Поторгуйтесь з селянами 100 разів",
+
+"Big Spender": "Багатій",
+"Trade with villagers 500 times": "Поторгуйтесь з селянами 500 разів",
+
+"STONKS!": "Дзень!",
+"Trade with villagers 2500 times": "Поторгуйтесь з селянами 2500 разів",
+
+
+
+
+"Ancient Restoration": "Відродження давньої культури",
+"Rebuild and reactivate a Ruined Portal": "Відновіть зруйнований портал",
+
+"Hot Spring": "Гаряча весна",
+"Sit in water in the Nether": "Посидіть у холодній воді у гарячому Незері",
+
+"Polar Opposites": "Діаметральні протилежності",
+"Start freezing in the Nether": "Замерзніть у Незері",
+
+"Jenga": "Пізанська вежа",
+"Ride a Strider riding another Strider riding a boat riding a minecart": "Осідлайте Блукача, який сидить на іншому Блукачі, який сидить у човні, який знаходиться у вагонетці",
+
+"Is it a Balloon?": "Це повітряна куля?",
+"Look at a Ghast through a Spyglass": "Подивіться на гаста через підзорну трубу",
+
+"A Piglin's Best Friend": "Осів у Незері",
+"Give a total of 500 gold to Piglins during your nether adventures": "Дайте Піґлінам 500 золотих злитків під час ваших Незерських пригод",
+
+"Instant Mining": "Миттєве копання",
+"Hold a Diamond or Netherite Pickaxe enchanted with Efficiency V while under the Haste II effect": "Тримайте у руках діамантове або незеритове кайло, зачароване на Ефективність V, коли на Вас присутній ефект Квапливість II.",
+
+"Beacon Overlord": "На карті світу",
+"Acquire every beacon-induced effect at once": "Отримайте усі ефекти від маяків одночасно. Як варіант, прогуляйся у Скіттлз.",
+
+"Master Netherite Miner": "Полювання на незерит відкрито",
+"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "Накопайте достатньо стародавніх залишків для того, аби зробити стак незеритових зливків (не хвилюйтеся, робити стак незеритових блоків не обов'язково, я не настільки злий...)",
+
+"Netherite Mad Lad": "Божевільний",
+"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "Зробіть стак незеритових блоків (Це досягнення приховане і не потрібне для звання Легенди цього світу...",
+
+
+
+
+"Gas Bomb": "Газова бомба",
+"Ignite a Creeper of each possible effect using Flint and Steel": "Підпаліть кріпера із кожним можливим ефектом за допомогою запальнички",
+
+
+
+
+"Is it a Plane?": "Це літак?",
+"Look at the Ender Dragon through a Spyglass": "Подивіться на дракона через підзорну трубу",
+
+"Good Luck Getting This One": "Удачі з цим!",
+"Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End": "Убийте черепашеня, відьму, фантома, Древнього вартового і Брутального піґліна однією пронизуючою стрілою в Енді",
+
+
+
+
+"The Perfect Run": "Ідеальний забіг",
+"Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage": "Викличте дракона Енду, висушня і рейд за тридцять секунд, а потім розберіться з усім цим без отримання шкоди",
+
+"Telescopic": "Астроном",
+"Look at every mob using a Spyglass, each from at least 25 blocks away": "Подивіться на кожного моба через підзорну трубу, на кожного з як мінімум 25 блоків від моба-\"мішені\".",
+
+
+
+
+# Renamed advancements and description changes in 1.12
+"Professional": "Профессіонал",
+
+"Hot Reels!": "Гаряча вудка",
+
+"Netherite Miner": "Почаок полювання на незерит...",
+
+"Stepping on Legos": "Дим під ногами",
+"Walk on some hot Magma Blocks in the Nether": "Прогуляйтеся по магмовим блокам у Незері",
+
+"Mine a stack of Raw Iron": "Викопайте стак необробленого заліза",
+
+"Mine a stack of Raw Gold": "Викопайте стак необробленого золота",
+
+"Craft and ride a boat to sail on the high seas": "Зробіть і сядьте у човен щоб відправитися на далекі острови",
+
+"Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether": "Отримайте стак незераку, базальту, чорнокаменю і магми у Незері.",
+
+"Use a shovel to create dirt paths": "Використайте лопату для того, аби прокласти доріжки на землі",
+
+"Deal eight hearts of damage in a single melee blow": "Нанесіть вісім сердець шкоди за один удар в рукопашну",
+
+
+
+
+# Hardcore-Friendly Version for 1.12 description changes
+"Get stung by a bee": "Будьте вжалені бджолою",
+
+"Get rammed into by a Goat.": "Будьте протаранені козою",
+
+"Obtain a carved pumpkin enchanted with Curse of Binding. Be careful not to put it on!": "Знайдіть вирізаного гарбуза із Прокляттям прив'язування. Обережно, не надягніть його на голову!",
+
+
+
+
+# Trophies added in 1.12
+"Octuple Compressed Cobblestone": "Вісім разів стиснутий кругляк",
+"Just imagine how much cobblestone it contains…": "Просто уяви скільки кругляку він містить...",
+
+"Golden Cobblestone": "Золотий кругляк",
+"Congratulations!": "Вітання!",
+"You mined 10,000 blocks of Cobblestone": "Ви викопали 10 000 блоків кругляку",
+"and unlocked the Golden Cobblestone Skin!": "і розблокували текстуру золотого кругляку!",
+
+"Weathered Copper BlocK": "Вивітрена мідЬ",
+"It was spelt like this for six whole snapshots": "Цей блок так називався аж шість тижнів підряд!",
+
+"Copper Shortsword": "Короткий мідний меч",
+"The Moon Lord fears no weapon, but this one… it scares him": "Ктулху не боїться жодної зброї... крім цієї",
+
+"Baseball Bat": "Бейсбольна бита",
+"What?... Oh, when you said stare at a bat,": "Вкрадена Віталіком з арени \"Посейдон\"",
+"I thought you meant this bat!": "Не питайте, чому вона тут не одна",
+
+"Energy Crystal": "Кристал енергії",
+"Looks like a slimy slug sucked all the power out of it…": "Схоже, з нього за ці роки висмокталася вся енергія... ",
+
+"Bean Block": "Сумка з бобами",
+"Mmm, tasty": "Напевне, смачні... ",
+
+"Silver Armor Stand": "Срібна стійка для броні",
+"To display your best armor set!": "Для того, щоб на неї повісити Вашу найкращу броню!",
+
+"Annoying Orange": "Набридливий апельсин",
+"Hey apple, can you spit seeds?": "Гей, яблуко, можеш розбризкати своє насіння?",
+
+"Mr Finch's Hoe": "Відмахувач",
+"Did you at least harvest the sugar cane?": "Той самий (ні)",
+
+"Compost Mate": "Компостор",
+"There is ": "Тут є ",
+"1 Composter": "1 Компостер",
+" among us": " серед нас",
+
+"Black Bird": "Чорна птаха",
+"They should add Crows to Minecraft. Caw!": "Вони повинні були додати круків в Minecraft! Кар!",
+
+"Fake Tropical Fish": "Несправжня тропічна риба",
+"Not as beautiful, but much tastier": "Не така гарна, але більш смачна",
+
+"Barry B. Benson's Hive": "Вулик Баррі Бі. Бенсона",
+"According to all known laws of aviation…": "Відповідно до всіх відомих законів авіації...",
+
+"Ice Wand": "Льодовий жезл",
+"The Ice Wand was trapped in a tomb of ice for ages,": "Цей жезл був замкнений у льодовій могилі навіки,",
+"sealed away by those who feared its power": "запечатаний тим, хто боявся його сили",
+
+"Llama Drama": "Драма із ламами",
+"In memoriam of the Great Spitting Massacre of 2021": "У пам'ять Великій Плювальній Бійні 2021-го",
+
+"Matryoshka Doll": "Матрьошка",
+"And they don't stop coming,": "І вони не закінчуються,",
+"and they don't stop coming,": "І вони не закінчуються,",
+"and they don't stop coming…": "І вони не закінчуються…",
+
+"Basketblock": "Basketblock",
+"That's right Number 7, it's a cube!": "That be right, Number 7, it's a cube!",
+
+"Etho's Anvil": "Ковадло Etho",
+"Awarded to distinguished individuals who complete Etho’s challenge": "Нагорода гравцям, що відзначилися і пройшли випробування Etho",
+
+"Multiweapon": "Мультизброя",
+"It's a sword, axe and…": "Це меч, сокира і…",
+"Never mind, it broke": "Ні, вона зламана",
+
+"Bamboo Sword": "Бамбуковий меч",
+"Not the best material for a weapon…": "Не найкращий матеріал для зброї…",
+
+"The Jungle Book": "Книга Джунглів",
+"In the jungle, the mighty jungle…": "Про Мауглі, Балу, Багіру, Каа, Шерхана і всіх інших…",
+
+"The Moon": "Місяць",
+"Yeah, it's just me, you, and the moon": "Так, тут тільки я, ти, і місяць",
+
+"The Salad Bowl": "Салатниця",
+"Perfect for serving justice in": "Гарний для того, аби подавати зелень у ньому...",
+
+"Steam Engine": "Паровий двигун",
+"The beginning of the Industrial Revolution": "Початок індустріальної революції...",
+
+ "block.minecraft.lectern": "Кафедра",
+ "stat.minecraft.interact_with_lectern": "Взаємодій з кафедрою",
+ "container.lectern": "Кафедра",
+
+"New Year's Firework": "Новорічний феєрверк",
+"It's the final countdown!": "До нового року лишилося три, дві, одна...",
+
+"Big Pointy Arrow": "Велика вказівна стрілка",
+"Things are on the up and up!": "Дрім піде вгору, вгору і тільки вгору!",
+
+"One-Punch Man's Fist": "Кулак Ван-Панч-Мена",
+"ONE PUUUUUNNNCCHHH!!!": "Уб'є усіх з одного удару",
+"(though in honesty killing everything in one punch": "(убивання усього з одного удару",
+"gets kinda boring after awhile…)": "стає нудно після деякого часу...)",
+
+"Gilded Blade": "Позолочений меч",
+"A powerful weapon wielded by ancient mobs": "Потужна зброя, викувана Древніми",
+
+"Brick Astley": "Брік Естлі",
+"Nether gonna brick you up!": "Nether gonna brick you up!",
+
+"Ultimate Flex": "Чорне божевілля",
+"Dab on dem haters": "Божевілля для найбільш божевільного гравця",
+
+"Wormhole": "Кроляча нора",
+"Is this some kind of portal?": "Це портал?",
+"Aaah!..": "Ааа!..",
+
+"Mario's Hat": "Капелюх Маріо",
+"Mario, number one! Yahoo!": "Маріо, номер один!",
+
+
+
+
+# 'Experience' label in Experience Rewards text
+"Experience" : "Досвід",
+
+
+
+
+# Text that appears when unlocking a new tab
+"You have unlocked the root of the Adventure tab": "Ви щойно розблокувати гілку досягнень \"Пригоди\"",
+
+"You have unlocked the root of the Animals tab": "Ви щойно розблокувати гілку досягнень \"Тварини\"", 
+
+"You have unlocked the root of the Biomes tab": "Ви щойно розблокувати гілку досягнень \"Біоми\"" ,
+
+"You have unlocked the root of the Building tab": "Ви щойно розблокувати гілку досягнень \"Будівництво\"", 
+
+"You have unlocked the root of the Super Challenges tab": "Ви щойно розблокувати гілку досягнень \"Надвиклики\"",
+"WARNING: These are very difficult": "ПОПЕРЕДЖЕННЯ: Вони дуже складні",
+
+"You have unlocked the root of the Enchanting tab": "Ви щойно розблокувати гілку досягнень \"Чародійство\"",
+
+"You have unlocked the root of the End tab": "Ви щойно розблокувати гілку досягнень \"Кінець...\"",
+
+"You have unlocked the root of the Farming tab": "Ви щойно розблокувати гілку досягнень \"Сільське господарство\"",
+
+"You have unlocked the root of the Mining tab": "Ви щойно розблокувати гілку досягнень \"Шахтарське ремесло\"",
+
+"You have unlocked the root of the Monsters tab": "Ви щойно розблокувати гілку досягнень \"Монстри\"",
+
+"You have unlocked the root of the Nether tab": "Ви щойно розблокувати гілку досягнень \"Пекло\"", 
+
+"You have unlocked the root of the Potions tab": "Ви щойно розблокувати гілку досягнень \"Алхімія\"",
+
+"You have unlocked the root of the Redstone tab": "Ви щойно розблокувати гілку досягнень \"Редстоун\"", 
+
+"You have unlocked the root of the Statistics tab": "Ви щойно розблокувати гілку досягнень \"Статистика\"", 
+
+"You have unlocked the root of the Weaponry tab": "Ви щойно розблокувати гілку досягнень \"У всеозброєнні\"",
+
+
+
+
+# Welcome message
+"This world is using ": "Цей світ використовує датапак із досягненнями, розроблений ",
+"Blaze": "Blaze",
+"and": " і ",
+"Cave": "Cave",
+"'s Advancements Pack!": "!",
+
+" Over ": " Більше ніж ",
+## Number is inserted here
+" brand new advancements in your Minecraft world!": " нових досягнень для Вашого світу Minecraft!",
+
+" - Created by ": " - Створений ",
+## Cavinator1
+
+" - For information ": " - Для додаткової інформації ",
+"click here": "натисніть тут",
+
+" - Join my discord ": " - Офіційний discord ",
+"here": "тут",
+
+"Special thanks to my patreon donors: ": "Окрема подяка тим, хто заносить двадцятку автору датапаку на Patreon: ",
+## Patreon Donors' names are listed here
+
+
+
+
+# Configuration Menu
+## BlazeandCave
+"'s Advancements Pack Config": "'s датапаку досягнень налаштування",
+
+"Welcome Message currently enabled": "Повідомлення-привітання увімкнене",
+"Welcome Message currently disabled": "Повідомлення-привітання вимкнене",
+
+"Item Rewards currently enabled": "Винагороди у вигляді предметів увімкнені",
+"Item Rewards currently disabled": "Винагороди у вигляді предметів вимкнені",
+
+"Experience Rewards currently enabled": "Винагороди у вигляді досвіду увімкнені",
+"Experience Rewards currently disabled": "Винагороди у вигляді досвіду вимкнені",
+
+"Trophies currently enabled": "Трофеї увімкнені",
+"Trophies currently disabled": "Трофеї вимкнені",
+
+"Display scoreboard on tab list": "Відображати кількість отриманих досягнень у табі",
+"Clear scoreboard from tab list": "Не відображати кількість отриманих досягнень у табі",
+
+"Display scoreboard on sidebar": "Відображати кількість досягнень у списку праворуч екрана",
+"Clear scoreboard from sidebar": "Не відображати кількість досягнень у списку праворуч екрана",
+
+"Update scoreboard": "Оновити кількість отриманих досягнень",
+
+"Grant trophies": "Видати зароблені трофеї, що не були видані раніше",
+
+"Click to enable": "Натисніть для увімкнення",
+"Click to disable": "Натисніть для вимкнення",
+"Click to run": "Натисніть для того, щоб виконати цю команду",
+
+# Update scoreboard message
+"The advancement count of all players currently online has been updated.": "Кількість отриманих досягнень гравцями, що зараз у мережі, зараз повинна бути правильною",
+
+# Grant trophies are you sure message
+"Are you sure?": "Ви впевнені?",
+"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Ця функція повинна бути використана тільки у світах, які використовували цей датапак до Трофейного Оновлення.",
+"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "Це також може дуже заповнити інвентарі усім, тож перед натисканням \"так\", усі повинні бути готові до цього",
+
+"[ Yes ]": "[ Так ]",
+"Click to confirm": "Натисніть для підтвердження",
+
+"[ No ]": "[ Ні ]",
+"Click to go back": "Натисніть для того, аби повернутися назад",
+
+# Grant trophies confirmation message
+"All players have been granted trophies.": "Усі гравці отримали трофеї, які вони не отримали раніше",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Усі Дрімлендівці, які отримали свої трофеї цією командою у минулому, не отримають нічого зараз. Для того аби вручну заново увімкнути трофеї для них, використайте цю команду:",
+"Click to insert command into chat": "Натисніть сюди для того, щоб вставити команду у чат",
+
+
+
+# All advancements and trophies that get added in versions 1.13 or later will be added down here for easy locating by translators who wish to update their language file
+
+## All advancements added in version 1.13 are here
+"Dripstone Drop": "Колючий стрибок",
+"Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Впадіть з висоти щонайменше 10 блоків на загострений спелеотем, і виживіть.",
+
+"Lucky Break": "Вдала перерва",
+"Survive a long fall with just a sliver of health remaining": "Виживіть, впадучи з великої висоти, маючи після того тільки одне серце або менше",
+
+"Caves & Cliffs": "Печери і скелі",
+"Free fall from the top of the world (build limit) to the bottom of the world and survive": "Впадіть із найвищої точки світу (ліміт будівництва) до самого низу і виживіть",
+
+"Bottom to Top": "Знизу нагору",
+"Place every cave block at the very top of the world": "Поставте кожен печерний блок на найвищій точці світу",
+
+
+"A Good Start": "Гарний початок",
+"Chop down enough trees to collect a full stack of one log type": "Зрубайте достатньо дерев аби отримати стак колод одного виду",
+
+
+"Squid Game": "Гра в кальмара",
+"Hunt enough Squids to collect a stack of Ink Sacs": "Вбийте достатньо кальмарів аби зібрати стак чорнильних мішків",
+
+
+"Blackberry Market": "Чорничний супермаркет",
+"Trade some sweet berries to a Fox with an emerald in their mouth": "Продайте кілька солодких ягід лисиці із смарагдом у зубах",
+
+
+"We’re Going on a Bear Hunt": "Нас вполював ведмідь",
+"Get hunted by a Polar Bear": "Будьте впольовані білим ведмедем",
+
+"Dive Bomb": "Змагання зі стрибків у воду",
+"Dive into water from a cliff at least 50 blocks tall": "Стрибніть у воду з кручі висотою щонайменше 50 блоків",
+
+"Captain America": "Капітан Америка",
+"Get completely frozen inside two blocks of Powder Snow for a loooong time.": "Повністю замерзніть у двох блоках сипкого снігу на доооовгий час",
+"Big question is: Can you do this all day?": "Гарне питання: Чи можете Ви так простояти цілий день?",
+
+
+"Map Room": "Початок карти світу",
+"Place a map in an item frame": "Помістіть карту у рамку",
+
+"Sound the Alarm!": "Тривога!!!",
+"Ring the bell with a hostile enemy in the village": "Задзвоніть у дзвін у селі, у якому присутній ворожий моб.",
+
+"The Sound of Music": "Звуки музики",
+"Make the Meadows come alive with the sound of music from a jukebox": "Оживіть луки звуками музики з програвача",
+
+
+"Click!": "Тільки не натискай на неї!",
+"Place and push a button": "Розмісти і натисни на кнопку",
+
+"Leveraging Synergy": "Чи це пастка?",
+"Flick a lever": "Смикніть за важіль",
+
+"On A Rail": "На рейках",
+"Travel by Minecart in a straight line to at least 1 km from where you started": "Проїдьте щонайменше тисячу блоків на рейках по прямій лінії звідти, звідки ви вирушили.",
+
+
+"Baron of Blacksmiths": "Головний коваль",
+"Get a stack of regular, chipped and damaged Anvils": "Отримайте по стаку всіх видів ковадел",
+
+
+"65": "65",
+"hours of walking": "годин прогулянки",
+"Walk 1000km. The statistics tab shall no longer be the grindy super challenges tab": "Пройдіть 1000 км. Вкладка статистики тепер не має бути вкладкою надвикликів...",
+
+
+"Feels Like Home": "Як удома",
+"Take a Strider for a loooong ride on a lava lake in the Overworld": "Здійсніть доооовгу поїздку на блукачі по лавовому озеру у верхньому світі",
+
+"Gilded Miner": "Позолочений шахтар",
+"Mine a stack of Gilded Blackstone from Bastion Remnants": "Отримайте стак позолоченого чорнокаменю",
+
+"Astrobrute": "Астосвин",
+"Send a Piglin Brute to the End and kill it there before it zombifies": "Перемістіть брутального піґліна в Енд і вбийте його до того, як він зомбіфікується",
+
+"Ludicrous Speed!": "Неймовірна швидкість!",
+"Achieve an absolutely insane speed by combining the Speed II effect, Dolphin’s Grace, Depth Strider III, Soul Speed III and sprinting": "Досягніть неймовірної швидкості, скомбінувавши скомбінувавши ефекти Швидкість II і Грацію дельфіна, зачарування Глибинний бігун III, Швидкість душ III, і біг.",
+
+
+"Stealth Takedown": "Вбивство по-тихому",
+"Dispatch a Creeper at melee range while you are invisible": "Вбийте кріпера в рукопашну тоді, коли Ви невидимі",
+
+"Dogfight": "Цирк на дроті",
+"Kill a Skeleton or Stray while both you and it have levitation": "Вбийте скелета чи примару, коли на вас обох присутній ефект левітації",
+
+"Riddle Me This": "У пошуках Капітана Гокінса",
+"The first is to smith a compass that vanishes": "Перше - викуйте компас, що зникає",
+"The second is to slay a corpse that fishes": "Друге - вбийте могилу, що рибалить",
+"The third is to travel on an upside-down mount": "Третє - влаштуйте подорож на перевернутій тваринці",
+"The fourth is to take a temple tripwire into account": "Четверте - підірвіться на джунглевій розтяжці",
+"The fifth is to be invisible yet be visible everywhere": "П'яте - будьте і невидимим і видимим звідусіль",
+"The sixth is to return the product of a fowl in mid-air": "Шосте - поверніть щось пташці у повітрі",
+"The seventh is to allow a child to commit the act of stealing": "Сьоме - дозвольте дитині щось вкрасти",
+"The eighth is to smite a Wither with splash healing": "Восьме - ненароком вбити Висушувача, намагаючись його лікувати",
+"The ninth is to be a pirate; parrot, spyglass, map, and boat": "Дев'яте - стати піратом: папуга, труба, човен і карта",
+"The tenth, if you can achieve it, you will be the G.O.A.T.": "Десяте - якщо ви зробите, то і знайдете скарб.",
+
+# Riddle Me This messages and hints
+"First line complete…": "Першу ціль виконано...",
+"Second line complete…": "Другу ціль виконано...",
+"Third line complete…": "Третю ціль виконано...",
+"Fourth line complete…": "Четверту ціль виконано...",
+"Fifth line complete…": "П'яту ціль виконано...",
+"Sixth line complete…": "Шосту ціль виконано...",
+"Seventh line complete…": "Сьому ціль виконано...",
+"Eighth line complete…": "Восьму ціль виконано...",
+"Ninth line complete…": "Дев'яту ціль виконано...",
+
+"Tenth Parchment": "Десятий пергамент",
+"Place Warped Buttons to number a thousand": "Розміщуйте химерні кнопки, аби утворити тисячу",
+"For this was the thousandth item added to the game": "Тому що то був тисячний предмет доданий у гру",
+"Like how this is the thousandth advancement added to the pack": "Так само як це є тисячне досягнення, додане у цей датапак",
+
+
+# Renamed advancements and description changes in 1.12
+"All Aboard!": "Усі на борт!",
+"Craft and board a Minecart for railway journeys": "Зробіть і осідлайте вагонетку для того, аби почати свої залізничні пригоди",
+
+"Star Trader": "Зоряний торговець",
+"Trade with a villager at the build height limit": "Поторгуйтесь із селянином на максимальній висоті будівництва",
+
+"High Feet": "Дослідження верхівки Великої Піраміди знань Дрімленду",
+"Discover every mountain biome": "Відвідайте кожен гірський біом",
+
+"Natural Sprinter": "Справжній легкоатлет",
+"Sprint 10km": "Пробіжіть 10 км",
+
+"Lichen Subscribe": "Не ліана, але світиться",
+
+"Atlantis?": "Атлантида?",
+
+"Ahoy!": "Аррр!",
+
+"Foliage": "Зелень",
+
+"How Did We Get Here?": "Як це трапилось?",
+
+
+# Description changes
+
+# # Adventuring Time
+"Discover every surface biome in the Overworld": "Відвіайте кожен біом на поверхні звичайного світу",
+
+# # Explorer of Worlds
+"Discover every biome in every dimension": "Відвідайте кожен біом у всіх вимірах",
+
+# # Trampoline
+"Bounce onto a slime block from at least 30 blocks high": "Впадіть на блок слизу з висоти щонайменше 30 блоків",
+
+# # Cool Kids
+"Craft and wear a leather jacket": "Зробіть і надягніть шкіряну туніку",
+
+# # Fashion Statement
+"Dye some leather pants with one color, then put them on": "Пофарбуйте шкіряні штани одним кольором, а потім надягніть їх",
+
+# # Fuel Engine
+"Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Зробіть і запустіть вагонетку з піччю",
+
+# # Troll Chest
+"Trigger a trapped chest. Good for trolling your friends!": "Активуйте скриню-пастку. Гарний спосіб розіграти друзів!",
+
+# # Tripping Over
+"Place a line of string between two tripwire hooks, and trigger it": "Розмістіть нитку між двома гаками для розтяжки, і пройдіться по цій розтяжці.",
+
+# # Under Pressure
+"Step on a pressure plate": "Пройдіться по натискній плиті",
+
+# # Let It Go!
+"Using Frost Walker boots, walk on frozen water over a deep ocean": "Із зачаруванням Льодохід на чоботах, пройдіться по замерзлій воді через глибокий океан",
+
+# # Do A Barrel Roll!
+"Use Riptide to give yourself a boost": "Використайте тризуб, зачарований на тягун для того, аби зробити бочку",
+
+# # Kilometre Walk
+"Travel at least 1000 blocks from the centre of the world in any direction.": "Пройдіть тисячу блоків від центру світу. Це не така вже й довга відстань у реальному житті...",
+
+# # Ten Thousand Blocks
+"Travel at least 10,000 blocks from the centre of the world in any direction.": "Подорож, яка почалася всього лиш з одного кроку... Пройдіть десять тисяч блоків від центру світу у будь-якому напрямку.",
+
+# # Olympic Gold Medallist
+"Swim 50km": "Пропливіть 50 км",
+
+# # Global Railway Network
+"Ride 50km in a minecart": "Проїдьте 50 км на вагонетці",
+
+# # Who needs cars?
+"Walk 50km": "Пройдіть 50 км",
+
+# # I enjoy long walks and playing MC
+"Walk 250km": "Пройдіть 250 км",
+
+# # Time to Chop!
+"Use planks and sticks to make an axe": "Зробіть сокиру з дощок і палиць",
+
+
+
+# Custom Advancement Completion messages
+# # Has the syntax "<Player> has made the advancement <Advancement's name>"
+"%1$s has made the advancement %2$s%3$s%4$s": "%1$s отримує досягнення %2$s%3$s%4$s",
+"%1$s has reached the goal %2$s%3$s%4$s": "%1$s досягає цілі %2$s%3$s%4$s",
+"%1$s has completed the challenge %2$s%3$s%4$s": "%1$s виконує випробування %2$s%3$s%4$s",
+"%1$s has completed the super challenge %2$s%3$s%4$s": "%1$s закінчує надвиклик %2$s%3$s%4$s",
+"%1$s has found the hidden advancement %2$s%3$s%4$s": "%1$s знаходить §mскарб§r приховане досягнення %2$s%3$s%4$s",
+
+# # # There are 5 %1$s's here for the advancement "65 Hours of Walking"
+"%1$s has found the hidden advancement %2$s%3$s%4$s%5$s%6$s": "%1$s знаходить приховане досягнення %2$s%3$s%4$s%5$s%6$s",
+
+# # "For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>"
+"%1$s has completed every advancement in the %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s виконує усі досягнення на гілці %2$s, тим самим закінчивши досягнення %3$s%4$s%5$s",
+
+# # # Note: Because The End already has a 'the' in it, this line is exclusively used in "End Milestone"
+"%1$s has completed every advancement in %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s виконує усі досягнення на гілці %2$s, тим самим закінчивши досягнення %3$s%4$s%5$s",
+
+# # Advancement Legend
+"%1$s has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of %2$s%3$s%4$s": "%1$s виконує усі досягнення, тим самим тепер маючи титул %2$s%3$s%4$s",
+
+
+
+# Trophies added in 1.13
+"Azalea Parachute": "Азалієвий парашут",
+"Good thing you didn't need this": "Гарно, що вам це не треба",
+
+"Pyro's Mask": "Маска Пайро",
+"One shudders to imagine what inhuman thoughts lie behind that mask": "One shudders to imagine what inhuman thoughts lie behind that ",
+
+"Deepslate Emerald Ore": "Глибосланцева смарагдова руда",
+"A rare specimen of emeralds embedded in the deepest of caves": "Рідкісний вид смарагдів, захований у найглибшиз печерах",
+
+"Flex Tape": "Flex Tape",
+"To show the power of Flex Tape, you sawed all the blocks in half!": "To show the power of Flex Tape, you sawed all the blocks in half!",
+"#NotSponsored": "#NotSponsored",
+
+"Stairway to Heaven": "Stairway to Heaven",
+"Whatever you do, don't listen to it backwards!": "Whatever you do, don't listen to it backwards!",
+
+"Hot Potato": "Hot Potato",
+"Whooo, wiggy wiggy wiggy": "Whooo, wiggy wiggy wiggy",
+"Gimme that, gimme that, hoo": "Gimme that, gimme that, hoo",
+
+"Captain America's Shield": "Captain America's Shield",
+"Unfortunately there are no circles in Minecraft,": "Unfortunately there are no circles in Minecraft,",
+"meaning this shield is not very aerodynamic for throwing": "meaning this shield is not very aerodynamic for throwing",
+
+"Harp String": "Harp String",
+"Playing so much must be wearing out your strings...": "Playing so much must be wearing out your strings...",
+"Here! Have an extra.": "Here! Have an extra.",
+
+"Roller Coaster Cart": "Локомотив американських гірок",
+"Hey Ferb, I know what we're gonna do today!": "Гей, Ферб, я знаю, що ми будемо робити!",
+
+"Time Machine": "Машина часу",
+"You'll need it to get back all those hours you spent": "Потрібна для того, аби повернути назад усі ті години, які ти витратив",
+
+"Plaid Block": "Картатий блок",
+"They've gone to plaid!": "Він... картатий!",
+
+"Stink Bomb": "Смердюча бомба",
+"P.U!": "Фу-фу-фу!",
+
+"Amalgamation": "Злиття",
+"The sheer gravitational forces of killing these mobs": "Схоже, гравітаційні сили від побиття всіх цих мобів",
+"appears to have morphed them all together": "злили їх разом в одну купу",
+
+"Hubble Space Telescope": "Ручна обсерваторія",
+"A telescope orbiting in outer space,": "Телескоп який знаходиться на орбіті у космосі,",
+"it can see to infinity and beyond": "він може бачити у нескінченність і далі",
+
+"Golden Advancement Plaque": "Золота тарілка",
+"Awarded to this datapack for reaching 1000 advancements": "Видана цьому датапаку за те, що він тепер має тисячне досягнення",
+
+# # The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+"WHERE'S THE HONEY?!!!": "Де мед?",
+
+
+# Configuration menu additions in 1.13
+"Cooperative Mode currently enabled": "Кооперативний режим увімкнений",
+"Cooperative Mode currently disabled": "Кооперативний режим вимкнений",
+
+"Cooperative Mode makes it so that whenever a player gets an advancement, that advancement will be shared across all players.": "Кооперативний режим означає те, що коли один гравець виконаж досягнення, інші також його отримають, цим самим роблячи можливим сумісне проходження датапаку.",
+"Everyone's currently-obtained advancements will be shared between all players immediately when turning this setting on.": "При увімкненні цього налаштування усі досягнення, які отримали усі гравці, будуть роздані решті.",
+"While the mode can be turned off, shared advancements cannot be easily revoked.": "При вимиканні цьго режиму роздані раніше досягнення не можуть бути просто так забрані назад.",
+
+
+"Click to enable for all players": "Натисніь сюди для того, аби увімкнути для всіх гравців",
+"Click to enable only for the first player to get an advancement": "Натисніь сюди для того, аби увімкнути для першого гравця, який отримає досягнення",
+"Click to disable for all players": "Натисніь сюди для того, аби вимкнути для всіх гравців",
+
+# The syntax for these text strings is e.g. 'Item Rewards: All players'
+"Item Rewards:": "Винагороди у вигляді предметів:",
+"Experience Rewards:": "Винагороди у вигляді досвіду:",
+"Trophies:": "Трофеї:",
+
+"All players": "Для всіх гравців",
+"First player only": "Тільки для першого гравця",
+"Disabled": "Вимкнено",
+#
+
+"Advancement Completion Message Settings": "Налаштування повідомлень про виконання досягнень",
+"Advancement Scoreboard Display Settings": "Налаштування відображення кількості отриманих досягнень",
+
+"Click to view": "Натисніть для того, аби переглянути",
+
+"Display Advancements Scoreboard on tab list": "Відображати кількість отриманих досягнень у табі",
+"Display First Advancements Scoreboard on tab list": "Відображати кількість отриманих досягнень \"першим на сервері\" у табі",
+
+"Display Advancements Scoreboard on sidebar": "Відображати кількість отриманих досягнень у списку праворуч екрана",
+"Display First Advancements Scoreboard on sidebar": "Відображати кількість отриманих досягнень \"першим на сервері\" у списку праворуч екрана",
+
+"The Advancements Scoreboard keeps track of how many advancements each player has obtained": "Показує, скільки досягнень отримав той чи інший гравець",
+"The First Advancements Scoreboard keeps track of how many advancements each player was the first to obtain": "Показує, скільки досягнень той чи інший гравець отримав першим на сервері",
+"Click to display": "Натисніть щоб показати",
+"Click to clear": "Натисніть щоб приховати",
+
+# The syntax for these text strings is e.g. 'Task Advancements: All players'
+"Task": "Звичайні досягнення:",
+"Goal": "Цілі:",
+"Challenge": "Випробування:",
+"Super Challenges": "Надвиклики:",
+"Milestone": "Завершені вкладки досягнень:",
+
+"Advancements:": "Досягнення:",
+#
+
+"Turn all messages on": "Увімкнути всі повідомлення",
+"Turn all messages off": "Вимкнути всі повідомлення",
+"Set all messages to first-player only (recommended and default for Cooperative Mode)": "Увімкнути всі повідомлення тільки для першого гравця (рекомендовано для Кооперативного режиму)",
+"Turn all on except tasks (recommended for large servers)": "Увімкнути всі повідомлення крім звичайних досягнень (рекомендовано для великих серверів)",
+"Turn all on except tasks and goals": "Увімкнути всі повідомлення крім звичайних досягнень і цілей",
+
+"Click to set": "Натисніть щоб змінити",
+
+
+"Go back to main config menu": "Повернутися до головного меню",
+
+"Dig through some Rooted Dirt beneath an Azalea Tree so you can find a Lush Cave": "Прокопайте через корінисту землю під азалією, аби потрапити у Пишну печеру"
+
+
+# All advancements and trophies that get added in versions 1.14 or later will be added down here for easy locating by translators who wish to update their language file
+  "block.minecraft.lectern": "Кафедра",
+  "container.lectern": "Кафедра",
+  "stat.minecraft.interact_with_lectern": "Взаємодій з кафедрою",
+  "debug.show_hitboxes.on": "Хітбокси: показ.",
+  "debug.show_hitboxes.off": "Хітбокси: прихов.",
+  "debug.show_hitboxes.help": "F3 + B = Показати хітбокси",
+  "debug.inspect.help": "F3 + I = Скопіювати в буфер обміну дані сутності чи блоку",
+  "item.minecraft.potion.effect.swiftness": "Зілля швидкості",
+  "item.minecraft.splash_potion.effect.swiftness": "Вибухове зілля швидкості",
+  "item.minecraft.lingering_potion.effect.swiftness": "Осідаюче зілля швидкості",
+  "item.minecraft.tipped_arrow.effect.swiftness": "Стріла швидкості",
+  "item.minecraft.potion.effect.slowness": "Зілля повільності",
+  "item.minecraft.splash_potion.effect.slowness": "Вибухове зілля повільності",
+  "item.minecraft.lingering_potion.effect.slowness": "Осідаюче зілля повільності",
+  "item.minecraft.tipped_arrow.effect.slowness": "Стріла повільності",
+  "item.minecraft.potion.effect.invisibility": "Зілля невидимості",
+  "item.minecraft.splash_potion.effect.invisibility": "Вибухове зілля невидимості",
+  "item.minecraft.lingering_potion.effect.invisibility": "Осідаюче зілля невидимості",
+  "item.minecraft.tipped_arrow.effect.invisibility": "Стріла невидимості",
+  "item.minecraft.potion.effect.weakness": "Зілля слабості",
+  "item.minecraft.splash_potion.effect.weakness": "Вибухове зілля слабості",
+  "item.minecraft.lingering_potion.effect.weakness": "Осідаюче зілля слабості",
+  "item.minecraft.tipped_arrow.effect.weakness": "Стріла слабості",
+  "item.minecraft.potion.effect.leaping": "Зілля стрибучості",
+  "item.minecraft.splash_potion.effect.leaping": "Вибухове зілля стрибучості",
+  "item.minecraft.lingering_potion.effect.leaping": "Осідаюче зілля стрибучості",
+  "item.minecraft.tipped_arrow.effect.leaping": "Стріла стрибучості",
+  "item.minecraft.potion.effect.fire_resistance": "Зілля вогнестійкості",
+  "item.minecraft.splash_potion.effect.fire_resistance": "Вибухове зілля вогнестійкості",
+  "item.minecraft.lingering_potion.effect.fire_resistance": "Осідаюче зілля вогнестійкості",
+  "item.minecraft.tipped_arrow.effect.fire_resistance": "Стріла вогнестійкості",
+  "gui.entity_tooltip.type": "Тип: %s",
+  "commands.tag.add.success.single": "Додано тег '%s' до %s",
+  "commands.tag.add.success.multiple": "Додано тег '%s' до %s істот",
+  "commands.tag.remove.success.single": "Видалено тег '%s' з %s",
+  "commands.tag.remove.success.multiple": "Додано тег '%s' з %s істот",
+  "commands.tag.list.single.empty": "%s не має тегів",
+  "commands.tag.list.single.success": "%s має %s тегів: %s",
+  "commands.tag.list.multiple.empty": "У %s істот немає тегів",
+  "commands.tag.list.multiple.success": "%s істот загалом мають %s тегів: %s",
+  "commands.tag.add.failed": "Ця ціль вже має цей тег, або в неї забагато тегів",
+  "commands.tag.remove.failed": "У цілі відсутній цей тег",
+  "argument.block.tag.disallowed": "Теги не дозволені тут, тільки дійсні блоки",
+  "argument.item.tag.disallowed": "Теги не дозволені тут, тільки дійсні предмети",
+  "arguments.item.tag.unknown": "Невідомий тег предметів '%s'",
+  "arguments.function.tag.unknown": "Невідомий тег функцій '%s'",
+  "arguments.block.tag.unknown": "Невідомий тег блоків '%s'",
+  "commands.data.get.invalid": "Не можна отримати значення тегу %s: дозволені тільки теги із числовим значенням",
+  "commands.data.get.unknown": "Не можна отримати значення тегу %s: тег не існує",
+  "multiplayer.disconnect.missing_tags": "Із серверу отримано неповний набір тегів.\nБудь ласка, зв'яжіться з адміністратором серверу.",
+  "book.invalid.tag": "* Неправильні дані книжки *",
+  "item.nbt_tags": "NBT: %s тег(ів)",
+  "subtitles.entity.mule.angry": "Мул ірже",
+  "subtitles.entity.horse.ambient": "Кінь ірже",
+  "subtitles.entity.horse.angry": "Кінь ірже",
+  "subtitles.entity.donkey.angry": "Віслюк ірже",
+  "commands.schedule.created.tag": "Заплановано виконання тегу '%s' через %s тіків (в ігровий час: %s)",
+  "options.accessibility.title": "Налаштування доступності...",
+  "subtitles.entity.arrow.hit": "Потрапляння стрілою",
+  "subtitles.entity.parrot.ambient": "Папуга говорить",
+  "commands.trigger.simple.success": "Викликано тригер %s",
+  "commands.trigger.add.success": "Викликано тригер %s (додано %s до значення)",
+  "commands.trigger.set.success": "Викликано тригер %s (встановлено значення %s)",
+  "commands.scoreboard.players.enable.success.single": "Увімкнено тригер %s для %s",
+  "commands.scoreboard.players.enable.success.multiple": "Увімкнено тригер %s для %s істот",
+  "commands.scoreboard.players.enable.failed": "Нічого не змінилось. Цей тригер вже увімкнений.",
+  "commands.scoreboard.players.enable.invalid": "Можна увімкнути тільки задачі-тригери, які мають тип 'trigger'",
+  "commands.trigger.failed.unprimed": "Неможливо задіяти цей тригер зараз",
+  "item.minecraft.nautilus_shell": "Мушля наутилуса",
+  "multiplayer.downloadingTerrain": "Завантаження місцевості...",
+  "commands.trigger.failed.invalid": "Можна задіяти тільки задачі-тригери, які мають тип 'trigger'."
+
+}

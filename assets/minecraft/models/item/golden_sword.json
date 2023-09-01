@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+    "overrides": [
+	{"predicate": {"custom_model_data": 694194},"model": "_custom/lihco/coldest/skelesword_better"},
+	{"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
+	{"predicate": {"custom_model_data": 694196},"model": "_custom/lihco/coldest/skelesword"},
+        {"predicate": {"custom_model_data": 694197},"model": "_custom/scp/dualkatana"},
+        {"predicate": {"custom_model_data": 694197, "damaged": 1, "damage": 0.8},"model": "_custom/scp/dualkatanalow"},
+	{ "predicate": {"custom_model_data": 694202 },"model": "_custom/lihco/rapier"}
+    ]
+}

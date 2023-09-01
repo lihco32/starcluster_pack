@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [512, 512],
+	"textures": {
+		"0": "_custom/player_hats/happi",
+		"particle": "_custom/player_hats/happi"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [1, 1.3125, 4.8125, 5.40625], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0.5], "texture": "#missing"},
+				"south": {"uv": [4.8125, 1.3125, 1, 5.40625], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.5], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0.5, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.5, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.25, 1.75],
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.25, 1.75],
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 0, 133.75],
+			"translation": [2, 2.5, 1.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 0, 133.75],
+			"translation": [2, 2.5, 1.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"ground": {
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [-0.25, -0.25, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"translation": [0.25, 12.25, -0.5],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-0.5, 0.25, -15.25],
+			"scale": [2.24, 2.24, 2.24]
+		}
+	}
+}

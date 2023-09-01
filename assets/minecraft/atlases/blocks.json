@@ -1,0 +1,1592 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/grn_dust"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/grn_star"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/shadow_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/dark_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/123"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/bruh/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/black_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/face"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/arm_r_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/arm_r_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/arm_l_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/arm_l_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/boginya/feet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/bts/texture7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/observer_front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/polished_basalt_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/grifon_glock_texture1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/chiseled_deepslate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/grifon_glock_texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/grifon_glock_dulo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/face"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/arm_r_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/arm_r_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/arm_l_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/arm_l_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kavyn/feet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/face"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/arm_r_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/arm_r_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/arm_l_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/arm_l_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/smirnoveta/feet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/armltopkropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/armlbotkropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/armrbotkropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/armrtopkropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/facekropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/feetkropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/kropyva/bodykropiva"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/black/texture8"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/litr/texture8"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/texture1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/arm_r_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/arm_r_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/arm_l_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/arm_l_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/rtkkv/top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/face"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/arm_r_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/arm_r_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/arm_l_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/arm_l_bot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yayaslavs/feet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/litr_bruh"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lihco_daga"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/florp"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/hehesword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/copper_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/cut_copper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/deepslate_bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/iron_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/soul_campfire_fire"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/smithing_table_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/amethyst_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lihco_lihco_sword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lihco_rapier"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lihco_sanemi_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/scythe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/hay_block_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lihco_yaoi_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/berry_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/gray_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/berry_drink_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/bottle_cap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_berry"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/cidr_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_cidr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/cidr_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/dark_pyvo_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_dark_pyvo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/dark_pyvo_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/ink_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_ink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/ink_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/kvas_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_kvas"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/kvas_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/pyvo_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/papir_pyvo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/pyvo_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/stakan_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/empty"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/water"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/redbow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/redbow_pulling_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/redbow_pulling_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/redbow_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/spider_bow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/spider_bow_arrow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/all_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/axolotl/axolotl_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/axolotl/axolotl_cyan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/axolotl/axolotl_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/axolotl/axolotl_lucy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/axolotl/axolotl_wild"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/british_shorthair"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/calico"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/fox/fox"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/hedhehog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/jellie"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/ocelot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/persian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/ragdoll"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/siamese"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/fox/snow_fox"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/tabby"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/tophat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/cat/white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/wolf/wolf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/blast_furnace_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/black_concrete_powder"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_clothing"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/meteorite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/bottom_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/coldest_sword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/coldest_sword_anim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/cross"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/extra_shield"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/healing_staff"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/healing_staff_dead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/heal_circle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/ice_nova_charm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/ice_nova_charm_dead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/large_skull"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/light_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_ring"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_ring2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_ring3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_ring4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/anomaly_cube"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/mirror_bow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/gray_stained_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/mirror_bow_pull_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/mirror_bow_anim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/mirror_bow_pull_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/mirrow_bow_anim2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/puzzle_staff"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_mob/skeleton/skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/skelesword"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/skelesword_better"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/smth"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/snake_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/sword_circle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/white_beamt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_painting/back"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/11"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/12"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/13"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/14"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/15"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/16"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/20"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/21"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/paint/9"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/smetana"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/greens"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/borshch_liq"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/borshch_bowl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/pizza_dough_cheese"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/pizza_kovbasa"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/pizza_shallot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/pizza_tomato"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/plate_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/glass_jam"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/alco/jar_cap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/plum_jam_inner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/papir_plum_jam"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/yaya_ribbon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/plum_pie"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/plum_pie_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/varenyk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/varenyk_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/ghost_statue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/statue_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/laptop_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/lvi"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/pumpkin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/oak_log_all"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/barrel_all"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/spruce_planks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/dark_oak_door_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/dark_oak_door_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/flowering_azalea_leaves"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/stone_bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/dark_oak_planks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/white_stained_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/stripped_spruce_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/granite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/spruce_trapdoor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snow_ground"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/spruce_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/tree_leaves"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/snow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_item/carrot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snowglobe_pidstavka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snow_fall"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/stone_brikus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/spruce_plankus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snow_snowman"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snowman_buttons"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snowman_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snowman_scarf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/spruce_bushy_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/gold_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/red_ball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/magenta_ball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/purple_ball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/garland"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/bonya"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/borys"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/brus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/forest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/hvostyk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/kitya"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/kitya2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/lone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/mountain"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/polar_bear"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/sky"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/street"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/painting/troezcyna"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/trigun_revo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/trigun_revo_bullets"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/camera"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/pal_bow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/pal_bow_pulling_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/pal_bow_pulling_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/pal_bow_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/smithing_table_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/p2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/p1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/chumka_mask"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/chumka_hood"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/cauldron_inner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/red_nether_bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/chiseled_red_sandstone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/emerald_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/coal_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/campfire_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/baguette"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/baguette_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/barbecue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/barbecue_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/coffee"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/croissant5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/kanapka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/kanapka_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/paska"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/paska_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/popcorn"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/popcorn_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/small_cake"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/small_cake_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/tomatojuice"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/furniture/coffeemachine"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/furniture/yoda"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/vanyakapasted1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/vanyakapasted2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/eyenose"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/bear"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/bearcheeks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/car_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/car_wheels"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/car_metal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/fox_fur"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/fox_earsnose"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/fox_legs"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/fox_eyes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/polished_blackstone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/oak_planks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/campfire_fire"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/kovpak_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/kovpak_hutro"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/bow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/ribbon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/box"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/bow1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/ribbon1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/box_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/box_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/snowflake"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_roll"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_fish"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_sushi"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_ginger"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_plate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_wasabi"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/food/sushi_board"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/zelen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/snowglobe/balls"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/vushanka_hutro"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/vushanka_tkanyna"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/vushanka_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/light_blue_stained_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/lapis_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_custom/mesh_palette"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/black_stained_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/gray_wool"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/yellow_shulker_box"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:_vanilla_block/stripped_dark_oak_log_top"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/grn_star2"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/grn_dust2"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/kvitka_vinok"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/kvitka_vinok_petals"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/ice_spike"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/ice_nova"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/fire_row"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/feather_sword"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/key1"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/key2"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/coldest/key3"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/spleef_shovel"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:_custom/tot/yalu3an/face_yalu"
+        },
+	{"type": "single","resource": "minecraft:_custom/tot/yalu3an/textureback_yalu"},
+	{"type": "single","resource": "minecraft:_custom/coldest/extra_shield_ring"},
+	{"type": "single","resource": "minecraft:_custom/coldest/card"},
+	{"type": "single","resource": "minecraft:_custom/coldest/train_texture"},
+	{"type": "single","resource": "minecraft:_custom/coldest/halberd"},
+	{"type": "single","resource": "minecraft:_custom/fallout/bagnette"},
+	{"type": "single","resource": "minecraft:_custom/fallout/knife"},
+	{"type": "single","resource": "minecraft:_custom/fallout/palka"},
+	{"type": "single","resource": "minecraft:_custom/fallout/fallout_pc"},
+	{"type": "single","resource": "minecraft:_custom/coldest/heat_orb"},
+	{"type": "single","resource": "minecraft:_custom/coldest/heat_orb_aura"},
+	{"type": "single","resource": "minecraft:_custom/tot/lolmaojustmeme"},
+	{"type": "single","resource": "minecraft:_custom/tot/babus"},
+	{"type": "single","resource": "minecraft:_custom/coldest/token_texture"},
+	{"type": "single","resource": "minecraft:_custom/fallout/mr_handy"},
+	{"type": "single","resource": "minecraft:_custom/furniture/alien_statue"},
+	{"type": "single","resource": "minecraft:_custom/furniture/alien_statue_bottom"},
+	{"type": "single","resource": "minecraft:_custom/fallout/securitron"},
+	{"type": "single","resource": "minecraft:_custom/furniture/saul_framed"},
+	{"type": "single","resource": "minecraft:_custom/furniture/saul_bench_texture"},
+	{"type": "single","resource": "minecraft:_custom/fallout/glock"},
+	{"type": "single","resource": "minecraft:_custom/fallout/vaultboy"},
+	{"type": "single","resource": "minecraft:_vanilla_block/bone_block_side"},
+	{"type": "single","resource": "minecraft:_vanilla_block/netherite_block"},
+	{"type": "single","resource": "minecraft:_vanilla_block/fire_coral_block"},
+	{"type": "single","resource": "minecraft:_vanilla_block/lodestone_side"},
+	{"type": "single","resource": "minecraft:_custom/sc_fireworks/small_radio"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/babyss"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/unhornybabyss"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/leftarmtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/rightarmtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/bodytexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/rightlegtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/leftlegtexture1"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/babyss/leftlegtexture2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/head"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/paws"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/body3"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/tail"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/tail2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/face"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/face2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/face3"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/nose_and_eyes"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/doggy/red"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/eyestexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/texturem"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/texturemm"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/texturemmm"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/texturer"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/textureears"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/textureears2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/elloitty/texturemain"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/1texture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/2texture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/3texture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/bodytexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/leftlegtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rtkkvtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/leftlegtexture2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rightlegtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/leftarmtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rightarmtexture"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/panda/brownpanda"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/panda/playfulpanda"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/pandahat"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/blaccat"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/halo"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/kyleshat"},
+	{"type": "single","resource": "minecraft:_custom/calli_kosa1"},
+	{"type": "single","resource": "minecraft:_custom/calli_kosa2"},
+	{"type": "single","resource": "minecraft:_custom/pink_deagle_sticker"},
+	{"type": "single","resource": "minecraft:_custom/pink_deagle_flowersticker"},
+	{"type": "single","resource": "minecraft:_custom/pink_deagle"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/ayanami"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/cats_gif"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/happi"},
+	{"type": "single","resource": "minecraft:_custom/tot/ayanamitotem"},
+	{"type": "single","resource": "minecraft:_custom/tot/asukatotem"},
+	{"type": "single","resource": "minecraft:_custom/chainsword"},
+	{"type": "single","resource": "minecraft:_custom/pochita"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/texture2"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/lihco_funky"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rtkkv_funky"}
+    ]
+}

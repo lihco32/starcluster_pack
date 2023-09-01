@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gray_dye"
+  },
+    "overrides": [
+	{"predicate": {"custom_model_data": 225522},"model": "_custom/yayaslavs/furniture/alien_statue"},
+	{"predicate": {"custom_model_data": 225523},"model": "_custom/lihco/coldest/coldest_statue"},
+	{"predicate": {"custom_model_data": 225524},"model": "_custom/yayaslavs/fox"},
+	{"predicate": {"custom_model_data": 225525},"model": "_custom/lihco/furniture/ghost_statue"}
+  ]
+}

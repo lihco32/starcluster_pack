@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glowstone_dust"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 218 }, "model": "_custom/lihco/coldest/heat_orb" },
+	{ "predicate": { "custom_model_data": 219 }, "model": "_custom/lihco/coldest/light" },
+        { "predicate": { "custom_model_data": 220 }, "model": "_custom/lihco/furniture/yalynka" },
+	{ "predicate": { "custom_model_data": 221 }, "model": "_custom/lihco/furniture/yalynka_garland" },
+	{ "predicate": { "custom_model_data": 223 }, "model": "_custom/yayaslavs/lamp" }
+    ]
+}

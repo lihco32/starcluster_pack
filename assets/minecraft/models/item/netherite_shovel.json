@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_shovel"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 699193},"model": "_custom/lihco/spleef_shovel"}
+  ]
+}

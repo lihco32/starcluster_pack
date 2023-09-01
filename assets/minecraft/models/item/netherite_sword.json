@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 694189},"model": "_custom/bts/chainsword"},
+	{"predicate": {"custom_model_data": 694190},"model": "_custom/bts/calli_kosa"},
+	{"predicate": {"custom_model_data": 694191},"model": "_custom/lihco/coldest/healing_staff"},
+	{"predicate": {"custom_model_data": 694192},"model": "_custom/lihco/coldest/halberd"},
+	{"predicate": {"custom_model_data": 694193},"model": "_custom/lihco/feather_sword"},
+	{"predicate": {"custom_model_data": 694194},"model": "_custom/lihco/coldest/skelesword_better"},
+	{"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
+	{"predicate": {"custom_model_data": 694196},"model": "_custom/lihco/coldest/skelesword"},
+	{"predicate": {"custom_model_data": 694197},"model": "_custom/scp/dualkatana"},
+	{ "predicate": { "custom_model_data": 694198 }, "model": "_custom/lihco/coldest/coldest_sword_anim" },
+	{ "predicate": { "custom_model_data": 694199 }, "model": "_custom/lihco/coldest/coldest_sword" },
+	{ "predicate": { "custom_model_data": 694201 }, "model": "_custom/zero/tsurugi" },
+	{ "predicate": { "custom_model_data": 694202 }, "model": "_custom/lihco/rapier" },
+	{ "predicate": { "custom_model_data": 694204 }, "model": "_custom/lihco/sanemi_sword" },
+	{ "predicate": { "custom_model_data": 694205 }, "model": "_custom/lihco/yaoi_sword" },
+	{ "predicate": { "custom_model_data": 694206 }, "model": "_custom/lihco/lihco_sword" },
+	{ "predicate": { "custom_model_data": 694207 }, "model": "_custom/lihco/blue_sword" },
+	{ "predicate": { "custom_model_data": 1000113 }, "model": "_custom/black/ecx" },
+	{ "predicate": { "custom_model_data": 1010001 }, "model": "_custom/zero/imperious" },
+	{ "predicate": { "custom_model_data": 1010002 }, "model": "_custom/vanyaka/zabuza_sword" }
+  ]
+}

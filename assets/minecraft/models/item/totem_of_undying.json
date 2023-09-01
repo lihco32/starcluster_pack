@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/totem_of_undying"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 519 }, "model": "_custom/bts/tots/ayanamitotem"},
+	{ "predicate": { "custom_model_data": 520 }, "model": "_custom/bts/tots/asukatotem"},
+	{ "predicate": { "custom_model_data": 521 }, "model": "_custom/lolmao/babus_totem" },
+	{ "predicate": { "custom_model_data": 522 }, "model": "_custom/lolmao/lolmao_totem" },
+	{ "predicate": { "custom_model_data": 523 }, "model": "_custom/grifon/totem_yalu3an" },
+    	{ "predicate": { "custom_model_data": 524 }, "model": "_custom/grifon/totem_black" },
+	{ "predicate": { "custom_model_data": 525 }, "model": "_custom/grifon/totem_litr" },
+	{ "predicate": { "custom_model_data": 526 }, "model": "_custom/grifon/totem_rtkkv" },
+	{ "predicate": { "custom_model_data": 527 }, "model": "_custom/grifon/totemkropiva1" },
+	{ "predicate": { "custom_model_data": 528 }, "model": "_custom/grifon/bts" },
+	{ "predicate": { "custom_model_data": 529 }, "model": "_custom/grifon/smirnoveta" },
+	{ "predicate": { "custom_model_data": 530 }, "model": "_custom/grifon/yayaslavs" },
+	{ "predicate": { "custom_model_data": 531 }, "model": "_custom/grifon/kavyn" },
+	{ "predicate": { "custom_model_data": 532 }, "model": "_custom/grifon/boginya" },
+	{ "predicate": { "custom_model_data": 533 }, "model": "_custom/lihco/florp" }
+  ]
+}

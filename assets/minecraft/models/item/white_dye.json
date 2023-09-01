@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/white_dye"
+  },
+    "overrides": [
+	{"predicate": {"custom_model_data": 22539},"model": "_custom/bts/hats/rtkkv_funky"},
+	{"predicate": {"custom_model_data": 22540},"model": "_custom/bts/hats/lihco_funky"},
+	{"predicate": {"custom_model_data": 22541},"model": "_custom/bts/pochita"},
+	{"predicate": {"custom_model_data": 22542},"model": "_custom/lolmao/vaultboy"},
+	{"predicate": {"custom_model_data": 22543},"model": "_custom/lihco/furniture/saul_bench"},
+	{"predicate": {"custom_model_data": 22544},"model": "_custom/lolmao/securitron"},
+	{"predicate": {"custom_model_data": 22545},"model": "_custom/lolmao/mr_handy"},
+	{"predicate": {"custom_model_data": 22546},"model": "_custom/lolmao/fallout_pc"},
+	{"predicate": {"custom_model_data": 22547},"model": "_custom/lihco/food/plate"},
+	{"predicate": {"custom_model_data": 22548},"model": "_custom/smirnoveta/furniture/yoda"},
+	{"predicate": {"custom_model_data": 22549},"model": "_custom/smirnoveta/furniture/coffeemachine"},
+	{"predicate": {"custom_model_data": 22550},"model": "_custom/lihco/furniture/laptop_lvi"},
+	{"predicate": {"custom_model_data": 22551},"model": "_custom/lihco/furniture/laptop"},
+	{"predicate": {"custom_model_data": 22552},"model": "_custom/lihco/painting/street"},
+	{"predicate": {"custom_model_data": 22553},"model": "_custom/lihco/painting/kitya"},
+	{"predicate": {"custom_model_data": 22554},"model": "_custom/lihco/painting/kitya2"},
+	{"predicate": {"custom_model_data": 22555},"model": "_custom/lihco/painting/hvostyk"},
+	{"predicate": {"custom_model_data": 22556},"model": "_custom/lihco/painting/brus"},
+	{"predicate": {"custom_model_data": 22557},"model": "_custom/lihco/painting/borys"},
+	{"predicate": {"custom_model_data": 22558},"model": "_custom/lihco/painting/polar_bear"},
+	{"predicate": {"custom_model_data": 22559},"model": "_custom/lihco/painting/sky"},
+	{"predicate": {"custom_model_data": 22560},"model": "_custom/lihco/painting/mountain"},
+	{"predicate": {"custom_model_data": 22561},"model": "_custom/lihco/painting/bonya"},
+	{"predicate": {"custom_model_data": 22562},"model": "_custom/lihco/painting/forest"},
+	{"predicate": {"custom_model_data": 2540342},"model": "_custom/yayaslavs/present_blue"},
+	{"predicate": {"custom_model_data": 2540343},"model": "_custom/yayaslavs/present_yellow"},
+	{"predicate": {"custom_model_data": 2540344},"model": "_custom/yayaslavs/present_red"},
+	{"predicate": {"custom_model_data": 2540345},"model": "_custom/yayaslavs/vinok"},
+	{"predicate": {"custom_model_data": 2540346},"model": "_custom/yayaslavs/bear"},
+	{"predicate": {"custom_model_data": 2540347},"model": "_custom/yayaslavs/car"},
+	{"predicate": {"custom_model_data": 2540348},"model": "_custom/yayaslavs/snowflake"},
+        {"predicate": {"custom_model_data": 22540349},"model": "_custom/lihco/furniture/snowglobe"},
+	{"predicate": {"custom_model_data": 22540350},"model": "_custom/lihco/furniture/snowman"},
+	{"predicate": {"custom_model_data": 22540351},"model": "_custom/lihco/furniture/pumpkin"}
+  ]
+}

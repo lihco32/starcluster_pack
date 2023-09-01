@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+    "overrides": [
+	{"predicate": {"custom_model_data": 533450},"model": "_custom/lihco/coldest/healing_staff"},
+	{"predicate": {"custom_model_data": 533450, "damaged": 1},"model": "_custom/lihco/coldest/healing_staff_dead"},
+	{"predicate": {"custom_model_data": 533451},"model": "_custom/lihco/coldest/ice_nova_charm"},
+	{"predicate": {"custom_model_data": 533451, "damaged": 1},"model": "_custom/lihco/coldest/ice_nova_charm_dead"},
+        {"predicate": {"custom_model_data": 533452},"model": "_custom/lihco/coldest/puzzle_staff"}
+    ]
+}

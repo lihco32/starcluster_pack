@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bread"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/kvas_catalyst"},
+	{"predicate": {"custom_model_data": 352463},"model": "_custom/smirnoveta/food/baguette"},
+	{"predicate": {"custom_model_data": 352464},"model": "_custom/smirnoveta/food/croissant5"},
+	{"predicate": {"custom_model_data": 352465},"model": "_custom/smirnoveta/food/croissant4"},
+	{"predicate": {"custom_model_data": 352466},"model": "_custom/smirnoveta/food/croissant3"},
+	{"predicate": {"custom_model_data": 352467},"model": "_custom/smirnoveta/food/croissant2"},
+	{"predicate": {"custom_model_data": 352468},"model": "_custom/smirnoveta/food/croissant1"},
+	{"predicate": {"custom_model_data": 352469},"model": "_custom/smirnoveta/food/croissant"}
+    ]
+}

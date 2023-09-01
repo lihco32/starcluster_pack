@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/emerald"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 70000 }, "model": "_custom/lihco/sc_fireworks/small_radio" }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {"pulling": 1},
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {"pulling": 1,"pull": 0.58},
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {"pulling": 1,"pull": 1.0},
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {"charged": 1},
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {"charged": 1,"firework": 1},
+            "model": "item/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "_custom/scp/submachine"
+        },
+        {
+            "predicate": {"charged": 0, "custom_model_data": 18},
+            "model": "_custom/scp/shotgun_standby"
+        },
+        {
+            "predicate": {"charged": 1, "custom_model_data": 18},
+            "model": "_custom/scp/shotgun_arrow"
+        },
+        {
+            "predicate": {"charged": 1,"firework": 1, "custom_model_data": 18},
+            "model": "_custom/scp/shotgun_firework"
+        },
+		{
+            "predicate": {"custom_model_data": 19},
+            "model": "_custom/grifon/glock"
+        },
+		{
+            "predicate": {"custom_model_data": 20},
+            "model": "_custom/lihco/revo/trigun"
+        },
+		{
+            "predicate": {"custom_model_data": 20, "pulling": 1, "pull": 0.48},
+            "model": "_custom/lihco/revo/trigun_pulling_0"
+        },
+		{
+            "predicate": {"custom_model_data": 20, "pulling": 1, "pull": 1.0},
+            "model": "_custom/lihco/revo/trigun_pulling_1"
+        },
+		{
+            "predicate": {"custom_model_data": 21},
+            "model": "_custom/lihco/revo/trigun"
+        },
+		{
+            "predicate": {"custom_model_data": 21, "pulling": 1},
+            "model": "_custom/lihco/revo/trigun_recharge_pulling_0"
+        },
+		{
+            "predicate": {"custom_model_data": 21, "pulling": 1, "pull": 0.58},
+            "model": "_custom/lihco/revo/trigun_recharge_pulling_1"
+        },
+		{
+            "predicate": {"custom_model_data": 21, "pulling": 1, "pull": 1.0},
+            "model": "_custom/lihco/revo/trigun_recharge_pulling_2"
+        }
+
+    ]
+}
