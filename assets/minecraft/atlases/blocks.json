@@ -1587,6 +1587,13 @@
 	{"type": "single","resource": "minecraft:_custom/pochita"},
 	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/texture2"},
 	{"type": "single","resource": "minecraft:_custom/player_hats/lihco/lihco_funky"},
-	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rtkkv_funky"}
+	{"type": "single","resource": "minecraft:_custom/player_hats/rtkkv/rtkkv_funky"},
+	{"type": "single","resource": "minecraft:_custom/player_hats/witch_hat"},
+	{"type": "single","resource": "minecraft:_vanilla_item/fermented_spider_eye"},
+	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball"},
+	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball_spark"},
+	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball_inner"},
+	{"type": "single","resource": "minecraft:_custom/furniture/pochita"},
+	{"type": "single","resource": "minecraft:_custom/furniture/sombrero"}
     ]
 }

@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22537},"model": "_custom/lihco/furniture/pochita_sombrero"},
+	{"predicate": {"custom_model_data": 22538},"model": "_custom/lihco/furniture/crystal_ball"},
 	{"predicate": {"custom_model_data": 22539},"model": "_custom/bts/hats/rtkkv_funky"},
 	{"predicate": {"custom_model_data": 22540},"model": "_custom/bts/hats/lihco_funky"},
 	{"predicate": {"custom_model_data": 22541},"model": "_custom/bts/pochita"},

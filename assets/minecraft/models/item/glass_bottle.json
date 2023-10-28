@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/glass_bottle"
   },
   "overrides": [
+	{ "predicate": { "custom_model_data": 1005458 }, "model": "_custom/lihco/furniture/empty_jar" },
+	{ "predicate": { "custom_model_data": 1005459 }, "model": "_custom/lihco/furniture/spider_eye_jar" },
 	{ "predicate": { "custom_model_data": 1005460 }, "model": "_custom/lihco/alco/stakan_cidr" },
 	{ "predicate": { "custom_model_data": 1005461 }, "model": "_custom/lihco/alco/stakan_pyvo" },
 	{ "predicate": { "custom_model_data": 1005462 }, "model": "_custom/lihco/alco/stakan_berry" },

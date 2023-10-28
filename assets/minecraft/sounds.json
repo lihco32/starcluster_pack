@@ -141,5 +141,8 @@
 	},
 	"sc_fireworks.beep": {
 		"sounds": ["sc_fireworks/beep"]
+	},
+	"sc.pochita": {
+		"sounds": ["pochita"]
 	}
 }

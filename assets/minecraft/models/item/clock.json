@@ -88,6 +88,8 @@
 	{ "predicate": { "custom_model_data":143, "time": 0.9700000 }, "model": "_custom/lihco/coldest/paint/6" },
 	{ "predicate": { "custom_model_data":143, "time": 0.9900000 }, "model": "_custom/lihco/coldest/paint/7" },
 	{ "predicate": { "custom_model_data":150}, "model": "item/clock" },
+	{ "predicate": { "custom_model_data": 1000083 }, "model": "_custom/lihco/cat_hat/sombrero"},
+	{ "predicate": { "custom_model_data": 1000084 }, "model": "_custom/lihco/cat_hat/witch_hat"},
 	{ "predicate": { "custom_model_data": 1000085 }, "model": "_custom/lihco/sc_fireworks/small_radio"},
 	{ "predicate": { "custom_model_data": 1000086 }, "model": "_custom/bts/happi"},
 	{ "predicate": { "custom_model_data": 1000087 }, "model": "_custom/bts/cats_gif_cube"},
