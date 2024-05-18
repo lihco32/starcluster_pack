@@ -1594,6 +1594,7 @@
 	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball_spark"},
 	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball_inner"},
 	{"type": "single","resource": "minecraft:_custom/furniture/pochita"},
-	{"type": "single","resource": "minecraft:_custom/furniture/sombrero"}
+	{"type": "single","resource": "minecraft:_custom/furniture/sombrero"},
+	{"type": "single","resource": "minecraft:_custom/verbova_gilka"}
     ]
 }
