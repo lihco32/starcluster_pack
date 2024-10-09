@@ -5,6 +5,7 @@
         "layer1": "item/potion"
     },
     "overrides": [
+	{ "predicate": { "custom_model_data": 1005451 }, "model": "_custom/lolmao/metal_mug" },
 	{ "predicate": { "custom_model_data": 1005452 }, "model": "_custom/smirnoveta/food/tomatojuice" },
 	{ "predicate": { "custom_model_data": 1005453 }, "model": "_custom/lihco/food/plum_jam" },
         { "predicate": { "custom_model_data": 1005454 }, "model": "_custom/lihco/alco/cidr" },

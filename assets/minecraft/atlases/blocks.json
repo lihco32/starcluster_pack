@@ -1595,6 +1595,15 @@
 	{"type": "single","resource": "minecraft:_custom/furniture/crystal_ball_inner"},
 	{"type": "single","resource": "minecraft:_custom/furniture/pochita"},
 	{"type": "single","resource": "minecraft:_custom/furniture/sombrero"},
-	{"type": "single","resource": "minecraft:_custom/verbova_gilka"}
+	{"type": "single","resource": "minecraft:_custom/verbova_gilka"},
+	{"type": "single","resource": "minecraft:_custom/fallout/food_tray"},
+	{"type": "single","resource": "minecraft:_custom/fallout/clock"},
+	{"type": "single","resource": "minecraft:_custom/fallout/lights"},
+	{"type": "single","resource": "minecraft:_custom/fallout/lights_e"},
+	{"type": "single","resource": "minecraft:_custom/fallout/lights_main"},
+	{"type": "single","resource": "minecraft:_custom/fallout/metal_mug"},
+	{"type": "single","resource": "minecraft:_custom/fallout/scoop_holder"},
+	{"type": "single","resource": "minecraft:_vanilla_block/birch_planks"},
+	{"type": "single","resource": "minecraft:_vanilla_block/jungle_planks"}
     ]
 }
