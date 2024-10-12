@@ -1604,6 +1604,8 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/metal_mug"},
 	{"type": "single","resource": "minecraft:_custom/fallout/scoop_holder"},
 	{"type": "single","resource": "minecraft:_vanilla_block/birch_planks"},
-	{"type": "single","resource": "minecraft:_vanilla_block/jungle_planks"}
+	{"type": "single","resource": "minecraft:_vanilla_block/jungle_planks"},
+	{"type": "single","resource": "minecraft:_custom/fallout/black"},
+	{"type": "single","resource": "minecraft:_custom/fallout/white"}
     ]
 }
