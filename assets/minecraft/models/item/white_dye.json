@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22525},"model": "_custom/lolmao/globus2"},
+	{"predicate": {"custom_model_data": 22526},"model": "_custom/lolmao/globus1"},
+	{"predicate": {"custom_model_data": 22527},"model": "_custom/lolmao/rynok2"},
+	{"predicate": {"custom_model_data": 22528},"model": "_custom/lolmao/rynok1"},
 	{"predicate": {"custom_model_data": 22529},"model": "_custom/lolmao/scoop_holder"},
 	{"predicate": {"custom_model_data": 22530},"model": "_custom/lolmao/lights_ceil1"},
 	{"predicate": {"custom_model_data": 22531},"model": "_custom/lolmao/lights_ceil"},
