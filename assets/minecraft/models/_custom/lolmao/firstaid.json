@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "_custom/fallout/firstaidtexture",
+		"particle": "_custom/fallout/firstaidtexture"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 6],
+			"to": [13, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"east": {"uv": [5, 0, 7, 5], "texture": "#0"},
+				"south": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"west": {"uv": [5, 5, 7, 10], "texture": "#0"},
+				"up": {"uv": [12, 2, 7, 0], "texture": "#0"},
+				"down": {"uv": [12, 2, 7, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 10, 8],
+			"to": [10, 12, 8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [9, 4, 7, 5], "texture": "#0"},
+				"east": {"uv": [9, 4, 9, 5], "texture": "#0"},
+				"south": {"uv": [7, 4, 9, 5], "texture": "#0"},
+				"west": {"uv": [7, 4, 7, 5], "texture": "#0"},
+				"up": {"uv": [7, 4, 9, 4], "texture": "#0"},
+				"down": {"uv": [7, 5, 9, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, 2.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, 2.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-11, 122, 0],
+			"translation": [2, 2.5, -2.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-11, 122, 0],
+			"translation": [2, 2.5, -2.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [25, 135, 0],
+			"translation": [0.25, 2.25, 0]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 9, 3]
+		},
+		"fixed": {
+			"translation": [0, 6, -4],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		0,
+		1
+	]
+}
