@@ -4457,7 +4457,7 @@
 
 "Go back to main config menu": "Повернутися до головного меню",
 
-"Dig through some Rooted Dirt beneath an Azalea Tree so you can find a Lush Cave": "Прокопайте через корінисту землю під азалією, аби потрапити у Пишну печеру"
+"Dig through some Rooted Dirt beneath an Azalea Tree so you can find a Lush Cave": "Прокопайте через корінисту землю під азалією, аби потрапити у Пишну печеру",
 
 
 # All advancements and trophies that get added in versions 1.14 or later will be added down here for easy locating by translators who wish to update their language file
@@ -4531,6 +4531,11 @@
   "commands.trigger.failed.unprimed": "Неможливо задіяти цей тригер зараз",
   "item.minecraft.nautilus_shell": "Мушля наутилуса",
   "multiplayer.downloadingTerrain": "Завантаження місцевості...",
-  "commands.trigger.failed.invalid": "Можна задіяти тільки задачі-тригери, які мають тип 'trigger'."
+  "commands.trigger.failed.invalid": "Можна задіяти тільки задачі-тригери, які мають тип 'trigger'.",
 
+#Тут зміни до ігрового меню.
+
+  "menu.disconnect": "Відлетіти з орбіти",
+  "menu.returnToGame": "Зістикуватися",
+  "menu.game": "\uE000"
 }
