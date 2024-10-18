@@ -1,0 +1,7 @@
+{
+ #Тут зміни до ігрового меню.
+
+  "menu.disconnect": "Leave the orbit",
+  "menu.returnToGame": "Dock",
+  "menu.game": "\uE000"
+}

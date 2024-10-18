@@ -1,6 +1,6 @@
 {
   "providers": [
-    {
+        {
 			"type":"bitmap",
 			"file":"minecraft:font/emoji.png",
 			"ascent":7,
@@ -21,6 +21,15 @@
 				"\u90d0\u90d1\u90d2\u90d3\u90d4\u90d5\u90d6\u90d7\u90d8\u90d9\u90da\u90db\u90dc\u90dd\u90de\u90df",
 				"\u90e0\u90e1\u90e2\u90e3\u90e4\u90e5\u90e6\u90e7\u90e8\u90e9\u90ea\u90eb\u90ec\u90ed\u90ee\u90ef",
 				"\u90f0\u90f1\u90f2\u90f3\u90f4\u90f5\u90f6\u90f7\u90f8\u90f9\u90fa\u90fb\u90fc\u90fd\u90fe\u90ff"
+			]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:font/sclogo.png",
+			"height": 200,
+			"ascent": 5,
+			"chars":[ 
+			    "\uE000"
 			]
 		}
   ]
