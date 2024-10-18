@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 518 }, "model": "_custom/lolmao/dream_catcher"},
 	{ "predicate": { "custom_model_data": 519 }, "model": "_custom/bts/tots/ayanamitotem"},
 	{ "predicate": { "custom_model_data": 520 }, "model": "_custom/bts/tots/asukatotem"},
 	{ "predicate": { "custom_model_data": 521 }, "model": "_custom/lolmao/babus_totem" },
