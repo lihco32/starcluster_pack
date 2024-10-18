@@ -27,7 +27,7 @@
 			"type":"bitmap",
 			"file":"minecraft:font/sclogo.png",
 			"height": 200,
-			"ascent": 5,
+			"ascent": 20,
 			"chars":[ 
 			    "\uE000"
 			]
