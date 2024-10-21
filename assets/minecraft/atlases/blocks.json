@@ -1609,6 +1609,7 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/white"},
 	{"type": "single","resource": "minecraft:_custom/fallout/firstaidtexture"},
 	{"type": "single","resource": "minecraft:_custom/fallout/ivdrip"},
-	{"type": "single","resource": "minecraft:_custom/fallout/dream_catcher"}
+	{"type": "single","resource": "minecraft:_custom/fallout/dream_catcher"},
+	{"type": "single","resource": "minecraft:_custom/fallout/ghost_figure"}
     ]
 }
