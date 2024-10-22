@@ -188,6 +188,7 @@ netherite_pickaxe (незеритове кайло)
 netherite_shovel (незеритова лопата)
 
 diamond_sword (алмазний меч)
+694188 - blue metal sword
 694195 - hehesword
 694197 - подвійний меч з СЦП
 694200 - Катана
