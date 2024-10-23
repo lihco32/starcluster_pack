@@ -1611,6 +1611,10 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/ivdrip"},
 	{"type": "single","resource": "minecraft:_custom/fallout/dream_catcher"},
 	{"type": "single","resource": "minecraft:_custom/fallout/ghost_figure"},
-	{"type": "single","resource": "minecraft:_custom/blue_metal_sword"}
+	{"type": "single","resource": "minecraft:_custom/blue_metal_sword"},
+	{"type": "single","resource": "minecraft:_vanilla_block/candle"},
+	{"type": "single","resource": "minecraft:_vanilla_block/candle_lit"},
+	{"type": "single","resource": "minecraft:_custom/furniture/candle_stand"},
+	{"type": "single","resource": "minecraft:_custom/furniture/flame"}
     ]
 }
