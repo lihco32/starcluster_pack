@@ -1615,8 +1615,8 @@
 	{"type": "single","resource": "minecraft:_vanilla_block/candle"},
 	{"type": "single","resource": "minecraft:_vanilla_block/candle_lit"},
 	{"type": "single","resource": "minecraft:_custom/furniture/candle_stand"},
-  {"type": "single","resource": "minecraft:_custom/furniture/flame"},
-  {"type": "single","resource": "minecraft:_custom/fallout/liminal_mask"},
-	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"},
+  	{"type": "single","resource": "minecraft:_custom/furniture/flame"},
+  	{"type": "single","resource": "minecraft:_custom/fallout/liminal_mask"},
+	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"}
     ]
 }
