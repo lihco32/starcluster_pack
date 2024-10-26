@@ -198,6 +198,7 @@ diamond_sword (алмазний меч)
 694207 - синій меч
 
 netherite_sword (незеритовий меч)
+694188 - палаючий кулак
 694194 - coldest skelesword_better
 694195 - hehesword
 694196 - coldest skelesword
