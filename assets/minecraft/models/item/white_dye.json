@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22521},"model": "_custom/lihco/furniture/candle_stand"},
 	{"predicate": {"custom_model_data": 22522},"model": "_custom/lolmao/ghost_figure"},
 	{"predicate": {"custom_model_data": 22523},"model": "_custom/lolmao/ivdrip"},
 	{"predicate": {"custom_model_data": 22524},"model": "_custom/lolmao/firstaid"},
