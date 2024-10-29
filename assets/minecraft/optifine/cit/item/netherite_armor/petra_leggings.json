@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"parent": "item/template_leggings",
+	"textures": {
+		"particle": "item/armor/netherite/petra_layer_2"
+	}
+}
