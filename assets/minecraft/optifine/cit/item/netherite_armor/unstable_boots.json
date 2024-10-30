@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
-	"parent": "item/template_boots",
-	"textures": {
-		"particle": "item/armor/netherite/unstable_layer_1"
-	}
-}
