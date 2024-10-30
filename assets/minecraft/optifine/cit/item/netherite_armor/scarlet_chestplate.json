@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
-	"parent": "item/template_chestplate",
-	"textures": {
-		"particle": "item/armor/netherite/scarlet_layer_1"
-	}
-}
