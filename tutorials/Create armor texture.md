@@ -1,7 +1,7 @@
 # Як створити власну текстуру для кастомних обладунків.
 
  1. Потрібно завантажити та відкрити Blockbench;
- 2. Відкриваємо меню завантаження плагінів у вкладці Файл; ![image](tutorials/images/armor1.jpg)
+ 2. Відкриваємо меню завантаження плагінів у вкладці Файл; ![image](images/armor1.jpg)
 
  3. В ньому шукаємо CEM Template Loader та завантажуємо; ![image](https://github.com/user-attachments/assets/df24109e-e892-452e-afca-8c2c9ddf193d)
 
