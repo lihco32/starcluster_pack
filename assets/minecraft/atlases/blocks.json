@@ -1617,6 +1617,9 @@
 	{"type": "single","resource": "minecraft:_custom/furniture/candle_stand"},
   	{"type": "single","resource": "minecraft:_custom/furniture/flame"},
   	{"type": "single","resource": "minecraft:_custom/fallout/liminal_mask"},
-	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"}
+	{"type": "single","resource": "minecraft:_custom/fallout/wallpaper_backrooms"},
+	{"type": "single","resource": "minecraft:_custom/fallout/floor_backrooms"},
+	{"type": "single","resource": "minecraft:_custom/fallout/furniture_backrooms"},
+	{"type": "single","resource": "minecraft:_custom/fallout/graffiti_backrooms"}
     ]
 }
