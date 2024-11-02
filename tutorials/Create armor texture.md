@@ -1,13 +1,17 @@
 # Як створити власну текстуру для кастомних обладунків.
 
- 1. Потрібно завантажити та відкрити Blockbench;
- 2. Відкриваємо меню завантаження плагінів у вкладці Файл; ![image](images/armor1.jpg)
+ 1. Потрібно завантажити та відкрити Blockbench
+ 2. Відкриваємо Файл -> меню завантаження плагінів
+ ![image](images/armor1.jpg)
 
- 3. В ньому шукаємо CEM Template Loader та завантажуємо; ![image](https://github.com/user-attachments/assets/df24109e-e892-452e-afca-8c2c9ddf193d)
+ 3. В ньому шукаємо CEM Template Loader та завантажуємо
+ ![image](https://github.com/user-attachments/assets/df24109e-e892-452e-afca-8c2c9ddf193d)
 
- 4. Далі на головній сторінці з'являється лоадер, відкриваємо його та натискаємо на Load CEM Template; ![image](https://github.com/user-attachments/assets/a21430c1-bdfe-46b9-82bc-5fa1210e244a)
+ 4. Далі на головній сторінці з'являється лоадер, відкриваємо його та натискаємо на Load CEM Template;
+ ![image](https://github.com/user-attachments/assets/a21430c1-bdfe-46b9-82bc-5fa1210e244a)
 
- 5. У вкладці Unsupported обираємо Armor [Layer 1/Layer 2], де Layer 1 відповідає за шолом, нагрудник та чоботи, а Layer 2 відповідає лише за штани; ![image](https://github.com/user-attachments/assets/e02dfd8b-1e06-4b57-85d8-1052becb6955)
+ 5. У вкладці Unsupported обираємо Armor [Layer 1/Layer 2], де Layer 1 відповідає за шолом, нагрудник та чоботи, а Layer 2 відповідає лише за штани;
+ ![image](https://github.com/user-attachments/assets/e02dfd8b-1e06-4b57-85d8-1052becb6955)
 
  6. Малюємо;
  7. Коли намалювали текстуру, натискаємо зліва ПКМ на файл з текстурою, далі натискаємо в меню на "Зберегти як" ![image](https://github.com/user-attachments/assets/982f9789-6e43-44ef-b7d1-38e3aa53d929)
