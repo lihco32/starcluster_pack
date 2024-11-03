@@ -1620,6 +1620,7 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/wallpaper_backrooms"},
 	{"type": "single","resource": "minecraft:_custom/fallout/floor_backrooms"},
 	{"type": "single","resource": "minecraft:_custom/fallout/furniture_backrooms"},
-	{"type": "single","resource": "minecraft:_custom/fallout/graffiti_backrooms"}
+	{"type": "single","resource": "minecraft:_custom/fallout/graffiti_backrooms"},
+	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"}
     ]
 }
