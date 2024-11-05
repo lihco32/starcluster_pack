@@ -136,7 +136,11 @@
 	{ "predicate": { "custom_model_data": 1000137 }, "model": "_custom/lihco/cat_hat/tophat"},
 	{ "predicate": { "custom_model_data": 1000138 }, "model": "_custom/lihco/cat_hat/hedgehog"},
 	{ "predicate": { "custom_model_data": 1000139 }, "model": "_custom/yayaslavs/vushanka"},
-	{ "predicate": { "custom_model_data": 1000140 }, "model": "_custom/yayaslavs/newyear_shapka"}
+	{ "predicate": { "custom_model_data": 1000140 }, "model": "_custom/yayaslavs/newyear_shapka"},
+	{ "predicate": { "custom_model_data": 1000141 }, "model": "_custom/bts/cig"},
+	{ "predicate": { "custom_model_data": 1000142 }, "model": "_custom/bts/finnshat"},
+	{ "predicate": { "custom_model_data": 1000143 }, "model": "_custom/bts/frierenears"},
+	{ "predicate": { "custom_model_data": 1000144 }, "model": "_custom/bts/shrekears"}
     ]
 }
 

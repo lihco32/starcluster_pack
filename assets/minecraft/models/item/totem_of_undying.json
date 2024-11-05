@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 514 }, "model": "_custom/bts/tots/mymelody"},
+    { "predicate": { "custom_model_data": 515 }, "model": "_custom/bts/tots/kuromi"},
+    { "predicate": { "custom_model_data": 516 }, "model": "_custom/bts/tots/hellokitty"},
+    { "predicate": { "custom_model_data": 517 }, "model": "_custom/bts/tots/cinnamonroll"},
     { "predicate": { "custom_model_data": 518 }, "model": "_custom/lolmao/dream_catcher"},
 	{ "predicate": { "custom_model_data": 519 }, "model": "_custom/bts/tots/ayanamitotem"},
 	{ "predicate": { "custom_model_data": 520 }, "model": "_custom/bts/tots/asukatotem"},
