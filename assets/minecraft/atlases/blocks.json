@@ -1621,6 +1621,19 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/floor_backrooms"},
 	{"type": "single","resource": "minecraft:_custom/fallout/furniture_backrooms"},
 	{"type": "single","resource": "minecraft:_custom/fallout/graffiti_backrooms"},
-	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"}
+	{"type": "single","resource": "minecraft:_custom/fallout/fire_fist"},
+	{"type": "single","resource": "minecraft:_custom/bts/arch_of_love"},
+	{"type": "single","resource": "minecraft:_custom/bts/arch_of_love_flowers"},
+	{"type": "single","resource": "minecraft:_custom/bts/cigga"},
+	{"type": "single","resource": "minecraft:_custom/bts/smoke"},
+	{"type": "single","resource": "minecraft:_custom/bts/cigpack"},
+	{"type": "single","resource": "minecraft:_custom/bts/cinnamonroll"},
+	{"type": "single","resource": "minecraft:_custom/bts/finnshat"},
+	{"type": "single","resource": "minecraft:_custom/bts/frierenears"},
+	{"type": "single","resource": "minecraft:_custom/bts/hellokitty"},
+	{"type": "single","resource": "minecraft:_custom/bts/kuromi"},
+	{"type": "single","resource": "minecraft:_custom/bts/mymelody"},
+	{"type": "single","resource": "minecraft:_custom/bts/myflower"},
+	{"type": "single","resource": "minecraft:_custom/bts/shrekears"}
     ]
 }
