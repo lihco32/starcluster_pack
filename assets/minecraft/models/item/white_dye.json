@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22517},"model": "_custom/vanyaka/scp"},
 	{"predicate": {"custom_model_data": 22518},"model": "_custom/bts/cigpack"},
 	{"predicate": {"custom_model_data": 22519},"model": "_custom/bts/arch"},
 	{"predicate": {"custom_model_data": 22520},"model": "_custom/lolmao/backrooms_diorama"},

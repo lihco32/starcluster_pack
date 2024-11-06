@@ -1,0 +1,61 @@
+{
+	"credit": "Made by vanyaka",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "_custom/vanyaka/scp",
+		"particle": "_custom/vanyaka/scp"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 8.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [13.9887, 5.10734, 14.96045, 7.05085], "texture": "#0"},
+				"south": {"uv": [13.74011, 4.47458, 15.59322, 5.78531], "texture": "#0"},
+				"west": {"uv": [14.32768, 4.97175, 15.20904, 7.59322], "texture": "#0"},
+				"up": {"uv": [12.97175, 4.94915, 14.66667, 5.80791], "texture": "#0"},
+				"down": {"uv": [12.22599, 5.03955, 14.0565, 5.51695], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 0, 180],
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-0.5, 5.5, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [1, 4.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [0, 180, 180],
+			"translation": [0, -3.5, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
+		"head": {
+			"translation": [0, 0, -5.5],
+			"scale": [0.80664, 0.80273, 1]
+		},
+		"fixed": {
+			"translation": [0, 0, 1.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}
