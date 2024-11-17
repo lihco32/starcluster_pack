@@ -1635,6 +1635,9 @@
 	{"type": "single","resource": "minecraft:_custom/bts/mymelody"},
 	{"type": "single","resource": "minecraft:_custom/bts/myflower"},
 	{"type": "single","resource": "minecraft:_custom/bts/shrekears"},
-	{"type": "single","resource": "minecraft:_custom/vanyaka/scp"}
+	{"type": "single","resource": "minecraft:_custom/vanyaka/scp"},
+	{"type": "single","resource": "minecraft:_custom/fallout/locker"},
+	{"type": "single","resource": "minecraft:_custom/fallout/shower"},
+	{"type": "single","resource": "minecraft:_custom/fallout/shower_water"}
     ]
 }
