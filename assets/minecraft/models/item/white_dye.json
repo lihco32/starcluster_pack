@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22515},"model": "_custom/lolmao/subway_seats"},
 	{"predicate": {"custom_model_data": 22516},"model": "_custom/lolmao/shower_water"},
 	{"predicate": {"custom_model_data": 22517},"model": "_custom/vanyaka/scp"},
 	{"predicate": {"custom_model_data": 22518},"model": "_custom/bts/cigpack"},
