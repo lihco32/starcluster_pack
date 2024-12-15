@@ -1649,6 +1649,7 @@
 	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs"},
 	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs_dark"},
 	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs_gold"},
-	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_main"}
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_main"},
+	{"type": "single","resource": "minecraft:_custom/painting/chornokik"}
     ]
 }
