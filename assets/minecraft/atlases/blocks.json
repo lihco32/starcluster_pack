@@ -1640,6 +1640,15 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/shower"},
 	{"type": "single","resource": "minecraft:_custom/fallout/shower_water"},
 	{"type": "single","resource": "minecraft:_custom/fallout/subway_seats"},
-		{"type": "single","resource": "minecraft:_custom/fallout/subway_sign"}
+	{"type": "single","resource": "minecraft:_custom/fallout/subway_sign"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_blue"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_dark_blue"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_purple"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_gold"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_orange"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs_dark"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs_gold"},
+	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_main"}
     ]
 }
