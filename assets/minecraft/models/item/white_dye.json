@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22512},"model": "_custom/lolmao/curtains_bottom"},	
+	{"predicate": {"custom_model_data": 22513},"model": "_custom/lolmao/curtains_top"},	
 	{"predicate": {"custom_model_data": 22514},"model": "_custom/lolmao/subway_sign"},
 	{"predicate": {"custom_model_data": 22515},"model": "_custom/lolmao/subway_seats"},
 	{"predicate": {"custom_model_data": 22516},"model": "_custom/lolmao/shower_water"},

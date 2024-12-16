@@ -1640,6 +1640,7 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/shower"},
 	{"type": "single","resource": "minecraft:_custom/fallout/shower_water"},
 	{"type": "single","resource": "minecraft:_custom/fallout/subway_seats"},
-		{"type": "single","resource": "minecraft:_custom/fallout/subway_sign"}
+	{"type": "single","resource": "minecraft:_custom/fallout/curtains_top"},
+	{"type": "single","resource": "minecraft:_custom/fallout/curtains_bottom"}
     ]
 }
