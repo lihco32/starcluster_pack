@@ -1653,6 +1653,8 @@
 	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_leafs_gold"},
 	{"type": "single","resource": "minecraft:_custom/rewards/whaxe_main"},
 	{"type": "single","resource": "minecraft:_custom/painting/chornokik"},
-	{"type": "single","resource": "minecraft:_custom/fallout/icicle"}
+	{"type": "single","resource": "minecraft:_custom/fallout/icicle"},
+    {"type": "single","resource": "minecraft:_custom/bts/hammer"},
+    {"type": "single","resource": "minecraft:_custom/bts/sax"}
     ]
 }

@@ -144,5 +144,8 @@
 	},
 	"sc.pochita": {
 		"sounds": ["pochita"]
+	},
+	"sc.sax": {
+		"sounds": ["sax"]
 	}
 }
