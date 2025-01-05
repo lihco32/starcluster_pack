@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/goat_horn"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 675220},"model": "_custom/bts/sax"}
+    ]
+  }
