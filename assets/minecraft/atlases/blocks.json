@@ -1657,6 +1657,7 @@
     {"type": "single","resource": "minecraft:_custom/bts/hammer"},
     {"type": "single","resource": "minecraft:_custom/bts/sax"},
     {"type": "single","resource": "minecraft:_custom/bts/momiji"},
-    {"type": "single","resource": "minecraft:_custom/bts/reimu"}
+    {"type": "single","resource": "minecraft:_custom/bts/reimu"},
+	{"type": "single","resource": "minecraft:_custom/hdlopata"}
     ]
 }
