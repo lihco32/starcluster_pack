@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_nugget"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 212208},"model": "_custom/grndust3"},
 	{"predicate": {"custom_model_data": 212209},"model": "_custom/lolmao/icicle"},
 	{"predicate": {"custom_model_data": 212210},"model": "_custom/lolmao/shower"},
 	{"predicate": {"custom_model_data": 212211},"model": "_custom/lolmao/locker"},

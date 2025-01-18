@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/white_dye"
   },
     "overrides": [
+	{"predicate": {"custom_model_data": 22509},"model": "_custom/lolmao/curtains_simple_mirrored"},
+	{"predicate": {"custom_model_data": 22510},"model": "_custom/lolmao/curtains_simple"},
 	{"predicate": {"custom_model_data": 22511},"model": "_custom/lolmao/curtains_bottom"},	
 	{"predicate": {"custom_model_data": 22512},"model": "_custom/lolmao/curtains_top"},	
     {"predicate": {"custom_model_data": 22513},"model": "_custom/lihco/painting/chornokik"},
