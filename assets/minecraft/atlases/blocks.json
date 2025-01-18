@@ -1655,6 +1655,9 @@
 	{"type": "single","resource": "minecraft:_custom/painting/chornokik"},
 	{"type": "single","resource": "minecraft:_custom/fallout/icicle"},
     {"type": "single","resource": "minecraft:_custom/bts/hammer"},
-    {"type": "single","resource": "minecraft:_custom/bts/sax"}
+    {"type": "single","resource": "minecraft:_custom/bts/sax"},
+    {"type": "single","resource": "minecraft:_custom/bts/momiji"},
+    {"type": "single","resource": "minecraft:_custom/bts/reimu"},
+	{"type": "single","resource": "minecraft:_custom/hdlopata"}
     ]
 }
