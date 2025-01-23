@@ -1661,6 +1661,11 @@
 	{"type": "single","resource": "minecraft:_custom/hdlopata"},
 	{"type": "single","resource": "minecraft:_custom/fallout/curtains_simple"},
 	{"type": "single","resource": "minecraft:_custom/grn3"},
-	{"type": "single","resource": "minecraft:_custom/grndust3"}
+	{"type": "single","resource": "minecraft:_custom/grndust3"},
+	{"type": "single","resource": "minecraft:_custom/tot/takyra"},
+	{"type": "single","resource": "minecraft:_custom/tot/macho"},
+	{"type": "single","resource": "minecraft:_custom/tot/kvitkaa"},
+	{"type": "single","resource": "minecraft:_custom/tot/shitsu0"},
+	{"type": "single","resource": "minecraft:_custom/tot/reushitotem"}
     ]
 }
