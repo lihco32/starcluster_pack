@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "_custom/bts/momiji",
-		"particle": "_custom/bts/momiji"
+		"1": "_custom/bts/momiji"
 	},
 	"elements": [
 		{
