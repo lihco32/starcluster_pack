@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "_custom/bts/reimu",
-		"particle": "_custom/bts/reimu"
+		"1": "_custom/bts/reimu"
 	},
 	"elements": [
 		{
