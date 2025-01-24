@@ -4,6 +4,11 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
+	{ "predicate": { "custom_model_data": 507 }, "model": "_custom/smirnoveta/totems/takyra"},
+	{ "predicate": { "custom_model_data": 508 }, "model": "_custom/smirnoveta/totems/kvitkaa"},
+	{ "predicate": { "custom_model_data": 509 }, "model": "_custom/smirnoveta/totems/shitsu0"},
+	{ "predicate": { "custom_model_data": 510 }, "model": "_custom/smirnoveta/totems/macho"},
+	{ "predicate": { "custom_model_data": 511 }, "model": "_custom/smirnoveta/totems/reushitotem"},
 	{ "predicate": { "custom_model_data": 512 }, "model": "_custom/bts/tots/reimu_fumo"},
 	{ "predicate": { "custom_model_data": 513 }, "model": "_custom/bts/tots/momiji_fumo"},
     { "predicate": { "custom_model_data": 514 }, "model": "_custom/bts/tots/mymelody"},
