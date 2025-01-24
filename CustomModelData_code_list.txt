@@ -172,6 +172,13 @@ ink_sac (мішечок чорнил)
 1005467 - стакан порожній
 
 тотем (totem_of_undying)
+507 - takyra
+508 - kvitkaa
+509 - shitsu0
+510 - macho
+511 - reushi
+512 - plushie(hz)
+513 - reimu plushie
 514 - маймелоді
 515 - куромі
 516 - хелокіті
