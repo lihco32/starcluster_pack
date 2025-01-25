@@ -1,18 +1,83 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/glass_bottle"
-  },
-  "overrides": [
-	{ "predicate": { "custom_model_data": 1005458 }, "model": "_custom/lihco/furniture/empty_jar" },
-	{ "predicate": { "custom_model_data": 1005459 }, "model": "_custom/lihco/furniture/spider_eye_jar" },
-	{ "predicate": { "custom_model_data": 1005460 }, "model": "_custom/lihco/alco/stakan_cidr" },
-	{ "predicate": { "custom_model_data": 1005461 }, "model": "_custom/lihco/alco/stakan_pyvo" },
-	{ "predicate": { "custom_model_data": 1005462 }, "model": "_custom/lihco/alco/stakan_berry" },
-	{ "predicate": { "custom_model_data": 1005463 }, "model": "_custom/lihco/alco/stakan_dark_pyvo" },
-	{ "predicate": { "custom_model_data": 1005464 }, "model": "_custom/lihco/alco/stakan_kvas" },
-	{ "predicate": { "custom_model_data": 1005465 }, "model": "_custom/lihco/alco/stakan_ink" },
-	{ "predicate": { "custom_model_data": 1005466 }, "model": "_custom/lihco/alco/stakan_water" },
-	{ "predicate": { "custom_model_data": 1005467 }, "model": "_custom/lihco/alco/stakan_empty" }
-  ]
-}
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "index": 0,
+	  "fallback": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/glass_bottle"
+	  },
+	  "entries": [
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/empty_jar"
+		  },
+		  "threshold": 1005458
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/spider_eye_jar"
+		  },
+		  "threshold": 1005459
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_cidr"
+		  },
+		  "threshold": 1005460
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_pyvo"
+		  },
+		  "threshold": 1005461
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_berry"
+		  },
+		  "threshold": 1005462
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_dark_pyvo"
+		  },
+		  "threshold": 1005463
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_kvas"
+		  },
+		  "threshold": 1005464
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_ink"
+		  },
+		  "threshold": 1005465
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_water"
+		  },
+		  "threshold": 1005466
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/alco/stakan_empty"
+		  },
+		  "threshold": 1005467
+		}
+	  ]
+	}
+  }

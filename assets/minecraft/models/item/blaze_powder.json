@@ -1,10 +1,27 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/blaze_powder"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data": 235342},"model": "_custom/lihco/furniture/candle_stand_lit"},
-    {"predicate": {"custom_model_data": 235343},"model": "_custom/yayaslavs/kvitka_vinok"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/blaze_powder"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/furniture/candle_stand_lit"
+        },
+        "threshold": 235342
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/yayaslavs/kvitka_vinok"
+        },
+        "threshold": 235343
+      }
+    ]
+  }
 }

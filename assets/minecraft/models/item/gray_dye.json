@@ -1,14 +1,55 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/gray_dye"
-  },
-    "overrides": [
-	{"predicate": {"custom_model_data": 225520},"model": "_custom/lolmao/backrooms_statue"},
-	{"predicate": {"custom_model_data": 225521},"model": "_custom/lolmao/liminal_mask"},
-	{"predicate": {"custom_model_data": 225522},"model": "_custom/yayaslavs/furniture/alien_statue"},
-	{"predicate": {"custom_model_data": 225523},"model": "_custom/lihco/coldest/coldest_statue"},
-	{"predicate": {"custom_model_data": 225524},"model": "_custom/yayaslavs/fox"},
-	{"predicate": {"custom_model_data": 225525},"model": "_custom/lihco/furniture/ghost_statue"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/gray_dye"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/backrooms_statue"
+        },
+        "threshold": 225520
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/liminal_mask"
+        },
+        "threshold": 225521
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/yayaslavs/furniture/alien_statue"
+        },
+        "threshold": 225522
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/coldest/coldest_statue"
+        },
+        "threshold": 225523
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/yayaslavs/fox"
+        },
+        "threshold": 225524
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/furniture/ghost_statue"
+        },
+        "threshold": 225525
+      }
+    ]
+  }
 }

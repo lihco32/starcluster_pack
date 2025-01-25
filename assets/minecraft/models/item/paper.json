@@ -1,10 +1,27 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-  },
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "_custom/kop" },
-	{ "predicate": { "custom_model_data": 2 }, "model": "_custom/grn" }
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kop"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/grn"
+        },
+        "threshold": 2
+      }
     ]
+  }
 }

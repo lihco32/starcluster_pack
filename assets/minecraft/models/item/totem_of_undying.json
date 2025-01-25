@@ -1,35 +1,202 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/totem_of_undying"
-  },
-  "overrides": [
-	{ "predicate": { "custom_model_data": 507 }, "model": "_custom/smirnoveta/totems/takyra"},
-	{ "predicate": { "custom_model_data": 508 }, "model": "_custom/smirnoveta/totems/kvitkaa"},
-	{ "predicate": { "custom_model_data": 509 }, "model": "_custom/smirnoveta/totems/shitsu0"},
-	{ "predicate": { "custom_model_data": 510 }, "model": "_custom/smirnoveta/totems/macho"},
-	{ "predicate": { "custom_model_data": 511 }, "model": "_custom/smirnoveta/totems/reushitotem"},
-	{ "predicate": { "custom_model_data": 512 }, "model": "_custom/bts/tots/reimu_fumo"},
-	{ "predicate": { "custom_model_data": 513 }, "model": "_custom/bts/tots/momiji_fumo"},
-    { "predicate": { "custom_model_data": 514 }, "model": "_custom/bts/tots/mymelody"},
-    { "predicate": { "custom_model_data": 515 }, "model": "_custom/bts/tots/kuromi"},
-    { "predicate": { "custom_model_data": 516 }, "model": "_custom/bts/tots/hellokitty"},
-    { "predicate": { "custom_model_data": 517 }, "model": "_custom/bts/tots/cinnamonroll"},
-    { "predicate": { "custom_model_data": 518 }, "model": "_custom/lolmao/dream_catcher"},
-	{ "predicate": { "custom_model_data": 519 }, "model": "_custom/bts/tots/ayanamitotem"},
-	{ "predicate": { "custom_model_data": 520 }, "model": "_custom/bts/tots/asukatotem"},
-	{ "predicate": { "custom_model_data": 521 }, "model": "_custom/lolmao/babus_totem" },
-	{ "predicate": { "custom_model_data": 522 }, "model": "_custom/lolmao/lolmao_totem" },
-	{ "predicate": { "custom_model_data": 523 }, "model": "_custom/grifon/totem_yalu3an" },
-    	{ "predicate": { "custom_model_data": 524 }, "model": "_custom/grifon/totem_black" },
-	{ "predicate": { "custom_model_data": 525 }, "model": "_custom/grifon/totem_litr" },
-	{ "predicate": { "custom_model_data": 526 }, "model": "_custom/grifon/totem_rtkkv" },
-	{ "predicate": { "custom_model_data": 527 }, "model": "_custom/grifon/totemkropiva1" },
-	{ "predicate": { "custom_model_data": 528 }, "model": "_custom/grifon/bts" },
-	{ "predicate": { "custom_model_data": 529 }, "model": "_custom/grifon/smirnoveta" },
-	{ "predicate": { "custom_model_data": 530 }, "model": "_custom/grifon/yayaslavs" },
-	{ "predicate": { "custom_model_data": 531 }, "model": "_custom/grifon/kavyn" },
-	{ "predicate": { "custom_model_data": 532 }, "model": "_custom/grifon/boginya" },
-	{ "predicate": { "custom_model_data": 533 }, "model": "_custom/lihco/florp" }
-  ]
-}
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "index": 0,
+	  "fallback": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/totem_of_undying"
+	  },
+	  "entries": [
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/takyra"
+		  },
+		  "threshold": 507
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/kvitkaa"
+		  },
+		  "threshold": 508
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/shitsu0"
+		  },
+		  "threshold": 509
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/macho"
+		  },
+		  "threshold": 510
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/reushitotem"
+		  },
+		  "threshold": 511
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/reimu_fumo"
+		  },
+		  "threshold": 512
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/momiji_fumo"
+		  },
+		  "threshold": 513
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/mymelody"
+		  },
+		  "threshold": 514
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/kuromi"
+		  },
+		  "threshold": 515
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/hellokitty"
+		  },
+		  "threshold": 516
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/cinnamonroll"
+		  },
+		  "threshold": 517
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/dream_catcher"
+		  },
+		  "threshold": 518
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/ayanamitotem"
+		  },
+		  "threshold": 519
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/tots/asukatotem"
+		  },
+		  "threshold": 520
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/babus_totem"
+		  },
+		  "threshold": 521
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/lolmao_totem"
+		  },
+		  "threshold": 522
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/totem_yalu3an"
+		  },
+		  "threshold": 523
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/totem_black"
+		  },
+		  "threshold": 524
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/totem_litr"
+		  },
+		  "threshold": 525
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/totem_rtkkv"
+		  },
+		  "threshold": 526
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/totemkropiva1"
+		  },
+		  "threshold": 527
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/bts"
+		  },
+		  "threshold": 528
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/smirnoveta"
+		  },
+		  "threshold": 529
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/yayaslavs"
+		  },
+		  "threshold": 530
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/kavyn"
+		  },
+		  "threshold": 531
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/grifon/boginya"
+		  },
+		  "threshold": 532
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/florp"
+		  },
+		  "threshold": 533
+		}
+	  ]
+	}
+  }

@@ -1,14 +1,55 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/golden_sword"
-    },
-    "overrides": [
-	{"predicate": {"custom_model_data": 694194},"model": "_custom/lihco/coldest/skelesword_better"},
-	{"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
-	{"predicate": {"custom_model_data": 694196},"model": "_custom/lihco/coldest/skelesword"},
-        {"predicate": {"custom_model_data": 694197},"model": "_custom/scp/dualkatana"},
-        {"predicate": {"custom_model_data": 694197, "damaged": 1, "damage": 0.8},"model": "_custom/scp/dualkatanalow"},
-	{ "predicate": {"custom_model_data": 694202 },"model": "_custom/lihco/rapier"}
-    ]
-}
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/golden_sword"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/coldest/skelesword_better"
+          },
+          "threshold": 694194
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/hehesword"
+          },
+          "threshold": 694195
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/coldest/skelesword"
+          },
+          "threshold": 694196
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/scp/dualkatana"
+          },
+          "threshold": 694197
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/scp/dualkatanalow"
+          },
+          "threshold": 694197
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/rapier"
+          },
+          "threshold": 694202
+        }
+      ]
+    }
+  }

@@ -1,11 +1,34 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/iron_sword"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data": 694194},"model": "_custom/lolmao/bagnette"},	
-    {"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
-    { "predicate": { "custom_model_data": 694202 }, "model": "_custom/lihco/rapier" }
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_sword"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/bagnette"
+        },
+        "threshold": 694194
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/hehesword"
+        },
+        "threshold": 694195
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/rapier"
+        },
+        "threshold": 694202
+      }
+    ]
+  }
 }

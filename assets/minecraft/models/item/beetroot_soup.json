@@ -1,9 +1,20 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/beetroot_soup"
-  },
-    "overrides": [
-        	{"predicate": {"custom_model_data": 46345906},"model": "_custom/lihco/food/borshch"}
-	]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/beetroot_soup"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/food/borshch"
+        },
+        "threshold": 46345906
+      }
+    ]
+  }
 }

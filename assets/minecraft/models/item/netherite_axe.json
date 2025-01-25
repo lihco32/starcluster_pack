@@ -1,14 +1,55 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/netherite_axe"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 694189},"model": "_custom/lihco/whaxe/whaxe_orange"},
-	{"predicate": {"custom_model_data": 694190},"model": "_custom/lihco/whaxe/whaxe_dark_blue"},
-	{"predicate": {"custom_model_data": 694191},"model": "_custom/lihco/whaxe/whaxe_gold"},
-	{"predicate": {"custom_model_data": 694192},"model": "_custom/lihco/whaxe/whaxe_purple"},
-	{"predicate": {"custom_model_data": 694193},"model": "_custom/lihco/whaxe/whaxe_blue"},
-	{"predicate": {"custom_model_data": 694194},"model": "_custom/lihco/coldest/skelesword_better"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_axe"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/whaxe/whaxe_orange"
+        },
+        "threshold": 694189
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/whaxe/whaxe_dark_blue"
+        },
+        "threshold": 694190
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/whaxe/whaxe_gold"
+        },
+        "threshold": 694191
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/whaxe/whaxe_purple"
+        },
+        "threshold": 694192
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/whaxe/whaxe_blue"
+        },
+        "threshold": 694193
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/coldest/skelesword_better"
+        },
+        "threshold": 694194
+      }
+    ]
+  }
 }

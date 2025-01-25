@@ -1,72 +1,461 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/white_dye"
-  },
-    "overrides": [
-	{"predicate": {"custom_model_data": 22509},"model": "_custom/lolmao/curtains_simple_mirrored"},
-	{"predicate": {"custom_model_data": 22510},"model": "_custom/lolmao/curtains_simple"},
-	{"predicate": {"custom_model_data": 22511},"model": "_custom/lolmao/curtains_bottom"},	
-	{"predicate": {"custom_model_data": 22512},"model": "_custom/lolmao/curtains_top"},	
-    {"predicate": {"custom_model_data": 22513},"model": "_custom/lihco/painting/chornokik"},
-	{"predicate": {"custom_model_data": 22514},"model": "_custom/lolmao/subway_sign"},
-	{"predicate": {"custom_model_data": 22515},"model": "_custom/lolmao/subway_seats"},
-	{"predicate": {"custom_model_data": 22516},"model": "_custom/lolmao/shower_water"},
-	{"predicate": {"custom_model_data": 22517},"model": "_custom/vanyaka/scp"},
-	{"predicate": {"custom_model_data": 22518},"model": "_custom/bts/cigpack"},
-	{"predicate": {"custom_model_data": 22519},"model": "_custom/bts/arch"},
-	{"predicate": {"custom_model_data": 22520},"model": "_custom/lolmao/backrooms_diorama"},
-	{"predicate": {"custom_model_data": 22521},"model": "_custom/lihco/furniture/candle_stand"},
-	{"predicate": {"custom_model_data": 22522},"model": "_custom/lolmao/ghost_figure"},
-	{"predicate": {"custom_model_data": 22523},"model": "_custom/lolmao/ivdrip"},
-	{"predicate": {"custom_model_data": 22524},"model": "_custom/lolmao/firstaid"},
-	{"predicate": {"custom_model_data": 22525},"model": "_custom/lolmao/globus2"},
-	{"predicate": {"custom_model_data": 22526},"model": "_custom/lolmao/globus1"},
-	{"predicate": {"custom_model_data": 22527},"model": "_custom/lolmao/rynok2"},
-	{"predicate": {"custom_model_data": 22528},"model": "_custom/lolmao/rynok1"},
-	{"predicate": {"custom_model_data": 22529},"model": "_custom/lolmao/scoop_holder"},
-	{"predicate": {"custom_model_data": 22530},"model": "_custom/lolmao/lights_ceil1"},
-	{"predicate": {"custom_model_data": 22531},"model": "_custom/lolmao/lights_ceil"},
-	{"predicate": {"custom_model_data": 22532},"model": "_custom/lolmao/lights1"},
-	{"predicate": {"custom_model_data": 22533},"model": "_custom/lolmao/lights"},
-	{"predicate": {"custom_model_data": 22534},"model": "_custom/lolmao/grandfathers_clock"},
-	{"predicate": {"custom_model_data": 22535},"model": "_custom/lolmao/food_tray_empty"},
-	{"predicate": {"custom_model_data": 22536},"model": "_custom/lolmao/food_tray"},
-	{"predicate": {"custom_model_data": 22537},"model": "_custom/lihco/furniture/pochita_sombrero"},
-	{"predicate": {"custom_model_data": 22538},"model": "_custom/lihco/furniture/crystal_ball"},
-	{"predicate": {"custom_model_data": 22539},"model": "_custom/bts/hats/rtkkv_funky"},
-	{"predicate": {"custom_model_data": 22540},"model": "_custom/bts/hats/lihco_funky"},
-	{"predicate": {"custom_model_data": 22541},"model": "_custom/bts/pochita"},
-	{"predicate": {"custom_model_data": 22542},"model": "_custom/lolmao/vaultboy"},
-	{"predicate": {"custom_model_data": 22543},"model": "_custom/lihco/furniture/saul_bench"},
-	{"predicate": {"custom_model_data": 22544},"model": "_custom/lolmao/securitron"},
-	{"predicate": {"custom_model_data": 22545},"model": "_custom/lolmao/mr_handy"},
-	{"predicate": {"custom_model_data": 22546},"model": "_custom/lolmao/fallout_pc"},
-	{"predicate": {"custom_model_data": 22547},"model": "_custom/lihco/food/plate"},
-	{"predicate": {"custom_model_data": 22548},"model": "_custom/smirnoveta/furniture/yoda"},
-	{"predicate": {"custom_model_data": 22549},"model": "_custom/smirnoveta/furniture/coffeemachine"},
-	{"predicate": {"custom_model_data": 22550},"model": "_custom/lihco/furniture/laptop_lvi"},
-	{"predicate": {"custom_model_data": 22551},"model": "_custom/lihco/furniture/laptop"},
-	{"predicate": {"custom_model_data": 22552},"model": "_custom/lihco/painting/street"},
-	{"predicate": {"custom_model_data": 22553},"model": "_custom/lihco/painting/kitya"},
-	{"predicate": {"custom_model_data": 22554},"model": "_custom/lihco/painting/kitya2"},
-	{"predicate": {"custom_model_data": 22555},"model": "_custom/lihco/painting/hvostyk"},
-	{"predicate": {"custom_model_data": 22556},"model": "_custom/lihco/painting/brus"},
-	{"predicate": {"custom_model_data": 22557},"model": "_custom/lihco/painting/borys"},
-	{"predicate": {"custom_model_data": 22558},"model": "_custom/lihco/painting/polar_bear"},
-	{"predicate": {"custom_model_data": 22559},"model": "_custom/lihco/painting/sky"},
-	{"predicate": {"custom_model_data": 22560},"model": "_custom/lihco/painting/mountain"},
-	{"predicate": {"custom_model_data": 22561},"model": "_custom/lihco/painting/bonya"},
-	{"predicate": {"custom_model_data": 22562},"model": "_custom/lihco/painting/forest"},
-	{"predicate": {"custom_model_data": 2540342},"model": "_custom/yayaslavs/present_blue"},
-	{"predicate": {"custom_model_data": 2540343},"model": "_custom/yayaslavs/present_yellow"},
-	{"predicate": {"custom_model_data": 2540344},"model": "_custom/yayaslavs/present_red"},
-	{"predicate": {"custom_model_data": 2540345},"model": "_custom/yayaslavs/vinok"},
-	{"predicate": {"custom_model_data": 2540346},"model": "_custom/yayaslavs/bear"},
-	{"predicate": {"custom_model_data": 2540347},"model": "_custom/yayaslavs/car"},
-	{"predicate": {"custom_model_data": 2540348},"model": "_custom/yayaslavs/snowflake"},
-        {"predicate": {"custom_model_data": 22540349},"model": "_custom/lihco/furniture/snowglobe"},
-	{"predicate": {"custom_model_data": 22540350},"model": "_custom/lihco/furniture/snowman"},
-	{"predicate": {"custom_model_data": 22540351},"model": "_custom/lihco/furniture/pumpkin"}
-  ]
-}
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "index": 0,
+	  "fallback": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/white_dye"
+	  },
+	  "entries": [
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/curtains_simple_mirrored"
+		  },
+		  "threshold": 22509
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/curtains_simple"
+		  },
+		  "threshold": 22510
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/curtains_bottom"
+		  },
+		  "threshold": 22511
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/curtains_top"
+		  },
+		  "threshold": 22512
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/chornokik"
+		  },
+		  "threshold": 22513
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/subway_sign"
+		  },
+		  "threshold": 22514
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/subway_seats"
+		  },
+		  "threshold": 22515
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/shower_water"
+		  },
+		  "threshold": 22516
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/vanyaka/scp"
+		  },
+		  "threshold": 22517
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/cigpack"
+		  },
+		  "threshold": 22518
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/arch"
+		  },
+		  "threshold": 22519
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/backrooms_diorama"
+		  },
+		  "threshold": 22520
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/candle_stand"
+		  },
+		  "threshold": 22521
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/ghost_figure"
+		  },
+		  "threshold": 22522
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/ivdrip"
+		  },
+		  "threshold": 22523
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/firstaid"
+		  },
+		  "threshold": 22524
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/globus2"
+		  },
+		  "threshold": 22525
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/globus1"
+		  },
+		  "threshold": 22526
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/rynok2"
+		  },
+		  "threshold": 22527
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/rynok1"
+		  },
+		  "threshold": 22528
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/scoop_holder"
+		  },
+		  "threshold": 22529
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/lights_ceil1"
+		  },
+		  "threshold": 22530
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/lights_ceil"
+		  },
+		  "threshold": 22531
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/lights1"
+		  },
+		  "threshold": 22532
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/lights"
+		  },
+		  "threshold": 22533
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/grandfathers_clock"
+		  },
+		  "threshold": 22534
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/food_tray_empty"
+		  },
+		  "threshold": 22535
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/food_tray"
+		  },
+		  "threshold": 22536
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/pochita_sombrero"
+		  },
+		  "threshold": 22537
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/crystal_ball"
+		  },
+		  "threshold": 22538
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/hats/rtkkv_funky"
+		  },
+		  "threshold": 22539
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/hats/lihco_funky"
+		  },
+		  "threshold": 22540
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/pochita"
+		  },
+		  "threshold": 22541
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/vaultboy"
+		  },
+		  "threshold": 22542
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/saul_bench"
+		  },
+		  "threshold": 22543
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/securitron"
+		  },
+		  "threshold": 22544
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/mr_handy"
+		  },
+		  "threshold": 22545
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/fallout_pc"
+		  },
+		  "threshold": 22546
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/food/plate"
+		  },
+		  "threshold": 22547
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/furniture/yoda"
+		  },
+		  "threshold": 22548
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/furniture/coffeemachine"
+		  },
+		  "threshold": 22549
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/laptop_lvi"
+		  },
+		  "threshold": 22550
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/laptop"
+		  },
+		  "threshold": 22551
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/street"
+		  },
+		  "threshold": 22552
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/kitya"
+		  },
+		  "threshold": 22553
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/kitya2"
+		  },
+		  "threshold": 22554
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/hvostyk"
+		  },
+		  "threshold": 22555
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/brus"
+		  },
+		  "threshold": 22556
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/borys"
+		  },
+		  "threshold": 22557
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/polar_bear"
+		  },
+		  "threshold": 22558
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/sky"
+		  },
+		  "threshold": 22559
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/mountain"
+		  },
+		  "threshold": 22560
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/bonya"
+		  },
+		  "threshold": 22561
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/painting/forest"
+		  },
+		  "threshold": 22562
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/present_blue"
+		  },
+		  "threshold": 2540342
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/present_yellow"
+		  },
+		  "threshold": 2540343
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/present_red"
+		  },
+		  "threshold": 2540344
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/vinok"
+		  },
+		  "threshold": 2540345
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/bear"
+		  },
+		  "threshold": 2540346
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/car"
+		  },
+		  "threshold": 2540347
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/yayaslavs/snowflake"
+		  },
+		  "threshold": 2540348
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/snowglobe"
+		  },
+		  "threshold": 22540349
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/snowman"
+		  },
+		  "threshold": 22540350
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/furniture/pumpkin"
+		  },
+		  "threshold": 22540351
+		}
+	  ]
+	}
+  }

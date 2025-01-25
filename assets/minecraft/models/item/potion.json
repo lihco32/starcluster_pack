@@ -1,19 +1,83 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/potion_overlay",
-        "layer1": "item/potion"
-    },
-    "overrides": [
-	{ "predicate": { "custom_model_data": 1005451 }, "model": "_custom/lolmao/metal_mug" },
-	{ "predicate": { "custom_model_data": 1005452 }, "model": "_custom/smirnoveta/food/tomatojuice" },
-	{ "predicate": { "custom_model_data": 1005453 }, "model": "_custom/lihco/food/plum_jam" },
-        { "predicate": { "custom_model_data": 1005454 }, "model": "_custom/lihco/alco/cidr" },
-        { "predicate": { "custom_model_data": 1005455 }, "model": "_custom/lihco/alco/pyvo" },
-        { "predicate": { "custom_model_data": 1005456 }, "model": "_custom/lihco/alco/berry_drink" },
-	{ "predicate": { "custom_model_data": 1005457 }, "model": "_custom/lihco/alco/dark_pyvo" },
-        { "predicate": { "custom_model_data": 1005458 }, "model": "_custom/lihco/alco/ink_alco" },
-        { "predicate": { "custom_model_data": 1005459 }, "model": "_custom/lihco/alco/kvas" },
-	{ "predicate": { "custom_model_data": 1005460 }, "model": "_custom/smirnoveta/food/coffee" }
-    ]
-}
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/potion"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lolmao/metal_mug"
+          },
+          "threshold": 1005451
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/smirnoveta/food/tomatojuice"
+          },
+          "threshold": 1005452
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/food/plum_jam"
+          },
+          "threshold": 1005453
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/cidr"
+          },
+          "threshold": 1005454
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/pyvo"
+          },
+          "threshold": 1005455
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/berry_drink"
+          },
+          "threshold": 1005456
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/dark_pyvo"
+          },
+          "threshold": 1005457
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/ink_alco"
+          },
+          "threshold": 1005458
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/lihco/alco/kvas"
+          },
+          "threshold": 1005459
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:_custom/smirnoveta/food/coffee"
+          },
+          "threshold": 1005460
+        }
+      ]
+    }
+  }

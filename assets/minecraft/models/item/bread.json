@@ -1,16 +1,69 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/bread"
-  },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/kvas_catalyst"},
-	{"predicate": {"custom_model_data": 352463},"model": "_custom/smirnoveta/food/baguette"},
-	{"predicate": {"custom_model_data": 352464},"model": "_custom/smirnoveta/food/croissant5"},
-	{"predicate": {"custom_model_data": 352465},"model": "_custom/smirnoveta/food/croissant4"},
-	{"predicate": {"custom_model_data": 352466},"model": "_custom/smirnoveta/food/croissant3"},
-	{"predicate": {"custom_model_data": 352467},"model": "_custom/smirnoveta/food/croissant2"},
-	{"predicate": {"custom_model_data": 352468},"model": "_custom/smirnoveta/food/croissant1"},
-	{"predicate": {"custom_model_data": 352469},"model": "_custom/smirnoveta/food/croissant"}
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bread"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/kvas_catalyst"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/baguette"
+        },
+        "threshold": 352463
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant5"
+        },
+        "threshold": 352464
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant4"
+        },
+        "threshold": 352465
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant3"
+        },
+        "threshold": 352466
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant2"
+        },
+        "threshold": 352467
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant1"
+        },
+        "threshold": 352468
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/croissant"
+        },
+        "threshold": 352469
+      }
     ]
+  }
 }
