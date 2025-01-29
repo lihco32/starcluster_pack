@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
+	{"predicate": {"custom_model_data": 694185},"model": "_custom/lolmao/maya_sword"},
 	{"predicate": {"custom_model_data": 694186},"model": "_custom/bts/hammer"},
    {"predicate": {"custom_model_data": 694187},"model": "_custom/lolmao/fire_fist"},
 	{"predicate": {"custom_model_data": 694188},"model": "_custom/lihco/blue_metal_sword"},
