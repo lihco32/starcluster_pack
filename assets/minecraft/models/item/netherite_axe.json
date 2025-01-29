@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_axe"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 694188},"model": "_custom/lolmao/maya_axe"},
 	{"predicate": {"custom_model_data": 694189},"model": "_custom/lihco/whaxe/whaxe_orange"},
 	{"predicate": {"custom_model_data": 694190},"model": "_custom/lihco/whaxe/whaxe_dark_blue"},
 	{"predicate": {"custom_model_data": 694191},"model": "_custom/lihco/whaxe/whaxe_gold"},
