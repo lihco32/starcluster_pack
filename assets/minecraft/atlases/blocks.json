@@ -1666,6 +1666,11 @@
 	{"type": "single","resource": "minecraft:_custom/tot/macho"},
 	{"type": "single","resource": "minecraft:_custom/tot/kvitkaa"},
 	{"type": "single","resource": "minecraft:_custom/tot/shitsu0"},
-	{"type": "single","resource": "minecraft:_custom/tot/reushitotem"}
+	{"type": "single","resource": "minecraft:_custom/tot/reushitotem"},
+    {"type": "single","resource": "minecraft:_custom/fallout/maya_sword"},
+    {"type": "single","resource": "minecraft:_custom/fallout/maya_shovel"},
+    {"type": "single","resource": "minecraft:_custom/fallout/maya_axe"},
+    {"type": "single","resource": "minecraft:_custom/fallout/maya_pickaxe"},
+    {"type": "single","resource": "minecraft:_custom/fallout/maya_hoe"}
     ]
 }
