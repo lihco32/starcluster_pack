@@ -1672,6 +1672,7 @@
     {"type": "single","resource": "minecraft:_custom/fallout/maya_axe"},
     {"type": "single","resource": "minecraft:_custom/fallout/maya_pickaxe"},
     {"type": "single","resource": "minecraft:_custom/fallout/maya_hoe"},
-	{"type": "single","resource": "minecraft:_custom/fallout/maya_rapier"}
+	{"type": "single","resource": "minecraft:_custom/fallout/maya_rapier"},
+	{"type": "single","resource": "minecraft:_custom/tot/shkarpy"}
     ]
 }
