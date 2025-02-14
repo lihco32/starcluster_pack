@@ -5,6 +5,7 @@
   },
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/kvas_catalyst"},
+	{"predicate": {"custom_model_data": 352462},"model": "_custom/lolmao/golden_bread"},
 	{"predicate": {"custom_model_data": 352463},"model": "_custom/smirnoveta/food/baguette"},
 	{"predicate": {"custom_model_data": 352464},"model": "_custom/smirnoveta/food/croissant5"},
 	{"predicate": {"custom_model_data": 352465},"model": "_custom/smirnoveta/food/croissant4"},
