@@ -1675,6 +1675,7 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/maya_rapier"},
 	{"type": "single","resource": "minecraft:_custom/tot/shkarpy"},
     {"type": "single","resource": "minecraft:_custom/fallout/quest_board"},
-	{"type": "single","resource": "minecraft:_custom/fallout/golden_bread"}
+	{"type": "single","resource": "minecraft:_custom/fallout/golden_bread"},
+    {"type": "single","resource": "minecraft:_custom/tot/ruber_totem"}
     ]
 }

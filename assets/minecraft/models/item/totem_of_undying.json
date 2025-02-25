@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
+	{ "predicate": { "custom_model_data": 505 }, "model": "_custom/lolmao/ruber_totem"},
   	{ "predicate": { "custom_model_data": 506 }, "model": "_custom/smirnoveta/totems/shkarpy"},
 	{ "predicate": { "custom_model_data": 507 }, "model": "_custom/smirnoveta/totems/takyra"},
 	{ "predicate": { "custom_model_data": 508 }, "model": "_custom/smirnoveta/totems/kvitkaa"},
@@ -22,7 +23,7 @@
 	{ "predicate": { "custom_model_data": 521 }, "model": "_custom/lolmao/babus_totem" },
 	{ "predicate": { "custom_model_data": 522 }, "model": "_custom/lolmao/lolmao_totem" },
 	{ "predicate": { "custom_model_data": 523 }, "model": "_custom/grifon/totem_yalu3an" },
-    	{ "predicate": { "custom_model_data": 524 }, "model": "_custom/grifon/totem_black" },
+    { "predicate": { "custom_model_data": 524 }, "model": "_custom/grifon/totem_black" },
 	{ "predicate": { "custom_model_data": 525 }, "model": "_custom/grifon/totem_litr" },
 	{ "predicate": { "custom_model_data": 526 }, "model": "_custom/grifon/totem_rtkkv" },
 	{ "predicate": { "custom_model_data": 527 }, "model": "_custom/grifon/totemkropiva1" },
