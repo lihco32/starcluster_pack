@@ -4,7 +4,8 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
-	{ "predicate": { "custom_model_data": 505 }, "model": "_custom/lolmao/ruber_totem"},
+	{ "predicate": { "custom_model_data": 504 }, "model": "_custom/lolmao/ruber_totem"},
+	{ "predicate": { "custom_model_data": 505 }, "model": "_custom/reushi/totems/mob"},
   	{ "predicate": { "custom_model_data": 506 }, "model": "_custom/smirnoveta/totems/shkarpy"},
 	{ "predicate": { "custom_model_data": 507 }, "model": "_custom/smirnoveta/totems/takyra"},
 	{ "predicate": { "custom_model_data": 508 }, "model": "_custom/smirnoveta/totems/kvitkaa"},
