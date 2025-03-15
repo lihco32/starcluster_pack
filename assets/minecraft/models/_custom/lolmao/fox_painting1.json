@@ -1,0 +1,73 @@
+{
+	"credit": "Made by lolmaojustmeme",
+	"textures": {
+		"0": "_custom/fallout/fox_painting1"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 15],
+			"to": [24, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.49005, 7.98775], "texture": "#0"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [8, 0, 0, 0.4977], "texture": "#0"},
+				"down": {"uv": [8, 7.4977, 0, 7.99541], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8, 0, 15],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 15]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [15.5023, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [8, 0, 16, 0.48545], "texture": "#0"},
+				"down": {"uv": [8, 7.4977, 16, 7.99541], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, 2.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, 2.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 152, 0],
+			"translation": [-0.25, 1.75, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 152, 0],
+			"translation": [-0.25, 1.75, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.36, 0.36, 0.36]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"head": {
+			"translation": [0, 0, -15.5]
+		},
+		"fixed": {
+			"translation": [-16, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

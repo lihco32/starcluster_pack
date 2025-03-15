@@ -1,0 +1,74 @@
+{
+	"credit": "Made by lolmaojustmeme",
+	"textures": {
+		"1": "_custom/fallout/fox_painting2"
+	},
+	"elements": [
+		{
+			"from": [0, 16, 15],
+			"to": [16, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.49005, 7.98775], "texture": "#1"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#1"},
+				"west": {"uv": [7.51628, 0, 7.99535, 8], "texture": "#1"},
+				"up": {"uv": [8, 0, 0, 0.46049], "texture": "#1"},
+				"down": {"uv": [8, 7.4977, 0, 7.99541], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 15],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 15]},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 7.92558, 0.47907, 15.92558], "texture": "#1"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#1"},
+				"west": {"uv": [7.53951, 8, 8, 16], "texture": "#1"},
+				"up": {"uv": [8, 0, 16, 0.48545], "texture": "#1"},
+				"down": {"uv": [0, 15.53951, 8, 16], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, 2.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.25, 2.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 152, 0],
+			"translation": [-0.25, 1.75, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 152, 0],
+			"translation": [-0.25, 1.75, 0.5],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.36, 0.36, 0.36]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -3.75, 0],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"head": {
+			"translation": [0, -8.5, -15.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
