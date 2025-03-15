@@ -1677,6 +1677,8 @@
 	{"type": "single","resource": "minecraft:_custom/tot/mob"},
     {"type": "single","resource": "minecraft:_custom/fallout/quest_board"},
 	{"type": "single","resource": "minecraft:_custom/fallout/golden_bread"},
-    {"type": "single","resource": "minecraft:_custom/tot/ruber_totem"}
+    {"type": "single","resource": "minecraft:_custom/tot/ruber_totem"},
+	{"type": "single","resource": "minecraft:_custom/fallout/fox_painting1"},
+	{"type": "single","resource": "minecraft:_custom/fallout/fox_painting2"}
     ]
 }
