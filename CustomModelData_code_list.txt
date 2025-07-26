@@ -349,3 +349,6 @@ netherite_armor (незеритові обладунки)
 лопата - 699191
 мотика - 1414143
 кайло - 994199
+
+fishing_rod
+1005458 - Sharpy tournament reward
