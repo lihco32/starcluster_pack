@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "_custom/rewards/shkarpy_fishing_rod_cast"
+    }
+}
