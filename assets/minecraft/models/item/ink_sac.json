@@ -1,12 +1,41 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/ink_sac"
-  },
-    "overrides": [
-		{"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/ink_catalyst"},
-        {"predicate": {"custom_model_data": 19},"model": "_custom/scp/plague_doctor"},
-	    {"predicate": {"custom_model_data": 20},"model": "_custom/lihco/lazer_base"},
-	    {"predicate": {"custom_model_data": 21},"model": "_custom/lihco/lazer_head"}
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/ink_sac"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/ink_catalyst"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/scp/plague_doctor"
+        },
+        "threshold": 19
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/lazer_base"
+        },
+        "threshold": 20
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/lazer_head"
+        },
+        "threshold": 21
+      }
     ]
+  }
 }

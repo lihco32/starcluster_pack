@@ -1,9 +1,20 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/wooden_sword"
-  },
-  "overrides": [
-	{"predicate": {"custom_model_data": 694194},"model": "_custom/lolmao/palka"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_sword"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/palka"
+        },
+        "threshold": 694194
+      }
+    ]
+  }
 }

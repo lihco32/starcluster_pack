@@ -1,13 +1,48 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/iron_nugget"
-  },
-    "overrides": [
-	{"predicate": {"custom_model_data": 212208},"model": "_custom/grndust3"},
-	{"predicate": {"custom_model_data": 212209},"model": "_custom/lolmao/icicle"},
-	{"predicate": {"custom_model_data": 212210},"model": "_custom/lolmao/shower"},
-	{"predicate": {"custom_model_data": 212211},"model": "_custom/lolmao/locker"},
-	{"predicate": {"custom_model_data": 212212},"model": "_custom/kop2"}
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_nugget"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/grndust3"
+        },
+        "threshold": 212208
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/icicle"
+        },
+        "threshold": 212209
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/shower"
+        },
+        "threshold": 212210
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/locker"
+        },
+        "threshold": 212211
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kop2"
+        },
+        "threshold": 212212
+      }
     ]
+  }
 }

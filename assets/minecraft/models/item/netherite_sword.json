@@ -1,33 +1,188 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/netherite_sword"
-  },
-  "overrides": [
-  	{"predicate": {"custom_model_data": 694184},"model": "_custom/lolmao/maya_rapier"},
-	{"predicate": {"custom_model_data": 694185},"model": "_custom/lolmao/maya_sword"},
-	{"predicate": {"custom_model_data": 694186},"model": "_custom/bts/hammer"},
-   {"predicate": {"custom_model_data": 694187},"model": "_custom/lolmao/fire_fist"},
-	{"predicate": {"custom_model_data": 694188},"model": "_custom/lihco/blue_metal_sword"},
-	{"predicate": {"custom_model_data": 694189},"model": "_custom/bts/chainsword"},
-	{"predicate": {"custom_model_data": 694190},"model": "_custom/bts/calli_kosa"},
-	{"predicate": {"custom_model_data": 694191},"model": "_custom/lihco/coldest/healing_staff"},
-	{"predicate": {"custom_model_data": 694192},"model": "_custom/lihco/coldest/halberd"},
-	{"predicate": {"custom_model_data": 694193},"model": "_custom/lihco/feather_sword"},
-	{"predicate": {"custom_model_data": 694194},"model": "_custom/lihco/coldest/skelesword_better"},
-	{"predicate": {"custom_model_data": 694195},"model": "_custom/lihco/hehesword"},
-	{"predicate": {"custom_model_data": 694196},"model": "_custom/lihco/coldest/skelesword"},
-	{"predicate": {"custom_model_data": 694197},"model": "_custom/scp/dualkatana"},
-	{ "predicate": { "custom_model_data": 694198 }, "model": "_custom/lihco/coldest/coldest_sword_anim" },
-	{ "predicate": { "custom_model_data": 694199 }, "model": "_custom/lihco/coldest/coldest_sword" },
-	{ "predicate": { "custom_model_data": 694201 }, "model": "_custom/zero/tsurugi" },
-	{ "predicate": { "custom_model_data": 694202 }, "model": "_custom/lihco/rapier" },
-	{ "predicate": { "custom_model_data": 694204 }, "model": "_custom/lihco/sanemi_sword" },
-	{ "predicate": { "custom_model_data": 694205 }, "model": "_custom/lihco/yaoi_sword" },
-	{ "predicate": { "custom_model_data": 694206 }, "model": "_custom/lihco/lihco_sword" },
-	{ "predicate": { "custom_model_data": 694207 }, "model": "_custom/lihco/blue_sword" },
-	{ "predicate": { "custom_model_data": 1000113 }, "model": "_custom/black/ecx" },
-	{ "predicate": { "custom_model_data": 1010001 }, "model": "_custom/zero/imperious" },
-	{ "predicate": { "custom_model_data": 1010002 }, "model": "_custom/vanyaka/zabuza_sword" }
-  ]
-}
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "index": 0,
+	  "fallback": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/netherite_sword"
+	  },
+	  "entries": [
+    {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/maya_rapier"
+		  },
+		  "threshold": 694184
+		},
+      {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/maya_sword"
+		  },
+		  "threshold": 694185
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/hammer"
+		  },
+		  "threshold": 694186
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/fire_fist"
+		  },
+		  "threshold": 694187
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/blue_metal_sword"
+		  },
+		  "threshold": 694188
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/chainsword"
+		  },
+		  "threshold": 694189
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/bts/calli_kosa"
+		  },
+		  "threshold": 694190
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/healing_staff"
+		  },
+		  "threshold": 694191
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/halberd"
+		  },
+		  "threshold": 694192
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/feather_sword"
+		  },
+		  "threshold": 694193
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/skelesword_better"
+		  },
+		  "threshold": 694194
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/hehesword"
+		  },
+		  "threshold": 694195
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/skelesword"
+		  },
+		  "threshold": 694196
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/scp/dualkatana"
+		  },
+		  "threshold": 694197
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/coldest_sword_anim"
+		  },
+		  "threshold": 694198
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/coldest/coldest_sword"
+		  },
+		  "threshold": 694199
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/zero/tsurugi"
+		  },
+		  "threshold": 694201
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/rapier"
+		  },
+		  "threshold": 694202
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/sanemi_sword"
+		  },
+		  "threshold": 694204
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/yaoi_sword"
+		  },
+		  "threshold": 694205
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/lihco_sword"
+		  },
+		  "threshold": 694206
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lihco/blue_sword"
+		  },
+		  "threshold": 694207
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/black/ecx"
+		  },
+		  "threshold": 1000113
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/zero/imperious"
+		  },
+		  "threshold": 1010001
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/vanyaka/zabuza_sword"
+		  },
+		  "threshold": 1010002
+		}
+	  ]
+	}
+  }

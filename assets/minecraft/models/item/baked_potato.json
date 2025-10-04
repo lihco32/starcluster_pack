@@ -1,11 +1,34 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/baked_potato"
-  },
-    "overrides": [
-		{"predicate": {"custom_model_data": 4425692},"model": "_custom/smirnoveta/food/paska"},
-		{"predicate": {"custom_model_data": 4425693},"model": "_custom/smirnoveta/food/popcorn"},
-        	{"predicate": {"custom_model_data": 4425694},"model": "_custom/lihco/food/varenyky"}
-	]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/baked_potato"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/paska"
+        },
+        "threshold": 4425692
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/popcorn"
+        },
+        "threshold": 4425693
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/food/varenyky"
+        },
+        "threshold": 4425694
+      }
+    ]
+  }
 }

@@ -1,12 +1,41 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/cooked_beef"
-  },
-    "overrides": [
-		{"predicate": {"custom_model_data": 352351},"model": "_custom/smirnoveta/food/kanapka"},
-		{"predicate": {"custom_model_data": 352352},"model": "_custom/smirnoveta/food/barbecue"},
-		{"predicate": {"custom_model_data": 352353},"model": "_custom/yayaslavs/sushi"},
-        	{"predicate": {"custom_model_data": 352354},"model": "_custom/lihco/food/pizza"}
-	]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cooked_beef"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/kanapka"
+        },
+        "threshold": 352351
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/barbecue"
+        },
+        "threshold": 352352
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/yayaslavs/sushi"
+        },
+        "threshold": 352353
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/food/pizza"
+        },
+        "threshold": 352354
+      }
+    ]
+  }
 }

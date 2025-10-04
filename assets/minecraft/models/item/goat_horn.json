@@ -1,9 +1,20 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/goat_horn"
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/goat_horn"
     },
-    "overrides": [
-      {"predicate": {"custom_model_data": 675220},"model": "_custom/bts/sax"}
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/bts/sax"
+        },
+        "threshold": 675220
+      }
     ]
   }
+}

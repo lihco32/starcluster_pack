@@ -1,11 +1,34 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/netherite_shovel"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data": 699191},"model": "_custom/lolmao/maya_shovel"},
-        {"predicate": {"custom_model_data": 699192},"model": "_custom/takyra/hdlopata"},
-	{"predicate": {"custom_model_data": 699193},"model": "_custom/lihco/spleef_shovel"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_showel"
+    },
+    "entries": [
+       {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/maya_shovel"
+        },
+        "threshold": 699191
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/takyra/hdlopata"
+        },
+        "threshold": 699192
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/spleef_shovel"
+        },
+        "threshold": 699193
+      }
+    ]
+  }
 }

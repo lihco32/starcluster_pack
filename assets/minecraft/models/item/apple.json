@@ -1,9 +1,20 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/apple"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/cidr_catalyst"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/apple"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/cidr_catalyst"
+        },
+        "threshold": 1
+      }
+    ]
+  }
 }

@@ -1,11 +1,34 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/netherite_hoe"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data": 1414143},"model": "_custom/lolmao/maya_hoe"},
-    {"predicate": {"custom_model_data": 1414144},"model": "_custom/kovbasa/verbova_gilka"},
-    {"predicate": {"custom_model_data": 1414145},"model": "_custom/lihco/scythe"}
-  ]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_hoe"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/maya_hoe"
+        },
+        "threshold": 1414143
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kovbasa/verbova_gilka"
+        },
+        "threshold": 1414144
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/scythe"
+        },
+        "threshold": 1414145
+      }
+    ]
+  }
 }

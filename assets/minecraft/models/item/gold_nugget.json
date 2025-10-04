@@ -1,10 +1,27 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/gold_nugget"
-  },
-    "overrides": [
-	{"predicate": {"custom_model_data": 212211},"model": "_custom/grn3"},
-	{"predicate": {"custom_model_data": 212212},"model": "_custom/grn2"}
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/gold_nugget"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/grn3"
+        },
+        "threshold": 212211
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/grn2"
+        },
+        "threshold": 212212
+      }
     ]
+  }
 }

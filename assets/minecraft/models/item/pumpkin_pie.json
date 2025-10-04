@@ -1,10 +1,27 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/pumpkin_pie"
-  },
-    "overrides": [
-        	{"predicate": {"custom_model_data": 2053},"model": "_custom/lihco/food/plum_pie"},
-		{"predicate": {"custom_model_data": 222053},"model": "_custom/smirnoveta/food/small_cake"}
-	]
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/pumpkin_pie"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/food/plum_pie"
+        },
+        "threshold": 2053
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/smirnoveta/food/small_cake"
+        },
+        "threshold": 222053
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 34,
-        "description": [ {"text": "Ресурспак сервера StarCluster", "color": "#6434c4"} ]
+        "pack_format": 64,
+        "description": "StarCluster resource pack"
     }
 }

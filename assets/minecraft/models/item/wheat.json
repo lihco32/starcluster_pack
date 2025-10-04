@@ -1,11 +1,34 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/wheat"
-  },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "_custom/lihco/alco/pyvo_catalyst"},
-	{"predicate": {"custom_model_data": 2},"model": "_custom/lihco/alco/berry_catalyst"},
-	{"predicate": {"custom_model_data": 3},"model": "_custom/lihco/alco/dark_pyvo_catalyst"}
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wheat"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/pyvo_catalyst"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/berry_catalyst"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/alco/dark_pyvo_catalyst"
+        },
+        "threshold": 3
+      }
     ]
+  }
 }
