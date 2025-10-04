@@ -1,16 +1,36 @@
 {
-    "parent": "item/handheld_rod",
-    "textures": {
-        "layer0": "item/fishing_rod"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "item/fishing_rod_cast"
-        },
-	{ "predicate": { "custom_model_data": 1005458 }, "model": "_custom/shkarpy/fishing_reward" },
-	{ "predicate": { "custom_model_data": 1005458, "cast": 1 }, "model": "_custom/shkarpy/fishing_reward_cast" }
-    ]
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:condition",
+			"property": "minecraft:fishing_rod/cast",
+			"on_false": {
+			  "type": "minecraft:model",
+			  "model": "minecraft:item/fishing_rod"
+			},
+			"on_true": {
+			  "type": "minecraft:model",
+			  "model": "minecraft:item/fishing_rod_cast"
+			}
+		  },
+		"entries": [
+			{
+				"threshold": 1005458,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:fishing_rod/cast",
+					"on_false": {
+					  "type": "minecraft:model",
+					  "model": "minecraft:_custom/shkarpy/fishing_reward"
+					},
+					"on_true": {
+					  "type": "minecraft:model",
+					  "model": "minecraft:_custom/shkarpy/fishing_reward_cast"
+					}
+				}
+			}
+		]
+	}
 }

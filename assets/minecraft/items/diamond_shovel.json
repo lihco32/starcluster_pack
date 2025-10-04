@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/diamond_showel"
+      "model": "minecraft:item/diamond_shovel"
     },
     "entries": [
       {

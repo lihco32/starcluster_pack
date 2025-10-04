@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/netherite_showel"
+      "model": "minecraft:item/netherite_shovel"
     },
     "entries": [
        {
