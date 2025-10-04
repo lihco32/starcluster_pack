@@ -8,6 +8,27 @@
 		"model": "minecraft:item/white_dye"
 	  },
 	  "entries": [
+     {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/fox_painting2"
+		  },
+		  "threshold": 22506
+		},
+     {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/fox_painting1"
+		  },
+		  "threshold": 22507
+		},
+     {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/quest_board"
+		  },
+		  "threshold": 22508
+		},
 		{
 		  "model": {
 			"type": "minecraft:model",

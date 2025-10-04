@@ -8,6 +8,20 @@
 		"model": "minecraft:item/netherite_sword"
 	  },
 	  "entries": [
+    {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/maya_rapier"
+		  },
+		  "threshold": 694184
+		},
+      {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/maya_sword"
+		  },
+		  "threshold": 694185
+		},
 		{
 		  "model": {
 			"type": "minecraft:model",

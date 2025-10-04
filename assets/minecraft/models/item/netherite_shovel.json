@@ -8,6 +8,13 @@
       "model": "minecraft:item/netherite_showel"
     },
     "entries": [
+       {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/maya_shovel"
+        },
+        "threshold": 699191
+      },
       {
         "model": {
           "type": "minecraft:model",

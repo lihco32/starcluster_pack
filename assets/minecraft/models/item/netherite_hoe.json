@@ -11,6 +11,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/maya_hoe"
+        },
+        "threshold": 1414143
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:_custom/kovbasa/verbova_gilka"
         },
         "threshold": 1414144

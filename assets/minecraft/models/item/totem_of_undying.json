@@ -8,6 +8,27 @@
 		"model": "minecraft:item/totem_of_undying"
 	  },
 	  "entries": [
+      {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/lolmao/ruber_totem"
+		  },
+		  "threshold": 504
+		},
+     {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/reushi/totems/mob"
+		  },
+		  "threshold": 505
+		},
+     {
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/smirnoveta/totems/shkarpy"
+		  },
+		  "threshold": 506
+		},
 		{
 		  "model": {
 			"type": "minecraft:model",

@@ -18,6 +18,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "minecraft:_custom/lolmao/golden_bread"
+        },
+        "threshold": 352462
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:_custom/smirnoveta/food/baguette"
         },
         "threshold": 352463

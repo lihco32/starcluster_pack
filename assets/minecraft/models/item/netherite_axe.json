@@ -11,6 +11,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "minecraft:_custom/_custom/lolmao/maya_axe"
+        },
+        "threshold": 694188
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:_custom/lihco/whaxe/whaxe_orange"
         },
         "threshold": 694189
