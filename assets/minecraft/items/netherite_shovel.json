@@ -8,6 +8,13 @@
       "model": "minecraft:item/netherite_shovel"
     },
     "entries": [
+		{
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/lihco/spleef_2026"
+        },
+        "threshold": 699190
+       },
        {
         "model": {
           "type": "minecraft:model",

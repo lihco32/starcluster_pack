@@ -553,6 +553,7 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/fox_painting1"},
 	{"type": "single","resource": "minecraft:_custom/fallout/fox_painting2"},
 	{"type": "single","resource": "minecraft:_custom/rewards/shkarpy_fishing_rod"},
-	{"type": "single","resource": "minecraft:_custom/rewards/shkarpy_fishing_rod_cast"}
+	{"type": "single","resource": "minecraft:_custom/rewards/shkarpy_fishing_rod_cast"},
+	{"type": "single","resource": "minecraft:_custom/spleef_2026"}
     ]
 }
