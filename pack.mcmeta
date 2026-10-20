@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 69,
+        "pack_format": 88,
         "description": "StarCluster resource pack",
         "supported_formats": {
-            "min_inclusive": 69,
+            "min_inclusive": 88,
             "max_inclusive": 88
         }
     }
