@@ -28,6 +28,13 @@
           "model": "minecraft:_custom/lihco/scythe"
         },
         "threshold": 1414145
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kovbasa/ham_bat"
+        },
+        "threshold": 1414146
       }
     ]
   }

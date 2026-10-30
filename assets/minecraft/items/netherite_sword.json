@@ -182,6 +182,13 @@
 			"model": "minecraft:_custom/vanyaka/zabuza_sword"
 		  },
 		  "threshold": 1010002
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:_custom/kovbasa/sickle_of_wild_filds"
+		  },
+		  "threshold": 202629102
 		}
 	  ]
 	}
