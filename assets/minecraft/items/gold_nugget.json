@@ -21,6 +21,20 @@
           "model": "minecraft:_custom/grn2"
         },
         "threshold": 212212
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kovbasa/gold_svynia"
+        },
+        "threshold": 212214
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kovbasa/copper_svynia"
+        },
+        "threshold": 212215
       }
     ]
   }

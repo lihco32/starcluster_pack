@@ -42,6 +42,13 @@
           "model": "minecraft:_custom/kop2"
         },
         "threshold": 212212
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:_custom/kovbasa/iron_svynia"
+        },
+        "threshold": 212213
       }
     ]
   }
