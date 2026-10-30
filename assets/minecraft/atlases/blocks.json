@@ -554,6 +554,13 @@
 	{"type": "single","resource": "minecraft:_custom/fallout/fox_painting2"},
 	{"type": "single","resource": "minecraft:_custom/rewards/shkarpy_fishing_rod"},
 	{"type": "single","resource": "minecraft:_custom/rewards/shkarpy_fishing_rod_cast"},
-	{"type": "single","resource": "minecraft:_custom/spleef_2026"}
+	{"type": "single","resource": "minecraft:_custom/spleef_2026"},
+	{"type": "single","resource": "minecraft:_custom/gold_svynia"},
+	{"type": "single","resource": "minecraft:_custom/copper_svynia"},
+	{"type": "single","resource": "minecraft:_custom/iron_svynia"},
+	{"type": "single","resource": "minecraft:_custom/ham_bat"},
+	{"type": "single","resource": "minecraft:_custom/bone_spear"},
+	{"type": "single","resource": "minecraft:_custom/sickle_of_wild_filds"},
+	{"type": "single","resource": "minecraft:_custom/pumpkin_mace"}
     ]
 }
